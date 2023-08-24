@@ -1,0 +1,14 @@
+<size=150%><color=#004B55>== 8/23/23 || Build V0.1.14 ==
+</color></size>
+
+
+<color=#FD7E53>Added the Lounge, as well as the Pool Parlor Pool Table Prefab.  (Big <3 Orend.)
+ -- Fixed the pool table as well.  We imported it like idiots.
+
+Added doors across the instance, as well as synchronization events for all of them.
+
+Started work on the Bathrooms.  Not to be confused with the Backrooms.  You'll be able to handle drunkenness in these rooms..
+
+Cleaned up some geometry across the bar.  Removed excessive audio listeners.  (Mostly backend stuffs.)
+
+Continued to incrementally improve the art, audio, and visuals of the world.
