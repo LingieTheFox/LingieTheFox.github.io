@@ -1,18 +1,19 @@
-<size=150%><color=#004B55>== 8/23/23 || Build V0.1.15 ==
+<size=150%><color=#004B55>== 8/23/23 || Build V0.1.18 ==
 </color></size>
 
+Added Patch Notes board. (The text you're looking at!)
 
-<color=#FD7E53>Added the Lounge, as well as the Pool Parlor Pool Table Prefab.  (Big <3 Orend.)
- -- Fixed the pool table as well.  We imported it like idiots.
+Added new drunkeness system.  Should work for Quest as well as PC.  This system is now a unified system, and has no difference between each client.
+
+<color=#FD7E53>Added the Lounge, as well as the Pool Parlor Pool Table Prefab.  (Big <3 to OrendCross.)
+ -- Fixed the pool table as well.  We imported it like idiots.  RTFM.
 
 Detoxicfication has been added.  Pour someone a water and they can calm down their drunkeness.
 
-Added doors across the instance, as well as synchronization events for all of them.
+Added doors across the rear of the instance, as well as synchronization events for all of them.
 
-Started work on the Bathrooms.  Not to be confused with the Backrooms.  You'll be able to handle drunkenness in these rooms..
+Started work on the Bathrooms.  Not to be confused with the Backrooms.  You'll be able to handle drunkenness in these rooms too..
 
 Cleaned up some geometry across the bar.  Removed excessive audio listeners.  (Mostly backend stuffs.)
-
-Added Patch Notes board (The text you're looking at!)
 
 Continued to incrementally improve the art, audio, and visuals of the world.
