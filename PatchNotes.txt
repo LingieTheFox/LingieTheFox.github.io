@@ -1,4 +1,4 @@
-<size=150%><color=#004B55>== 8/23/23 || Build V0.1.14 ==
+<size=150%><color=#004B55>== 8/23/23 || Build V0.1.15 ==
 </color></size>
 
 
@@ -10,5 +10,7 @@ Added doors across the instance, as well as synchronization events for all of th
 Started work on the Bathrooms.  Not to be confused with the Backrooms.  You'll be able to handle drunkenness in these rooms..
 
 Cleaned up some geometry across the bar.  Removed excessive audio listeners.  (Mostly backend stuffs.)
+
+Added Patch Notes board (The text you're looking at!)
 
 Continued to incrementally improve the art, audio, and visuals of the world.
