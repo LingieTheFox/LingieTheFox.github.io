@@ -1,19 +1,15 @@
-<size=150%><color=#004B55>== 8/23/23 || Build V0.1.18 ==
-</color></size>
+<size=150%><color=#004B55>== 8/24/23 || Build V0.1.19 ==</color></size>
 
-<color=#FD7E53>Added Patch Notes board. (The text you're looking at!)
+• FINALLY corrected the issue where the drunkeness shader for PC/PCVR was causing VRC UI elements to be visible through walls.  (And corrected it so that it didn't cause the UI to dissappear when drunk either!  This was a new bug caused earlier, fixed now.)
 
-Added new drunkeness system.  It's working for PCVR, but not Quest Standalone quite yet.  This system will be a now unified system, and has little difference between each client.
+<size=150%><color=#004B55>== 8/23/23 || Build V0.1.18 ==</color></size>
 
-Added the Lounge, as well as the Pool Parlor Pool Table Prefab.  (Big <3 to OrendCross.)
+• <color=#FD7E53>Added Patch Notes board. (The text you're looking at!)
+• Added new drunkeness system.  It's working for PCVR, but not Quest Standalone quite yet.  This system will be a now unified system, and has little difference between each client.
+• Added the Lounge, as well as the Pool Parlor Pool Table Prefab.  (Big <3 to OrendCross.)
  -- Fixed the pool table as well.  We imported it like idiots.  RTFM.</color>
-
-<color=#FF3300>Detoxicfication has been added.  Pour someone a water and they can calm down their drunkeness.  You'll need several to bring someone down from full drunkeness.</color>
-
-<color=#FD7E53>Added doors across the rear of the instance, as well as synchronization events for all of them.
-
-Started work on the Bathrooms.  Not to be confused with the Backrooms.  You'll be able to handle drunkenness in these rooms too..
-
-Cleaned up some geometry across the bar.  Removed excessive audio listeners.  (Mostly backend stuffs.)
-
-Continued to incrementally improve the art, audio, and visuals of the world.</color>
+<color=#FF3300>• Detoxicfication has been added.  Pour someone a water and they can calm down their drunkeness.  You'll need several to bring someone down from full drunkeness.</color>
+<color=#FD7E53>• Added doors across the rear of the instance, as well as synchronization events for all of them.
+• Started work on the Bathrooms.  Not to be confused with the Backrooms.  You'll be able to handle drunkenness in these rooms too..
+• Cleaned up some geometry across the bar.  Removed excessive audio listeners.  (Mostly backend stuffs.)
+• Continued to incrementally improve the art, audio, and visuals of the world.</color>
