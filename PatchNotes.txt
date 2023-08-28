@@ -1,3 +1,8 @@
+<size=150%><color=#004B55>== 8/27/23 || Build V0.1.23 ==</color></size>
+• <color=#FD7E53>The Quest/Android build drunkeness system is in 100%!</color>
+• <color=#FD7E53>All four environments now have working drunkiness visuals.  (PC, PCVR, Quest, Android Mobile.)</color>
+• <color=#FD7E53>It's very possible that our sound effects for drunkiness are now fully functional as well.  We'll know if they aren't.</color>
+
 <size=150%><color=#004B55>== 8/24/23 || Build V0.1.19 ==</color></size>
 
 • FINALLY corrected the issue where the drunkeness shader for PC/PCVR was causing VRC UI elements to be visible through walls.  (And corrected it so that it didn't cause the UI to dissappear when drunk either!  This was a new bug caused earlier, fixed now.)
