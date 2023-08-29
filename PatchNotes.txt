@@ -1,3 +1,12 @@
+<size=150%><color=#004B55>== 8/28/23 || Build V0.1.24 ==</color></size>
+• <color=#FD7E53>Global cooldown for button pressing on BT9K1. Should solve double pressing once and for all.</color>
+• <color=#FD7E53>Reset button added to BT9K1.  [Function added on Eject button.]</color>
+• <color=#FD7E53>New demo functions added.  Will reveal more soon.™</color>
+• <color=#FD7E53>Added an error check for the new playerdata system.  Should prevent duplicate entries for managers.</color>
+• <color=#FD7E53>Empty entries in player list now turned off.  Entries are listed chronologically.  Should help managers!</color>
+• <color=#FD7E53>Fixed a serious issue with the reverb zone.  Audio should be crisper, punchier, and respond properly.</color>
+• <color=#FD7E53>Music AutoPlay was added after an autoplaying URL would resolve as an error.</color>
+
 <size=150%><color=#004B55>== 8/27/23 || Build V0.1.23 ==</color></size>
 • <color=#FD7E53>The Quest/Android build drunkeness system is in 100%!</color>
 • <color=#FD7E53>All four environments now have working drunkiness visuals.  (PC, PCVR, Quest, Android Mobile.)</color>
