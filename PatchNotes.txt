@@ -8,4 +8,5 @@
 • <color=#FD7E53>Finger collision should no longer push the entire button in on the drink machine.</color>
 • <color=#FD7E53>Bar ownership transferring will actually remove BarOwnership from the previous player.  Currently there is no way to reassign owner apart from leaving the instance however.</color>
 • <color=#FD7E53>Fixed an oversight where the time on the scrolling text marquee above the bar would not update the actual time unless there was a staff roster change.  Whoops!</color>
+• <color=#FD7E53>Added several new reflection probes.  An option to disable reflections will be added in the next build.</color>
 • <color=#FD7E53>Various backend fixes, as well as completely unseen admin debugging tool fixes.</color>
