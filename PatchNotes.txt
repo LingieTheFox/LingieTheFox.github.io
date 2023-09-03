@@ -1,3 +1,8 @@
+<size=150%><color=#004B55>== 8/28/23 || Build V0.1.29 ==</color></size>
+• <color=#FD7E53>Fixed fingertip colliders so they don't immediately require recalibration.</color>
+• <color=#FD7E53>Added five new doodads to the world.</color>
+• <color=#FD7E53>Added missing Reflection Probes to enhance reflections in areas.</color>
+
 <size=150%><color=#004B55>== 8/28/23 || Build V0.1.28 "Bug Fixes Galore" ==</color></size>
 • <color=#FD7E53>Marquee now shows (VIP), (Owner), and (Creator) tags, and the system was cleaned up.</color>
 • <color=#FD7E53>Bartender Computer has calibration settings for the finger colliders, allowing you to position them better!</color>
