@@ -1,4 +1,10 @@
-<size=150%><color=#004B55>== 8/28/23 || Build V0.1.29 ==</color></size>
+<size=150%><color=#004B55>== 8/28/23 || Build V0.1.31 "Reverberated Player Voices!" ==</color></size>
+• <color=#FD7E53>(FINALLY) Added player voices to the reverberation effect, though intesive testing should be done.</color>
+• <color=#FD7E53>Added bathroom sinks and updated the bar sink to be larger.</color>
+• <color=#FD7E53>Fixed audio sources for the streaming audio sources, making them 2D rather than 3d and tiny.</color>
+• <color=#FD7E53>Fixed local time not being spaced correctly for the text Marquee above the bar.</color>
+
+<size=75%><size=150%><color=#004B55>== 8/28/23 || Build V0.1.29 ==</color></size>
 • <color=#FD7E53>Fixed fingertip colliders so they don't immediately require recalibration.</color>
 • <color=#FD7E53>Added five new doodads to the world.</color>
 • <color=#FD7E53>Added missing Reflection Probes to enhance reflections in areas.</color>
@@ -14,4 +20,4 @@
 • <color=#FD7E53>Bar ownership transferring will actually remove BarOwnership from the previous player.  Currently there is no way to reassign owner apart from leaving the instance however.</color>
 • <color=#FD7E53>Fixed an oversight where the time on the scrolling text marquee above the bar would not update the actual time unless there was a staff roster change.  Whoops!</color>
 • <color=#FD7E53>Added several new reflection probes.  An option to disable reflections will be added in the next build.</color>
-• <color=#FD7E53>Various backend fixes, as well as completely unseen admin debugging tool fixes.</color>
+• <color=#FD7E53>Various backend fixes, as well as completely unseen admin debugging tool fixes.</color></size>
