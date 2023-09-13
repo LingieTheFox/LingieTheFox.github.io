@@ -1,23 +1,13 @@
+<size=150%><color=#004B55>== 8/28/23 || Build V0.1.33 Optimization Pass / Spin The Bottle ==</color></size>
+• <color=#FD7E53>Lingie did it.  Finally updated the world with an optimization pass.  Meshes merged, texture sizes dropped, all that noise.  You should expect higher frame rates by default now.</color>
+• <color=#FD7E53>We added a "Toggle Probes" button on the temporary options board at the top of the ramp at the entrance to the bar.  This will disable worldspace reflections, and can give back some frames.  Toggling Post Processing will also help!</color>
+• <color=#FD7E53>Riney has been hard at work on a Spin The Bottle Prefab for Sunset and other worlds going forwards.  It's basic, but it's soon to be feature rich!  Feel free to give it a go, and let Lingie know if it breaks.</color>
+• <color=#FD7E53>Decorated the world with posters of one of our collaborators, Elevated.  They're going to push some event traffic through, so be sure to check that out!</color>
+• <color=#FD7E53>Various bug fixes, art differences, model updates, and sound modifications.</color>
+• <color=#FD7E53>("Continued to incrementally improve the art, effects, environments and sound")</color>
+
 <size=150%><color=#004B55>== 8/28/23 || Build V0.1.30 "Reverberated Player Voices!" ==</color></size>
 • <color=#FD7E53>(FINALLY) Added player voices to the reverberation effect, though intesive testing should be done.</color>
 • <color=#FD7E53>Added bathroom sinks and updated the bar sink to be larger.</color>
 • <color=#FD7E53>Fixed audio sources for the streaming audio sources, making them 2D rather than 3d and tiny.</color>
 • <color=#FD7E53>Fixed local time not being spaced correctly for the text Marquee above the bar.</color>
-
-<size=75%><size=150%><color=#004B55>== 8/28/23 || Build V0.1.29 ==</color></size>
-• <color=#FD7E53>Fixed fingertip colliders so they don't immediately require recalibration.</color>
-• <color=#FD7E53>Added five new doodads to the world.</color>
-• <color=#FD7E53>Added missing Reflection Probes to enhance reflections in areas.</color>
-
-<size=150%><color=#004B55>== 8/28/23 || Build V0.1.28 "Bug Fixes Galore" ==</color></size>
-• <color=#FD7E53>Marquee now shows (VIP), (Owner), and (Creator) tags, and the system was cleaned up.</color>
-• <color=#FD7E53>Bartender Computer has calibration settings for the finger colliders, allowing you to position them better!</color>
-• <color=#FD7E53>Possible fix for drink sync.</color>
-• <color=#FD7E53>Finger collider calibration in the BC, including toggle state for finger colliders, and the ability to reposition them.  Right now we're looking at one axis of movement only.</color>
-• <color=#FD7E53>Assistant Manager should no longer crash the main script.</color>
-• <color=#FD7E53>DJ is automatically assigned to players who have a higher permission level than what is granted by DJ.</color>
-• <color=#FD7E53>Finger collision should no longer push the entire button in on the drink machine.</color>
-• <color=#FD7E53>Bar ownership transferring will actually remove BarOwnership from the previous player.  Currently there is no way to reassign owner apart from leaving the instance however.</color>
-• <color=#FD7E53>Fixed an oversight where the time on the scrolling text marquee above the bar would not update the actual time unless there was a staff roster change.  Whoops!</color>
-• <color=#FD7E53>Added several new reflection probes.  An option to disable reflections will be added in the next build.</color>
-• <color=#FD7E53>Various backend fixes, as well as completely unseen admin debugging tool fixes.</color></size>
