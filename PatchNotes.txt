@@ -1,23 +1,22 @@
-<size=150%><color=#004B55>== 9/14/23 || Build V0.1.33a Hotfixes/Corrections ==</color></size>
-• <color=#FD7E53>Mesh cleanup caused unwanted issues, we are aware of a current issue where drinks are no longer colliding with furniture and tables.  New coliders will be added in the future to correct this.</color>
+<size=200%><color=#004B55>== 11/8/23 || Build V0.1.40 - Post Halloween ==</color></size>
+<size=150%>[ New Features ]</size>
 
-That said..
+• <color=#FD7E53>Added the <color=#004B55>Experience Tab</color> for the General Manager.  New features are going to start showing up in here for the Management to change the experience of the bar.</color>
+• -- <color=#FD7E53>You can now set the world to <color=#004B55>verification required</color> access in the <color=#004B55>Experience Tab</color>, if you are the General Manager.</color>
+• <color=#FD7E53>Added the <color=#004B55>Security Tab</color>.  Security functions are being actively added piece by piece, but the available functions are all shown as buttons already, so you'll know what to expect!</color>
+• -- <color=#FD7E53>Security and Management can tag users as <color=#004B55>Verified</color> which will allow them through the invisible gate at the front doors, if the <color=#004B55>Verification Requirement Button</color> has been toggled on in the Experience tab.</color>
+• <color=#FD7E53>You can now drink your drinks by bringing the glass to your face!  ('Cause it's what we do.)</color>
+• <color=#FD7E53>The world is getting larger, and we know that this may cause some concern with optimization.  Fear not!  As with the previous work, all areas are being constructed in ways that they'll be efficiently occluded.</color>
+• -- <color=#FD7E53>That said, theres a new wrapped around hallway that will have comfort areas and private rooms in the future.  As well, we made the hallway leading back to the Sundown Lounge a lot cleaner and nicer, and subdivided it!</color>
+• -- <color=#FD7E53>Aformentioned areas include <color=#004B55>"The Memory Vault," "The Calendar Room," and a future "Lore Room."</color>  These rooms will all have interactive properties going forward, including a photo booth, and an interactive Events calendar for future events!</color>
+• <color=#FD7E53>The Sundown Lounge now has an interactive floor.  DJs and Management can open and close the floor, exposing another Video Player, as well as shader-glass floor.  This'll totally be AudioLink'd in the future.  :D</color>
+• <color=#FD7E53>Added a bloom, and a brightness slider for PCVR/PC Standalone.  (Sorry Quest, once we can use Post Processing for Quest, you'll be in there too!  :<)</color>
+• <color=#FD7E53>We finally made the bathroom usable in it's most basic of forms!  You can, if you're intoxicated, use the toilets now to "Purge."</color>
 
-• <color=#FD7E53>We've moved the options panel and buttons from outside the main ramp, to inside the bar.  It's existed all along, we swear!</color>
-• <color=#FD7E53>Reflection Probe toggle has been added for Baked Probes.  By default, they are OFF on quest.  This can give a performace boost to disable on PC.</color>
-• <color=#FD7E53>Bug fix for drinks warping with velocity should fix drinks randomly appearing in the backroom.</color>
-• <color=#FD7E53>Rooms now mute people inside them contextually, and will see if door is open to the room so normal volumes can exist.  There may still be an outlying issue where players can still be heard inside, so don't use these as end all, be all private rooms.</color>
-• <color=#FD7E53>Adjusted Marquee update speed, hopefully will adjust performance of users positively.</color>
-• <color=#FD7E53>Occlusion Culling is now in effect.  You should see better frame rates overall.</color>
-• <color=#FD7E53>Various fixes for Spin The Bottle.</color>
+<size=150%>[ Bug Fixes ]</size>
 
-• <color=#FD7E53>Technical side of things:  We've reduced Draw Calls by roughly 30~66% in most areas.  There are large geometry updates to follow that will improve things further.</color>
-
-
-<size=150%><color=#004B55>== 9/12/23 || Build V0.1.33 Optimization Pass / Spin The Bottle ==</color></size>
-• <color=#FD7E53>Lingie did it.  Finally updated the world with an optimization pass.  Meshes merged, texture sizes dropped, all that noise.  You should expect higher frame rates by default now.</color>
-• <color=#FD7E53>We added a "Toggle Probes" button on the temporary options board at the top of the ramp at the entrance to the bar.  This will disable worldspace reflections, and can give back some frames.  Toggling Post Processing will also help!</color>
-• <color=#FD7E53>Riney has been hard at work on a Spin The Bottle Prefab for Sunset and other worlds going forwards.  It's basic, but it's soon to be feature rich!  Feel free to give it a go, and let Lingie know if it breaks.</color>
-• <color=#FD7E53>Decorated the world with posters of one of our collaborators, Elevated.  They're going to push some event traffic through, so be sure to check that out!</color>
-• <color=#FD7E53>Various bug fixes, art differences, model updates, and sound modifications.</color>
-• <color=#FD7E53>("Continued to incrementally improve the art, effects, environments and sound")</color>
+• <color=#FD7E53>Corrected the drink machine so that users on Quest can now see color differences between un-selected/selected/unselectable buttons.</color>
+• <color=#FD7E53>Fixed the doors in the back Office from being unable to be opened on PC Standalone.</color>
+• <color=#FD7E53>DJ wall, and Video Player should be synced across all clients, and across the instance.</color>
+• <color=#FD7E53>Water was made more usable.  Some considered this a bug, so we're leaving it here.  You should only need to drink a third of what you needed to before.  (One complete glass of water will remove 90% of the drunkness effect over a short time.)</color>
+• <color=#FD7E53>Lingie finally edited the models in the instance and made them more viewable.  (For those Blender-informed, I added Auto-Smoothing to every model, and actually learned how to use "Sharps."  Special thanks to KillFrenzy for setting me on the right path on this one.</color>

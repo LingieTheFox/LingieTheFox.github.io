@@ -1,0 +1,23 @@
+<size=150%><color=#004B55>== 9/14/23 || Build V0.1.33a Hotfixes/Corrections ==</color></size>
+• <color=#FD7E53>Mesh cleanup caused unwanted issues, we are aware of a current issue where drinks are no longer colliding with furniture and tables.  New coliders will be added in the future to correct this.</color>
+
+That said..
+
+• <color=#FD7E53>We've moved the options panel and buttons from outside the main ramp, to inside the bar.  It's existed all along, we swear!</color>
+• <color=#FD7E53>Reflection Probe toggle has been added for Baked Probes.  By default, they are OFF on quest.  This can give a performace boost to disable on PC.</color>
+• <color=#FD7E53>Bug fix for drinks warping with velocity should fix drinks randomly appearing in the backroom.</color>
+• <color=#FD7E53>Rooms now mute people inside them contextually, and will see if door is open to the room so normal volumes can exist.  There may still be an outlying issue where players can still be heard inside, so don't use these as end all, be all private rooms.</color>
+• <color=#FD7E53>Adjusted Marquee update speed, hopefully will adjust performance of users positively.</color>
+• <color=#FD7E53>Occlusion Culling is now in effect.  You should see better frame rates overall.</color>
+• <color=#FD7E53>Various fixes for Spin The Bottle.</color>
+
+• <color=#FD7E53>Technical side of things:  We've reduced Draw Calls by roughly 30~66% in most areas.  There are large geometry updates to follow that will improve things further.</color>
+
+
+<size=150%><color=#004B55>== 9/12/23 || Build V0.1.33 Optimization Pass / Spin The Bottle ==</color></size>
+• <color=#FD7E53>Lingie did it.  Finally updated the world with an optimization pass.  Meshes merged, texture sizes dropped, all that noise.  You should expect higher frame rates by default now.</color>
+• <color=#FD7E53>We added a "Toggle Probes" button on the temporary options board at the top of the ramp at the entrance to the bar.  This will disable worldspace reflections, and can give back some frames.  Toggling Post Processing will also help!</color>
+• <color=#FD7E53>Riney has been hard at work on a Spin The Bottle Prefab for Sunset and other worlds going forwards.  It's basic, but it's soon to be feature rich!  Feel free to give it a go, and let Lingie know if it breaks.</color>
+• <color=#FD7E53>Decorated the world with posters of one of our collaborators, Elevated.  They're going to push some event traffic through, so be sure to check that out!</color>
+• <color=#FD7E53>Various bug fixes, art differences, model updates, and sound modifications.</color>
+• <color=#FD7E53>("Continued to incrementally improve the art, effects, environments and sound")</color>
