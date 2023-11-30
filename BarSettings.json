@@ -9,14 +9,16 @@
             "Bars": [ 0, 3 ],
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
-            "PermLevel": 10
+            "PermLevel": 10,
+            "DVC21": true
         },
         "Riney": {
             "Active": true,
             "Bars": [ 0, 1, 3 ],
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
-            "PermLevel": 10
+            "PermLevel": 10,
+            "DVC21": true
         },
         "cheese in a bag": {
             "Active": true,
