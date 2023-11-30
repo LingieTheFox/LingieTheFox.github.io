@@ -1,1 +1,0 @@
-{"Riney": "1", "Lingie": "2", "Rindo": "3", "Bars": {"1": "Riney's Midnight Cafe", "2": "Lingie's Cave"}}
