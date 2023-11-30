@@ -1,12 +1,31 @@
 {
     "BarList": {
-        "1": "Lingie's Cave",
-        "2": "Riney's Midnight Cafe",
-        "3": "Another Place",
-        "4": "4th Place"
+        "0": "Lingie's Cave",
+        "1": "Riney's Midnight Cafe"
     },
-    "Owners": {
-        "Lingie": [ 1, 2 ],
-        "Riney": [ 1, 2, 4 ]
+    "Players": {
+        "Lingie": {
+            "Active": true,
+            "Bars": [ 0, 3 ],
+            "Color": "ff4d00",
+            "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
+            "PermLevel": 10
+        },
+        "Riney": {
+            "Active": true,
+            "Bars": [ 0, 1, 3 ],
+            "Color": "674AE2",
+            "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
+            "PermLevel": 10
+        },
+        "cheese in a bag": {
+            "Active": true,
+            "Color": "7a09c8",
+            "JoinMessage": "<Now Entering <color=#7a09c8>Izuki Moon</color>, who totally is not a vtuber XD>"
+        }
+    },
+    "GlobalMessage": {
+        "Version": 0,
+        "Message": "No Message"
     }
 }
