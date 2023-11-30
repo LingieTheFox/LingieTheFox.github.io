@@ -1,10 +1,12 @@
 {
     "BarList": {
         "1": "Lingie's Cave",
-        "2": "Riney's Midnight Cafe"
+        "2": "Riney's Midnight Cafe",
+        "3": "Another Place",
+        "4": "4th Place"
     },
     "Owners": {
         "Lingie": [ 1, 2 ],
-        "Riney": [ 1, 2 ]
+        "Riney": [ 1, 2, 4 ]
     }
 }
