@@ -1,10 +1,1 @@
-{
-    "Owners": {
-        "Lingie": 1,
-        "Riney": 2
-    },
-    "Bars": {
-        "1": "Riney's Midnight Cafe",
-        "2": "Lingie's Cave"
-    }
-}
+{"Owners":{"Lingie":1,"Riney":2},"Bars":{"1":"Lingie's Cave","2":"Riney's Midnight Cafe"}}
