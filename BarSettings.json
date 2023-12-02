@@ -43,6 +43,7 @@
         },
         "KillFrenzy": {
             "Active": true,
+            "Color": "00D0FF",
             "PermLevel": 9,
             "DVC21": true
         },
