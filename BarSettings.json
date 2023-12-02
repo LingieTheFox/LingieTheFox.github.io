@@ -28,6 +28,7 @@
         "Driven_Cleo": {
             "Active": true,
             "PermLevel": 9,
+            "Color": "333333",
             "DVC21": true
         },
         "Savy Strawberry": {
