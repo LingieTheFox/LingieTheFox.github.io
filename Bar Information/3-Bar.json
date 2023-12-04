@@ -1,0 +1,26 @@
+{
+    "Players": {
+        "Lingie": "S7",
+        "Riney": "S6",
+        "Driven_Cleo": "S6",
+        "Yee-ti Mcgee": "S6",
+        "KillFrenzy": "S6",
+        "morbidlydolly": "S6",
+        "wolfcry91196": "S6",
+        "Dacon": "S6"
+    },
+    "Recipes": {
+
+    },
+    "DrinkSkins": [ 0 ],
+    "CustomJoinMessage": "",
+    "DefaultBarLayout": 0,
+    "ColorPicker": true,
+    "VerifyOnStart": true,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": false,
+    "UseDVC21Plus": false,
+    "ReplaceGroupBanners": false,
+    "ReplacePhotoBanners": false,
+    "IsActive": true
+}
