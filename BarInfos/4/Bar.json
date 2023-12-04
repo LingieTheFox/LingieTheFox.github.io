@@ -1,13 +1,13 @@
 {
     "Players": {
-        "Lingie": "S7",
-        "Riney": "S6",
-        "Driven_Cleo": "S6",
-        "Yee-ti Mcgee": "S6",
-        "KillFrenzy": "S6",
-        "morbidlydolly": "S6",
-        "wolfcry91196": "S6",
-        "Dacon": "S6"
+        "cheese in a bag": "S7",
+        "CloudyCrown": "S4",
+        "Donnelly": "B4",
+        "TinyColt": "S4",
+        "Michebelle": "S4",
+        "Coffee Jelly": "S4",
+        "Drake-O-Kid d299": "B4",
+        "Mimi_vercelli": "S4"
     },
     "Recipes": {
 
@@ -15,7 +15,7 @@
     "DrinkSkins": [ 0 ],
     "CustomJoinMessage": "",
     "DefaultBarLayout": 0,
-    "ColorPicker": true,
+    "ColorPicker": false,
     "VerifyOnStart": true,
     "AllowDVCStaff": true,
     "UseDVC18Plus": false,
