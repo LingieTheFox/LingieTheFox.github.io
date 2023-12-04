@@ -1,8 +1,8 @@
 {
-    "BarList": {
-        "0": "Lingie's Cave",
-        "1": "Riney's Midnight Cafe"
-    },
+    "BarList": [
+        "Lingie's Cave",
+        "Riney's Midnight Cafe"
+    ],
     "Players": {
         "Lingie": {
             "Active": true,
