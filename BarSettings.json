@@ -77,6 +77,12 @@
             "Bars": [ 4 ],
             "Color": "7a09c8",
             "JoinMessage": "<Now Entering <color=#7a09c8>Izuki Moon</color>, who totally is not a vtuber XD>"
+        },
+        "Sparklcat": {
+            "Active": true,
+            "Bars": [ 5 ],
+            "Color": "FFFFFF",
+            "JoinMessage": "Not configured."
         }
     },
     "GlobalMessage": {
