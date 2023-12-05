@@ -81,7 +81,7 @@
         "Sparklcat": {
             "Active": true,
             "Bars": [ 5 ],
-            "Color": "FFFFFF",
+            "Color": "ffccff",
             "JoinMessage": "Not configured."
         }
     },
