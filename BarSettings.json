@@ -72,6 +72,11 @@
             "PermLevel": 7,
             "DVC18": true
         },
+        "FirecatStudios": {
+            "Active": true,
+            "Color": "FF0000",
+            "JoinMessage": "Not Configured"
+        },
         "cheese in a bag": {
             "Active": true,
             "Bars": [ 4 ],
