@@ -72,6 +72,11 @@
             "PermLevel": 7,
             "DVC18": true
         },
+        "Dacon": {
+            "Active": true,
+            "Color": "8000FF",
+            "JoinMessage": "Not Configured"
+        },
         "FirecatStudios": {
             "Active": true,
             "Color": "FF0000",
