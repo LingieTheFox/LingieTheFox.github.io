@@ -6,7 +6,7 @@
         "Madgee's Bar",
         "Izuki's Monster Girl Bar",
         "CY-BAR",
-        "Firecat's Bar"
+        "Blue Rose Garden"
     ],
     "Players": {
         "Lingie": {
@@ -79,6 +79,7 @@
         },
         "FirecatStudios": {
             "Active": true,
+            "Bars": [ 6 ],
             "Color": "FF0000",
             "JoinMessage": "Not Configured"
         },

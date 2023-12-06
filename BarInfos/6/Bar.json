@@ -1,0 +1,19 @@
+{
+    "Players": {
+        "FirecatStudios": "S7"
+    },
+    "Recipes": {
+
+    },
+    "DrinkSkins": [ 0 ],
+    "CustomJoinMessage": "",
+    "DefaultBarLayout": 0,
+    "ColorPicker": true,
+    "VerifyOnStart": true,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": false,
+    "UseDVC21Plus": false,
+    "ReplaceGroupBanners": false,
+    "ReplacePhotoBanners": false,
+    "IsActive": true
+}
