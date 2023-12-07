@@ -3,7 +3,7 @@
         "Lingie's Cave",
         "Riney's Midnight Cafe",
         "Yumiko's Bar",
-        "Madgee's Bar",
+        "The Dionysian Bar",
         "Izuki's Monster Girl Bar",
         "CY-BAR",
         "Blue Rose Garden"
@@ -90,19 +90,22 @@
             "JoinMessage": "<Now Entering <color=#7a09c8>Izuki Moon</color>, who totally is not a vtuber XD>"
         },
         "jagi sama": {
-            "Bars": [ 4 ],
+            "Bars": [ 4 ]
         },
         "Zetashirken": {
-            "Bars": [ 4 ],
+            "Bars": [ 4 ]
         },
         "Agux909": {
-            "Bars": [ 4 ],
+            "Bars": [ 4 ]
         },
         "Tai420": {
-            "Bars": [ 4 ],
+            "Bars": [ 4 ]
         },
         "Captin_redbeard": {
-            "Bars": [ 4 ],
+            "Bars": [ 4 ]
+        },
+        "Madgee93": {
+            "Bars": [ 3 ]
         },
         "Sparklcat": {
             "Active": true,
