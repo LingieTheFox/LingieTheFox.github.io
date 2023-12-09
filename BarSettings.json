@@ -14,6 +14,7 @@
             "Bars": [ 0, 1, 2, 3, 4, 5, 6 ],
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
+            "PermLevel": 10,
             "DVC21": true
         },
         "Riney": {
@@ -21,6 +22,7 @@
             "Bars": [ 0, 1, 2, 3, 4, 5, 6 ],
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
+            "PermLevel": 10,
             "DVC21": true
         },
         "Yee-Ti Mcgee": {
