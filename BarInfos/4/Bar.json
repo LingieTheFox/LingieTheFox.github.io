@@ -15,13 +15,16 @@
         "Mimi_vercelli": "S4",
         "Pryxi Blue": "B4",
         "df13": "S4",
-        "MelodyMCFan": "S4",
+        "MelodyMCFan": "S4"
     },
     "Recipes": {
 
     },
     "DrinkSkins": [ 0 ],
     "CustomJoinMessage": "",
+    "Playlist1Name": "",
+    "Playlist2Name": "",
+    "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
