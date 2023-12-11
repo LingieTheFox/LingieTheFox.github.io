@@ -40,13 +40,13 @@
         },
         "Savy Strawberry": {
             "Active": true,
-            "Color": "#904cb0",
+            "Color": "904cb0",
             "PermLevel": 9,
             "DVC21": true
         },
         "morbidlydolly": {
             "Active": true,
-            "Color": "#F48CFF",
+            "Color": "F48CFF",
             "PermLevel": 9,
             "DVC21": true
         },
