@@ -28,6 +28,7 @@
         },
         "Yee-Ti Mcgee": {
             "Active": true,
+            "Color": "FF6600",
             "PermLevel": 9,
             "DVC21": true
         },
@@ -39,11 +40,13 @@
         },
         "Savy Strawberry": {
             "Active": true,
+            "Color": "#904cb0",
             "PermLevel": 9,
             "DVC21": true
         },
         "morbidlydolly": {
             "Active": true,
+            "Color": "#F48CFF",
             "PermLevel": 9,
             "DVC21": true
         },
@@ -56,21 +59,25 @@
         "Gobit": {
             "Active": true,
             "PermLevel": 9,
+            "Color": "FF6600",
             "DVC21": true
         },
         "Savvy Chap": {
             "Active": true,
             "PermLevel": 7,
+            "Color": "FF6600",
             "DVC18": true
         },
         "Disenfranchised": {
             "Active": true,
             "PermLevel": 7,
+            "Color": "FF6600",
             "DVC21": true
         },
         "S̷a̷m̷u̷e̷l̷": {
             "Active": true,
             "PermLevel": 7,
+            "Color": "FF6600",
             "DVC18": true
         },
         "Dacon": {
@@ -119,6 +126,21 @@
             "Bars": [ 7 ],
             "Color": "FFFFFF",
             "JoinMessage": "Probably gonna be tagline soon..."
+        },
+        "nikuski14": {
+            "Bars": [ 7 ]
+        },
+        "MrPotatoOG": {
+            "Bars": [ 7 ]
+        },
+        "MrPotatoTV": {
+            "Bars": [ 7 ]
+        },
+        "PixiePeach": {
+            "Bars": [ 7 ]
+        },
+        "Prosaic Saint": {
+            "Bars": [ 7 ]
         }
     },
     "GlobalMessage": {
