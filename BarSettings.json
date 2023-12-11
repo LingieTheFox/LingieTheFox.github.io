@@ -6,7 +6,8 @@
         "The Dionysian Bar",
         "Izuki's Monster Girl Bar",
         "CY-BAR",
-        "Blue Rose Garden"
+        "Blue Rose Garden",
+        "Ko'tu ヅ's Bar"
     ],
     "Players": {
         "Lingie": {
@@ -112,6 +113,12 @@
             "Bars": [ 5 ],
             "Color": "ffccff",
             "JoinMessage": "Not configured."
+        },
+        "Ko'tu ヅ": {
+            "Active": true,
+            "Bars": [ 7 ],
+            "Color": "FFFFFF",
+            "JoinMessage": "Probably gonna be tagline soon..."
         }
     },
     "GlobalMessage": {
