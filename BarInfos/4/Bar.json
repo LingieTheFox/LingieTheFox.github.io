@@ -1,26 +1,20 @@
 ﻿{
     "Players": {
-        "cheese in a bag": "S7",
-        "Tai420": "S6",
-        "Agux909": "S6",
-        "Captin_redbeard": "S6",
-        "TheAsianspice": "S6",
-        "༺ღKitty Queenღ༻": "S6",
-        "Pryxi Blue": "S6",
-        "CloudyCrown": "S5",
-        "Donnelly": "B4",
-        "TinyColt": "S4",
-        "Michebelle": "S4",
-        "Coffee Jelly": "S4",
-        "Drake-O-Kid d299": "B4",
-        "df13": "S4"
+        "Lingie": "S7",
+        "Riney": "S6",
+        "Driven_Cleo": "S6",
+        "Yee-ti Mcgee": "S6",
+        "KillFrenzy": "S6",
+        "morbidlydolly": "S6",
+        "wolfcry91196": "S6",
+        "Dacon": "S6"
     },
     "Recipes": {
 
     },
     "DrinkSkins": [ 0 ],
     "CustomJoinMessage": "",
-    "Playlist1Name": "2000s goodness",
+    "Playlist1Name": "",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
