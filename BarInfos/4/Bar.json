@@ -1,21 +1,19 @@
-{
+﻿{
     "Players": {
         "cheese in a bag": "S7",
-        "Jagi Sama": "S6",
         "Tai420": "S6",
         "Agux909": "S6",
-        "Zetashirken": "S6",
         "Captin_redbeard": "S6",
-        "CloudyCrown": "S4",
+        "TheAsianspice": "S6",
+        "༺ღKitty Queenღ༻": "S6",
+        "Pryxi Blue": "S6",
+        "CloudyCrown": "S5",
         "Donnelly": "B4",
         "TinyColt": "S4",
         "Michebelle": "S4",
         "Coffee Jelly": "S4",
         "Drake-O-Kid d299": "B4",
-        "Mimi_vercelli": "S4",
-        "Pryxi Blue": "B4",
         "df13": "S4",
-        "MelodyMCFan": "S4"
     },
     "Recipes": {
 
@@ -26,7 +24,7 @@
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
-    "ColorPicker": false,
+    "ColorPicker": true,
     "VerifyOnStart": true,
     "AllowDVCStaff": true,
     "UseDVC18Plus": false,
