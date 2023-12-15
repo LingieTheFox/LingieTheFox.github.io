@@ -12,7 +12,15 @@
     "Players": {
         "Lingie": {
             "Active": true,
-            "Bars": [ 0, 1, 2, 3, 4, 5, 6 ],
+            "Bars": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
             "PermLevel": 10,
@@ -20,7 +28,15 @@
         },
         "Riney": {
             "Active": true,
-            "Bars": [ 0, 1, 2, 3, 4, 5, 6 ],
+            "Bars": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
             "PermLevel": 10,
@@ -87,63 +103,95 @@
         },
         "FirecatStudios": {
             "Active": true,
-            "Bars": [ 6 ],
+            "Bars": [
+                6
+            ],
             "Color": "FF0000",
             "JoinMessage": "Not Configured"
         },
         "cheese in a bag": {
             "Active": true,
-            "Bars": [ 4 ],
+            "Bars": [
+                4
+            ],
             "Color": "7a09c8",
             "JoinMessage": "<Now Entering <color=#7a09c8>Izuki Moon</color>, who totally is not a vtuber XD>"
         },
         "Agux909": {
-            "Bars": [ 4 ]
+            "Bars": [
+                4
+            ]
         },
         "Tai420": {
-            "Bars": [ 4 ]
+            "Bars": [
+                4
+            ]
         },
         "Captin_redbeard": {
-            "Bars": [ 4 ]
+            "Bars": [
+                4
+            ]
         },
         "༺ღKitty Queenღ༻": {
-            "Bars": [ 4 ]
+            "Bars": [
+                4
+            ]
         },
         "TheAsianspice": {
-            "Bars": [ 4 ]
+            "Bars": [
+                4
+            ]
         },
         "Pryxi Blue": {
-            "Bars": [ 4 ]
+            "Bars": [
+                4
+            ]
         },
         "Madgee93": {
-            "Bars": [ 3 ]
+            "Bars": [
+                3
+            ]
         },
         "Sparklcat": {
             "Active": true,
-            "Bars": [ 5 ],
+            "Bars": [
+                5
+            ],
             "Color": "ffccff",
             "JoinMessage": "Not configured."
         },
         "Ko'tu ヅ": {
             "Active": true,
-            "Bars": [ 7 ],
+            "Bars": [
+                7
+            ],
             "Color": "FFFFFF",
             "JoinMessage": "Probably gonna be tagline soon..."
         },
         "nikuski14": {
-            "Bars": [ 7 ]
+            "Bars": [
+                7
+            ]
         },
         "MrPotatoOG": {
-            "Bars": [ 7 ]
+            "Bars": [
+                7
+            ]
         },
         "MrPotatoTV": {
-            "Bars": [ 7 ]
+            "Bars": [
+                7
+            ]
         },
         "PixiePeach": {
-            "Bars": [ 7 ]
+            "Bars": [
+                7
+            ]
         },
         "Prosaic Saint": {
-            "Bars": [ 7 ]
+            "Bars": [
+                7
+            ]
         }
     },
     "GlobalMessage": {
