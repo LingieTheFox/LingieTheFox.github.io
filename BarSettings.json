@@ -101,6 +101,11 @@
             "Color": "8000FF",
             "JoinMessage": "Not Configured"
         },
+        "Madgee93": {
+            "Bars": [
+                3
+            ]
+        },
         "FirecatStudios": {
             "Active": true,
             "Bars": [
@@ -147,9 +152,14 @@
                 4
             ]
         },
-        "Madgee93": {
+        "-lovethedemon-": {
             "Bars": [
-                3
+                4
+            ]
+        },
+        "Shinobi_Girl": {
+            "Bars": [
+                4
             ]
         },
         "Sparklcat": {
@@ -192,6 +202,9 @@
             "Bars": [
                 7
             ]
+        },
+        "EnchanterTim": {
+            "Color": "00FFFF"
         }
     },
     "GlobalMessage": {
