@@ -175,7 +175,8 @@
         "Ko'tu ヅ": {
             "Active": true,
             "Bars": [
-                7
+                7,
+                8
             ],
             "Color": "FFFFFF",
             "JoinMessage": "Probably gonna be tagline soon..."
@@ -217,7 +218,9 @@
             ]
         },
         "Tup Tup ヅ": {
+            "Active": true,
             "Bars": [
+                7,
                 8
             ]
         },
