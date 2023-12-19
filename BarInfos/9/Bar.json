@@ -1,0 +1,41 @@
+{
+    "Players": {
+        "༒ ᴄʜᴀʀʟᴏᴛᴛᴇ ༒": "S7",
+        "AbidingWinter": "S6",
+        "Coltnor 9c23": "S6",
+        "SpookyNobody": "S6",
+        "FTSGaming": "S6",
+        "Ashes of War": "S6",
+        "Lelim≺3": "S5",
+        "M3rkBlusic69 3f2d": "B4",
+        "GøthGhøul": "B4",
+        "lilruffryder 951e": "B4",
+        "Rose_Melody18": "B4",
+        "Northern Terror": "B4",
+        "Snellie": "B4",
+        "Øutlaw Alastør": "D2",
+        "sacksquatch34": "D2",
+        "ChessemakerFNO fa53": "S1",
+        "firefox1203": "S1",
+        "LADY_INDICA": "S1",
+        "Creamyblood 20c3": "S1"
+    },
+    "Recipes": {
+
+    },
+    "DrinkSkins": [ 0 ],
+    "TeamColor": "FFFFFF",
+    "CustomJoinMessage": "",
+    "Playlist1Name": "",
+    "Playlist2Name": "",
+    "Playlist3Name": "",
+    "DefaultBarLayout": 0,
+    "ColorPicker": true,
+    "VerifyOnStart": true,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": false,
+    "UseDVC21Plus": false,
+    "ReplaceGroupBanners": false,
+    "ReplacePhotoBanners": false,
+    "IsActive": true
+}
