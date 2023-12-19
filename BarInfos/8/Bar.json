@@ -1,0 +1,34 @@
+{
+    "Players": {
+        "stormisback": "S7",
+        "Tup Tup ヅ": "S6",
+        "PixiePeach": "S6",
+        "Prosaic Saint": "S6",
+        "MrPotatoOG": "S6",
+        "MrPotatoTV": "S6",
+        "RockyBear21": "S6",
+        "Βailey": "B4",
+        "Victor Hendricks bc70": "S1",
+        "pandas963": "S1",
+        "Kesashii": "S1",
+        "XoneclipX": "S1"
+    },
+    "Recipes": {
+
+    },
+    "DrinkSkins": [ 0 ],
+    "TeamColor": "FFFFFF",
+    "CustomJoinMessage": "",
+    "Playlist1Name": "",
+    "Playlist2Name": "",
+    "Playlist3Name": "",
+    "DefaultBarLayout": 0,
+    "ColorPicker": true,
+    "VerifyOnStart": true,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": true,
+    "UseDVC21Plus": false,
+    "ReplaceGroupBanners": true,
+    "ReplacePhotoBanners": true,
+    "IsActive": true
+}
