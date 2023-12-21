@@ -9,7 +9,8 @@
         "Blue Rose Garden",
         "Ko'tu ヅ's Bar",
         "Club 9",
-        "The Serpents Cove"
+        "The Serpents Cove",
+        "The Handsome Neko"
     ],
     "Players": {
         "Lingie": {
@@ -246,8 +247,11 @@
         },
         "FTSGaming": {
             "Bars": [
-                9
-            ]
+                9,
+                10
+            ],
+            "Color": "FFFFFF",
+            "Active": true
         },
         "SpookyNobody": {
             "Bars": [

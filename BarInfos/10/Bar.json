@@ -1,0 +1,27 @@
+{
+    "Players": {
+        "FTSGaming": "S7",
+        "sacksquatch34": "S6",
+        "nekoboi․2023 43b2": "S6",
+        "NashiXFloofy": "S6",
+        "Haruあ": "S6"
+    },
+    "Recipes": {
+
+    },
+    "DrinkSkins": [ 0 ],
+    "TeamColor": "FFFFFF",
+    "CustomJoinMessage": "",
+    "Playlist1Name": "",
+    "Playlist2Name": "",
+    "Playlist3Name": "",
+    "DefaultBarLayout": 0,
+    "ColorPicker": true,
+    "VerifyOnStart": true,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": true,
+    "UseDVC21Plus": false,
+    "ReplaceGroupBanners": false,
+    "ReplacePhotoBanners": false,
+    "IsActive": true
+}
