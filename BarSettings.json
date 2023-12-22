@@ -145,9 +145,11 @@
             ]
         },
         "༺ღKitty Queenღ༻": {
+            "Active": true,
             "Bars": [
                 4
-            ]
+            ],
+            "Color": "FE8BEA"
         },
         "TheAsianspice": {
             "Bars": [
