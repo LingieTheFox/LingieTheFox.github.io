@@ -113,6 +113,12 @@
             "Color": "B180EE",
             "DVC21": true
         },
+        "Rokalizeth": {
+            "Active": true,
+            "PermLevel": 9,
+            "Color": "FF00FF",
+            "DVC21": true
+        },
         "Dacon": {
             "Active": true,
             "Color": "8000FF",
