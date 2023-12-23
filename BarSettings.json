@@ -122,7 +122,8 @@
         "Dacon": {
             "Active": true,
             "Color": "8000FF",
-            "JoinMessage": "Not Configured"
+            "JoinMessage": "Not Configured",
+            "DVC21": true
         },
         "Madgee93": {
             "Bars": [
