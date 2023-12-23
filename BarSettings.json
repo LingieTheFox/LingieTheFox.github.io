@@ -103,6 +103,12 @@
             "Color": "FF6600",
             "DVC18": true
         },
+        "Eternal enae": {
+            "Active": true,
+            "PermLevel": 9,
+            "Color": "B180EE",
+            "DVC21": true
+        },
         "Dacon": {
             "Active": true,
             "Color": "8000FF",
