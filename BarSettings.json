@@ -252,7 +252,8 @@
         "AbidingWinter": {
             "Bars": [
                 9
-            ]
+            ],
+            "DVC21": true
         },
         "Coltnor 9c23": {
             "Bars": [
@@ -276,6 +277,9 @@
             "Bars": [
                 9
             ]
+        },
+        "Captain StarCat": {
+            "DVC21": true
         },
         "Yumi （ ユミ）": {
             "Color": "E9737B"
