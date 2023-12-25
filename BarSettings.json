@@ -161,7 +161,8 @@
             "Bars": [
                 4
             ],
-            "Color": "FE8BEA"
+            "Color": "FE8BEA",
+            "DVC18": true
         },
         "TheAsianspice": {
             "Bars": [
@@ -300,6 +301,15 @@
             "DVC21": true
         },
         "KaylieKitty55": {
+            "DVC21": true
+        },
+        "yizmo": {
+            "DVC21": true
+        },
+        "100chilly": {
+            "DVC21": true
+        },
+        "LV Jack": {
             "DVC21": true
         },
         "Yumi （ ユミ）": {
