@@ -12,7 +12,7 @@
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": true,
-    "VerifyOnStart": true,
+    "VerifyOnStart": false,
     "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": false,
