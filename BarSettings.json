@@ -1,392 +1,394 @@
 {
-    "BarList": [
-        "Lingie's Cave",
-        "Riney's Midnight Cafe",
-        "Yumiko's Bar",
-        "The Dionysian Bar",
-        "Izuki's Monster Girl Bar",
-        "CY-BAR",
-        "Blue Rose Garden",
-        "Ko'tu ヅ's Bar",
-        "Club 9",
-        "The Serpents Cove",
-        "The Handsome Neko"
-    ],
-    "Players": {
-        "Lingie": {
-            "Active": true,
-            "Bars": [
-                0,
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10
-            ],
-            "Color": "ff4d00",
-            "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
-            "PermLevel": 10,
-            "DVC21": true
-        },
-        "Riney": {
-            "Active": true,
-            "Bars": [
-                0,
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10
-            ],
-            "Color": "674AE2",
-            "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
-            "PermLevel": 10,
-            "DVC21": true
-        },
-        "Yee-ti Mcgee": {
-            "Active": true,
-            "Color": "FF6600",
-            "PermLevel": 9,
-            "DVC21": true
-        },
-        "Driven_Cleo": {
-            "Active": true,
-            "PermLevel": 9,
-            "Color": "333333",
-            "DVC21": true
-        },
-        "Savy Strawberry": {
-            "Active": true,
-            "Color": "904cb0",
-            "PermLevel": 9,
-            "DVC21": true
-        },
-        "morbidlydolly": {
-            "Active": true,
-            "Color": "F48CFF",
-            "PermLevel": 9,
-            "DVC21": true
-        },
-        "KillFrenzy": {
-            "Active": true,
-            "Color": "00D0FF",
-            "PermLevel": 9,
-            "DVC21": true
-        },
-        "Gobit": {
-            "Active": true,
-            "PermLevel": 9,
-            "Color": "FF6600",
-            "DVC21": true
-        },
-        "Savvy Chap": {
-            "Active": true,
-            "PermLevel": 7,
-            "Color": "FF6600",
-            "DVC18": true
-        },
-        "Tamiel_Grimbane": {
-            "Active": true,
-            "PermLevel": 7,
-            "Color": "FF6600",
-            "DVC21": true
-        },
-        "S̷a̷m̷u̷e̷l̷": {
-            "Active": true,
-            "PermLevel": 7,
-            "Color": "FF6600",
-            "DVC18": true
-        },
-        "Eternal enae": {
-            "Active": true,
-            "PermLevel": 9,
-            "Color": "B180EE",
-            "DVC21": true
-        },
-        "Rokalizeth": {
-            "Active": true,
-            "PermLevel": 9,
-            "Color": "FF00FF",
-            "DVC21": true
-        },
-        "Dacon": {
-            "Active": true,
-            "Color": "8000FF",
-            "JoinMessage": "Not Configured",
-            "DVC21": true
-        },
-        "InuWez": {
-            "Active": true,
-            "DVC21": true
-        },
-        "Madgee93": {
-            "Bars": [
-                3
-            ]
-        },
-        "Kingswag999": {
-            "Bars": [
-                3
-            ]
-
-        },
-        "FirecatStudios": {
-            "Active": true,
-            "Bars": [
-                6
-            ],
-            "Color": "FF0000",
-            "JoinMessage": "Not Configured"
-        },
-        "Izuki Moon": {
-            "Active": true,
-            "Bars": [
-                4
-            ],
-            "Color": "7a09c8",
-            "JoinMessage": "<Now Entering <color=#7a09c8>Izuki Moon</color>, who totally is not a vtuber XD>"
-        },
-        "Tai420": {
-            "Bars": [
-                4
-            ]
-        },
-        "Captin_redbeard": {
-            "Bars": [
-                4
-            ],
-            "Color": "9AFF00"
-        },
-        "༺ღKitty Queenღ༻": {
-            "Active": true,
-            "Bars": [
-                4
-            ],
-            "Color": "FE8BEA",
-            "DVC18": true
-        },
-        "TheAsianspice": {
-            "Bars": [
-                4
-            ]
-        },
-        "Pryxi Blue": {
-            "Bars": [
-                4
-            ]
-        },
-        "-lovethedemon-": {
-            "Bars": [
-                4
-            ]
-        },
-        "Shinobi_Girl": {
-            "Bars": [
-                4
-            ]
-        },
-        "Sparklcat": {
-            "Active": true,
-            "Bars": [
-                5
-            ],
-            "Color": "FFCCFF",
-            "JoinMessage": "Not configured."
-        },
-        "Ko'tu ヅ": {
-            "Active": true,
-            "Bars": [
-                7,
-                8
-            ],
-            "Color": "FFFFFF",
-            "JoinMessage": "Probably gonna be tagline soon..."
-        },
-        "nikuski14": {
-            "Bars": [
-                7
-            ]
-        },
-        "MrPotatoOG": {
-            "Bars": [
-                7
-            ]
-        },
-        "MrPotatoTV": {
-            "Bars": [
-                7
-            ]
-        },
-        "PixiePeach": {
-            "Bars": [
-                7,
-                8
-            ]
-        },
-        "Prosaic Saint": {
-            "Bars": [
-                7,
-                8
-            ]
-        },
-        "EnchanterTim": {
-            "Color": "00FFFF"
-        },
-        "stormisback": {
-            "Color": "FFFFFF",
-            "Bars": [
-                8
-            ]
-        },
-        "Tup Tup ヅ": {
-            "Active": true,
-            "Bars": [
-                7,
-                8
-            ]
-        },
-        "༒ ᴄʜᴀʀʟᴏᴛᴛᴇ ༒": {
-            "Bars": [
-                9
-            ],
-            "Color": "FFCCFF"
-        },
-        "AbidingWinter": {
-            "Bars": [
-                9
-            ],
-            "DVC21": true
-        },
-        "Coltnor 9c23": {
-            "Bars": [
-                9
-            ]
-        },
-        "FTSGaming": {
-            "Bars": [
-                9,
-                10
-            ],
-            "Color": "00FFEC",
-            "Active": true
-        },
-        "SpookyNobody": {
-            "Bars": [
-                9
-            ]
-        },
-        "Ashes Of War": {
-            "Bars": [
-                9
-            ]
-        },
-        "SoftNekoGirl": {
-            "DVC18": true
-        },
-        "Havoc_Akuma": {
-            "DVC18": true
-        },
-        "summercosmos": {
-            "DVC18": true
-        },
-        "Masterhound": {
-            "DVC18": true
-        },
-        "Ari05": {
-            "DVC18": true
-        },
-        "misterbepo": {
-            "DVC18": true
-        },
-        "Sammys_secret": {
-            "DVC18": true
-        },
-        "spicyharmony807": {
-            "DVC18": true
-        },
-        "YourFavHero": {
-            "DVC18": true
-        },
-        "Red_Fox420": {
-            "DVC18": true
-        },
-        "Captain StarCat": {
-            "DVC21": true
-        },
-        "RickyRocks92": {
-            "DVC21": true
-        },
-        "Daquation": {
-            "DVC21": true
-        },
-        "Highdeff": {
-            "DVC21": true
-        },
-        "KBSmoke760a45d0": {
-            "DVC21": true
-        },
-        "Silverthesilent": {
-            "DVC21": true
-        },
-        "justhallow": {
-            "DVC21": true
-        },
-        "Zyroxen_Xyph": {
-            "DVC21": true
-        },
-        "658358741662449 117a": {
-            "DVC21": true
-        },
-        "KaylieKitty55": {
-            "DVC21": true
-        },
-        "yizmo": {
-            "DVC21": true
-        },
-        "100chilly": {
-            "DVC21": true
-        },
-        "LV Jack": {
-            "DVC21": true
-        },
-        "UVDarkLight": {
-            "DVC21": true
-        },
-        "UnshiftedHawk9 f88a": {
-            "DVC21": true
-        },
-        "Daft Punk - Topic 3c99": {
-            "DVC21": true
-        },
-        "Neo/Mak": {
-            "DVC21": true
-        },
-        "NotCodyTro": {
-            "DVC21": true
-        },
-        "HM QUEEN AFTON": {
-            "DVC21": true
-        },
-        "Yumi （ ユミ）": {
-            "Color": "E9737B",
-            "DVC21": true
-        }
-    },
-    "GlobalMessage": {
-        "Version": 0,
-        "Message": "No Message"
-    },
-    "GroupImages": 9,
-    "PeopleImages": 10,
-    "PatchNotes": "<size=200%><color=#004B55>== 12/10/23 || Build V0.1.41 - Odds and Ends ==</color></size>\n<size=150%>[ New Features ]</size>\n\n• <color=#FD7E53>Added the Music Playlist system.  This currently is limited by songs we put in the world, but Patreon donors can send playlists and use them now!</color>\n• <color=#FD7E53>Voice ducking system.  If there is a wall between you and another person, their voice is about to get way quieter than before.  Try it out!</color>\n• <color=#FD7E53>Beer Pong, second floor of the Lounge.  Supports up to 4 players!</color>\n\n<size=150%>[ Bug Fixes ]</size>\n\n• <color=#FD7E53>Redid the entire collider system in the world to support both optimization and the new Voice Ducking.  The triangle count was reduced to under 3% of the original size.</color>\n• <color=#FD7E53>Error fixes all over inside the backend/management/console/etc.  World stability should be improved, and scripts will be far less likely to break.  (Lingie still needs to remember to push Play before uploading though :D)</color>\n• <color=#FD7E53>Backend logic fixes, and checks to ensure you can still launch a bar, even if github happens to be down or fails to send core files.</color>\n\n<size=150%>[ What's Being Worked On? ]</size>\n\n• <color=#FD7E53>Drinks are about to be a lot better.  With a new shader by the amazing KillFrenzy, you'll really feel like you're holding onto a glass of alcohol soon!</color>\n• <color=#FD7E53>Stage Update.  It's been long overdue.</color>\n• <color=#FD7E53>Private Rooms.  Don't worry we didn't forget you.</color>\n• <color=#FD7E53>Drink additions, such as ice, bubbles, and garnishes.</color>"
+   "BarList":[
+      "Lingie's Cave",
+      "Riney's Midnight Cafe",
+      "Yumiko's Bar",
+      "The Dionysian Bar",
+      "Izuki's Monster Girl Bar",
+      "CY-BAR",
+      "Blue Rose Garden",
+      "Ko'tu ヅ's Bar",
+      "Club 9",
+      "The Serpents Cove",
+      "The Handsome Neko"
+   ],
+   "Players":{
+      "Lingie":{
+         "Active":true,
+         "Bars":[
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+         ],
+         "Color":"ff4d00",
+         "JoinMessage":"<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
+         "PermLevel":10,
+         "DVC21":true
+      },
+      "Riney":{
+         "Active":true,
+         "Bars":[
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+         ],
+         "Color":"674AE2",
+         "JoinMessage":"<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
+         "PermLevel":10,
+         "DVC21":true
+      },
+      "Yee-ti Mcgee":{
+         "Active":true,
+         "Color":"FF6600",
+         "PermLevel":9,
+         "DVC21":true
+      },
+      "Driven_Cleo":{
+         "Active":true,
+         "PermLevel":9,
+         "Color":"333333",
+         "DVC21":true
+      },
+      "Savy Strawberry":{
+         "Active":true,
+         "Bars":[
+            0
+         ],
+         "Color":"904cb0",
+         "PermLevel":9,
+         "DVC21":true
+      },
+      "morbidlydolly":{
+         "Active":true,
+         "Color":"F48CFF",
+         "PermLevel":9,
+         "DVC21":true
+      },
+      "KillFrenzy":{
+         "Active":true,
+         "Color":"00D0FF",
+         "PermLevel":9,
+         "DVC21":true
+      },
+      "Gobit":{
+         "Active":true,
+         "PermLevel":9,
+         "Color":"FF6600",
+         "DVC21":true
+      },
+      "Savvy Chap":{
+         "Active":true,
+         "PermLevel":7,
+         "Color":"FF6600",
+         "DVC18":true
+      },
+      "Tamiel_Grimbane":{
+         "Active":true,
+         "PermLevel":7,
+         "Color":"FF6600",
+         "DVC21":true
+      },
+      "S̷a̷m̷u̷e̷l̷":{
+         "Active":true,
+         "PermLevel":7,
+         "Color":"FF6600",
+         "DVC18":true
+      },
+      "Eternal enae":{
+         "Active":true,
+         "PermLevel":9,
+         "Color":"B180EE",
+         "DVC21":true
+      },
+      "Rokalizeth":{
+         "Active":true,
+         "PermLevel":9,
+         "Color":"FF00FF",
+         "DVC21":true
+      },
+      "Dacon":{
+         "Active":true,
+         "Color":"8000FF",
+         "JoinMessage":"Not Configured",
+         "DVC21":true
+      },
+      "InuWez":{
+         "Active":true,
+         "DVC21":true
+      },
+      "Madgee93":{
+         "Bars":[
+            3
+         ]
+      },
+      "Kingswag999":{
+         "Bars":[
+            3
+         ]
+      },
+      "FirecatStudios":{
+         "Active":true,
+         "Bars":[
+            6
+         ],
+         "Color":"FF0000",
+         "JoinMessage":"Not Configured"
+      },
+      "Izuki Moon":{
+         "Active":true,
+         "Bars":[
+            4
+         ],
+         "Color":"7a09c8",
+         "JoinMessage":"<Now Entering <color=#7a09c8>Izuki Moon</color>, who totally is not a vtuber XD>"
+      },
+      "Tai420":{
+         "Bars":[
+            4
+         ]
+      },
+      "Captin_redbeard":{
+         "Bars":[
+            4
+         ],
+         "Color":"9AFF00"
+      },
+      "༺ღKitty Queenღ༻":{
+         "Active":true,
+         "Bars":[
+            4
+         ],
+         "Color":"FE8BEA",
+         "DVC18":true
+      },
+      "TheAsianspice":{
+         "Bars":[
+            4
+         ]
+      },
+      "Pryxi Blue":{
+         "Bars":[
+            4
+         ]
+      },
+      "-lovethedemon-":{
+         "Bars":[
+            4
+         ]
+      },
+      "Shinobi_Girl":{
+         "Bars":[
+            4
+         ]
+      },
+      "Sparklcat":{
+         "Active":true,
+         "Bars":[
+            5
+         ],
+         "Color":"FFCCFF",
+         "JoinMessage":"Not configured."
+      },
+      "Ko'tu ヅ":{
+         "Active":true,
+         "Bars":[
+            7,
+            8
+         ],
+         "Color":"FFFFFF",
+         "JoinMessage":"Probably gonna be tagline soon..."
+      },
+      "nikuski14":{
+         "Bars":[
+            7
+         ]
+      },
+      "MrPotatoOG":{
+         "Bars":[
+            7
+         ]
+      },
+      "MrPotatoTV":{
+         "Bars":[
+            7
+         ]
+      },
+      "PixiePeach":{
+         "Bars":[
+            7,
+            8
+         ]
+      },
+      "Prosaic Saint":{
+         "Bars":[
+            7,
+            8
+         ]
+      },
+      "EnchanterTim":{
+         "Color":"00FFFF"
+      },
+      "stormisback":{
+         "Color":"FFFFFF",
+         "Bars":[
+            8
+         ]
+      },
+      "Tup Tup ヅ":{
+         "Active":true,
+         "Bars":[
+            7,
+            8
+         ]
+      },
+      "༒ ᴄʜᴀʀʟᴏᴛᴛᴇ ༒":{
+         "Bars":[
+            9
+         ],
+         "Color":"FFCCFF"
+      },
+      "AbidingWinter":{
+         "Bars":[
+            9
+         ],
+         "DVC21":true
+      },
+      "Coltnor 9c23":{
+         "Bars":[
+            9
+         ]
+      },
+      "FTSGaming":{
+         "Bars":[
+            9,
+            10
+         ],
+         "Color":"00FFEC",
+         "Active":true
+      },
+      "SpookyNobody":{
+         "Bars":[
+            9
+         ]
+      },
+      "Ashes Of War":{
+         "Bars":[
+            9
+         ]
+      },
+      "SoftNekoGirl":{
+         "DVC18":true
+      },
+      "Havoc_Akuma":{
+         "DVC18":true
+      },
+      "summercosmos":{
+         "DVC18":true
+      },
+      "Masterhound":{
+         "DVC18":true
+      },
+      "Ari05":{
+         "DVC18":true
+      },
+      "misterbepo":{
+         "DVC18":true
+      },
+      "Sammys_secret":{
+         "DVC18":true
+      },
+      "spicyharmony807":{
+         "DVC18":true
+      },
+      "YourFavHero":{
+         "DVC18":true
+      },
+      "Red_Fox420":{
+         "DVC18":true
+      },
+      "Captain StarCat":{
+         "DVC21":true
+      },
+      "RickyRocks92":{
+         "DVC21":true
+      },
+      "Daquation":{
+         "DVC21":true
+      },
+      "Highdeff":{
+         "DVC21":true
+      },
+      "KBSmoke760a45d0":{
+         "DVC21":true
+      },
+      "Silverthesilent":{
+         "DVC21":true
+      },
+      "justhallow":{
+         "DVC21":true
+      },
+      "Zyroxen_Xyph":{
+         "DVC21":true
+      },
+      "658358741662449 117a":{
+         "DVC21":true
+      },
+      "KaylieKitty55":{
+         "DVC21":true
+      },
+      "yizmo":{
+         "DVC21":true
+      },
+      "100chilly":{
+         "DVC21":true
+      },
+      "LV Jack":{
+         "DVC21":true
+      },
+      "UVDarkLight":{
+         "DVC21":true
+      },
+      "UnshiftedHawk9 f88a":{
+         "DVC21":true
+      },
+      "Daft Punk - Topic 3c99":{
+         "DVC21":true
+      },
+      "Neo/Mak":{
+         "DVC21":true
+      },
+      "NotCodyTro":{
+         "DVC21":true
+      },
+      "HM QUEEN AFTON":{
+         "DVC21":true
+      },
+      "Yumi （ ユミ）":{
+         "Color":"E9737B",
+         "DVC21":true
+      }
+   },
+   "GlobalMessage":{
+      "Version":0,
+      "Message":"No Message"
+   },
+   "GroupImages":9,
+   "PeopleImages":10,
+   "PatchNotes":"<size=200%><color=#004B55>== 12/10/23 || Build V0.1.41 - Odds and Ends ==</color></size>\n<size=150%>[ New Features ]</size>\n\n• <color=#FD7E53>Added the Music Playlist system.  This currently is limited by songs we put in the world, but Patreon donors can send playlists and use them now!</color>\n• <color=#FD7E53>Voice ducking system.  If there is a wall between you and another person, their voice is about to get way quieter than before.  Try it out!</color>\n• <color=#FD7E53>Beer Pong, second floor of the Lounge.  Supports up to 4 players!</color>\n\n<size=150%>[ Bug Fixes ]</size>\n\n• <color=#FD7E53>Redid the entire collider system in the world to support both optimization and the new Voice Ducking.  The triangle count was reduced to under 3% of the original size.</color>\n• <color=#FD7E53>Error fixes all over inside the backend/management/console/etc.  World stability should be improved, and scripts will be far less likely to break.  (Lingie still needs to remember to push Play before uploading though :D)</color>\n• <color=#FD7E53>Backend logic fixes, and checks to ensure you can still launch a bar, even if github happens to be down or fails to send core files.</color>\n\n<size=150%>[ What's Being Worked On? ]</size>\n\n• <color=#FD7E53>Drinks are about to be a lot better.  With a new shader by the amazing KillFrenzy, you'll really feel like you're holding onto a glass of alcohol soon!</color>\n• <color=#FD7E53>Stage Update.  It's been long overdue.</color>\n• <color=#FD7E53>Private Rooms.  Don't worry we didn't forget you.</color>\n• <color=#FD7E53>Drink additions, such as ice, bubbles, and garnishes.</color>"
 }
