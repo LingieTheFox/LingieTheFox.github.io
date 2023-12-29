@@ -122,6 +122,11 @@
          "Color":"FF00FF",
          "DVC21":true
       },
+        "Tradigar": {
+            "Active": true,
+            "PermLevel": 7,
+            "DVC21": true
+        },
       "Dacon":{
          "Active":true,
          "Color":"8000FF",
