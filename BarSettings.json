@@ -315,6 +315,11 @@
             ],
             "Color": "960019"
         },
+        "reddchan": {
+            "Active": true,
+            "DVC21": true,
+            "Color": "05998c"
+        },
         "SoftNekoGirl": {
             "DVC18": true
         },
@@ -406,9 +411,6 @@
             "DVC21": true
         },
         "KaylieKitty55": {
-            "DVC21": true
-        },
-        "reddchan": {
             "DVC21": true
         },
         "yizmo": {
