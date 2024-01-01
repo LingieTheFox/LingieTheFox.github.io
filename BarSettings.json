@@ -11,7 +11,8 @@
         "Club 9",
         "The Serpents Cove",
         "The Handsome Neko",
-        "Sins After Sunset"
+        "Sins After Sunset",
+        "The GSpot"
     ],
     "Players": {
         "Lingie": {
@@ -299,6 +300,9 @@
             ]
         },
         "Gspot101": {
+            "Bars": [
+                12
+            ],
             "Color": "00DD00"
         },
         "SerenityDefiled": {
