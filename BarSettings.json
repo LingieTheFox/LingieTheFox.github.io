@@ -139,6 +139,9 @@
             "Active": true,
             "DVC21": true
         },
+        "bastard bingo": {
+            "DVC21": true
+        },
         "Madgee93": {
             "Bars": [
                 3
@@ -311,6 +314,11 @@
                 11
             ],
             "Color": "960019"
+        },
+        "ReddChan": {
+            "Active": true,
+            "DVC21": true,
+            "Color": "05998c"
         },
         "SoftNekoGirl": {
             "DVC18": true
