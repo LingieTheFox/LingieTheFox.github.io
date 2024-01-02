@@ -13,7 +13,8 @@
         "The Handsome Neko",
         "Sins After Sunset",
         "The GSpot",
-        "Cheesy Boys"
+        "Cheesy Boys",
+        "The Tentacle Tavern"
     ],
     "Players": {
         "Lingie": {
@@ -29,7 +30,12 @@
                 7,
                 8,
                 9,
-                10
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
             ],
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
@@ -49,7 +55,12 @@
                 7,
                 8,
                 9,
-                10
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
             ],
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
@@ -346,6 +357,13 @@
                 13
             ],
             "Color": "7300E6"
+        },
+        "TRUSquidKing": {
+            "Active": true,
+            "Bars": [
+                14
+            ],
+            "Color": "004080"
         },
         "SoftNekoGirl": {
             "DVC18": true
