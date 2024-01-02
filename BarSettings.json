@@ -322,6 +322,11 @@
             ],
             "Color": "00DD00"
         },
+        "Brigantia": {
+            "Bars": [
+                12
+            ]
+        },
         "SerenityDefiled": {
             "Active": true,
             "Bars": [
