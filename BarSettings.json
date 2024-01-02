@@ -15,7 +15,8 @@
         "The GSpot",
         "Cheesy Boys",
         "The Tentacle Tavern",
-        "F U Bar"
+        "F U Bar",
+        "Mikuchan Bar"
     ],
     "Players": {
         "Lingie": {
@@ -359,12 +360,66 @@
             ],
             "Color": "7300E6"
         },
+        "Gebiu75": {
+            "Bars": [
+                13
+            ]
+        },
+        "༺ɮ ʊ ռ ռ ʏ༻": {
+            "Bars": [
+                13
+            ]
+        },
         "TRUSquidKing": {
             "Active": true,
             "Bars": [
                 14
             ],
             "Color": "004080"
+        },
+        "Jack-0-Aces": {
+            "Bars": [
+                14
+            ]
+        },
+        "ChillyTime": {
+            "Bars": [
+                14
+            ]
+        },
+        "Ashlyn232": {
+            "Bars": [
+                14
+            ]
+        },
+        "McRaw": {
+            "Bars": [
+                14
+            ]
+        },
+        "McRaw f4c4": {
+            "Bars": [
+                14
+            ]
+        },
+        "Rodent": {
+            "Active": true,
+            "Bars": [
+                15
+            ],
+            "Color": "FF5F1F"
+        },
+        "༺ʍɨӄʊ༻": {
+            "Active": true,
+            "Bars": [
+                16
+            ],
+            "Color": "FFC0CB"
+        },
+        "ALEX_218": {
+            "Bars": [
+                16
+            ]
         },
         "SoftNekoGirl": {
             "DVC18": true
