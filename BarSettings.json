@@ -160,6 +160,12 @@
             "Color": "FF0000",
             "JoinMessage": "Not Configured"
         },
+        "CarolineLeonaCC": {
+            "Bars": [
+                6
+            ],
+            "Color": "4DD2FF"
+        },
         "Izuki Moon": {
             "Active": true,
             "Bars": [
