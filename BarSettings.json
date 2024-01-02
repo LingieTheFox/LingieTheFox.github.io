@@ -252,9 +252,15 @@
             ]
         },
         "EnchanterTim": {
+            "Active": true,
             "Color": "00FFFF"
         },
+        "Milly13pop": {
+            "Active": true,
+            "Color": "FDB0C0"
+        },
         "stormisback": {
+            "Active": true,
             "Color": "FFFFFF",
             "Bars": [
                 8
