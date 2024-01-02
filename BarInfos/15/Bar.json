@@ -1,0 +1,23 @@
+{
+    "Players": {
+        "The Rodent?": "S7"
+    },
+    "Recipes": {
+
+    },
+    "DrinkSkins": [ 0 ],
+    "TeamColor": "FFFFFF",
+    "CustomJoinMessage": "",
+    "Playlist1Name": "",
+    "Playlist2Name": "",
+    "Playlist3Name": "",
+    "DefaultBarLayout": 0,
+    "ColorPicker": false,
+    "VerifyOnStart": false,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": false,
+    "UseDVC21Plus": false,
+    "ReplaceGroupBanners": false,
+    "ReplacePhotoBanners": false,
+    "IsActive": true
+}
