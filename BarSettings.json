@@ -12,7 +12,8 @@
         "The Serpents Cove",
         "The Handsome Neko",
         "Sins After Sunset",
-        "The GSpot"
+        "The GSpot",
+        "Cheesy Boys"
     ],
     "Players": {
         "Lingie": {
@@ -338,6 +339,13 @@
             "Active": true,
             "DVC21": true,
             "Color": "05998c"
+        },
+        "fragmeplz": {
+            "Active": true,
+            "Bars": [
+                13
+            ],
+            "Color": "7300E6"
         },
         "SoftNekoGirl": {
             "DVC18": true

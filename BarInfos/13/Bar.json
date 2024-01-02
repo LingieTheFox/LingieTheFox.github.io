@@ -1,0 +1,32 @@
+{
+    "Players": {
+        "fragmeplz": "S7",
+        "Gebiu75": "S6",
+        "༺ɮ ʊ ռ ռ ʏ༻": "S6",
+        "P00kie_w00kie": "S5",
+        "Potat0Girl36 4fcc": "S5",
+        "༒༒MØήk͢͢͢ᴇy༒༒": "D2",
+        "Dizzy820": "S1",
+
+        "GoT_SoMe_PoT 49db": "V1",
+        "Poison 60ee": "V1"
+    },
+    "Recipes": {
+
+    },
+    "DrinkSkins": [ 0 ],
+    "TeamColor": "FFFFFF",
+    "CustomJoinMessage": "",
+    "Playlist1Name": "",
+    "Playlist2Name": "",
+    "Playlist3Name": "",
+    "DefaultBarLayout": 0,
+    "ColorPicker": false,
+    "VerifyOnStart": true,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": false,
+    "UseDVC21Plus": false,
+    "ReplaceGroupBanners": false,
+    "ReplacePhotoBanners": false,
+    "IsActive": true
+}
