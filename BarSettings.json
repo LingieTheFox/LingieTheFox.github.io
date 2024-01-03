@@ -462,12 +462,7 @@
             ]
         },
         "Broken_Salad": {
-<<<<<<< Updated upstream
-            "Active": true,
-            "DVC18": true,
-=======
             "Tier": 4,
->>>>>>> Stashed changes
             "DVC21": true,
             "Color": "7b0000"
         },
