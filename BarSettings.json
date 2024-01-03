@@ -423,7 +423,11 @@
         },
         "Broken_Salad": {
             "Active": true,
-            "DVC21": true
+            "DVC21": true,
+            "Color": "7FFFD4"
+        },
+        "SLAMjam_439": {
+            "DVC18": true
         },
         "SoftNekoGirl": {
             "DVC18": true
@@ -456,9 +460,6 @@
             "DVC18": true
         },
         "Neko_Gabby": {
-            "DVC18": true
-        },
-        "SLAMjam_439": {
             "DVC18": true
         },
         "࿊¤°Grim°¤࿊": {
