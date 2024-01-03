@@ -1,6 +1,14 @@
 {
     "Players": {
-        "Savy Strawberry": "S7"
+        "Savy Strawberry": "S7",
+        "GhoulishOnibi": "S6",
+        "Salty_Plaguez": "S6",
+        "Layla Snow": "S5",
+        "JonesAddict": "S5",
+        "Miyunori": "B4",
+        "Niijikana": "B4",
+        "Miyuki_____": "B4",
+        "MaryWolf01": "S1"
     },
     "Recipes": {
 
@@ -14,7 +22,7 @@
     "ColorPicker": true,
     "VerifyOnStart": true,
     "AllowDVCStaff": true,
-    "UseDVC18Plus": false,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,

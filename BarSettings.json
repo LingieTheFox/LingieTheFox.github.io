@@ -86,8 +86,20 @@
             "Bars": [
                 2
             ],
-            "Color": "904cb0",
+            "Color": "FFD700",
             "PermLevel": 9,
+            "DVC21": true
+        },
+        "Salty_Plaguez": {
+            "Bars": [
+                2
+            ],
+            "DVC21": true
+        },
+        "Layla Snow": {
+            "Bars": [
+                2
+            ],
             "DVC21": true
         },
         "morbidlydolly": {
