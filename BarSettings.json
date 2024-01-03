@@ -212,6 +212,7 @@
             ]
         },
         "Captin_redbeard": {
+            "Tier": 2,
             "Bars": [
                 4
             ],
@@ -360,6 +361,7 @@
             ]
         },
         "SerenityDefiled": {
+            "Tier": 6,
             "Bars": [
                 11
             ],
@@ -442,11 +444,6 @@
             "Tier": 4,
             "DVC21": true,
             "Color": "7b0000"
-        },
-        "ReddChan": {
-            "Tier": 2,
-            "DVC21": true,
-            "Color": "05998c"
         },
         "SLAMjam_439": {
             "Tier": 2,
