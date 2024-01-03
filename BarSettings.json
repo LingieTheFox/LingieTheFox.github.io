@@ -457,10 +457,11 @@
             "Active": true,
             "DVC18": true,
             "DVC21": true,
-            "Color": "7FFFD4"
+            "Color": "7b0000"
         },
         "SLAMjam_439": {
-            "DVC18": true
+            "DVC18": true,
+            "Color": "7FFFD4"
         },
         "SoftNekoGirl": {
             "DVC18": true
