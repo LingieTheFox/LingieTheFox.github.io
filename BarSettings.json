@@ -20,7 +20,7 @@
     ],
     "Players": {
         "Lingie": {
-            "Active": true,
+            "Tier": 6,
             "Bars": [
                 0,
                 1,
@@ -42,11 +42,10 @@
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
             "PermLevel": 10,
-            "DVC18": true,
             "DVC21": true
         },
         "Riney": {
-            "Active": true,
+            "Tier": 6,
             "Bars": [
                 0,
                 1,
@@ -68,125 +67,104 @@
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
             "PermLevel": 10,
-            "DVC18": true,
             "DVC21": true
         },
         "Yee-ti Mcgee": {
-            "Active": true,
+            "Tier": 6,
             "Color": "FF6600",
             "PermLevel": 9,
-            "DVC18": true,
             "DVC21": true
         },
         "Driven_Cleo": {
-            "Active": true,
+            "Tier": 6,
             "PermLevel": 9,
             "Color": "333333",
-            "DVC18": true,
             "DVC21": true
         },
         "Savy Strawberry": {
-            "Active": true,
+            "Tier": 6,
             "Bars": [
                 2
             ],
             "Color": "FFD700",
             "PermLevel": 9,
-            "DVC18": true,
             "DVC21": true
         },
         "Salty_Plaguez": {
             "Bars": [
                 2
             ],
-            "DVC18": true,
             "DVC21": true
         },
         "Layla Snow": {
             "Bars": [
                 2
             ],
-            "DVC18": true,
             "DVC21": true
         },
         "Niijikana": {
-            "DVC18": true,
-            "DVC21": true
+            "DVC18": true
         },
         "morbidlydolly": {
-            "Active": true,
+            "Tier": 6,
             "Color": "F48CFF",
             "PermLevel": 9,
-            "DVC18": true,
             "DVC21": true
         },
         "KillFrenzy": {
-            "Active": true,
+            "Tier": 6,
             "Color": "00D0FF",
             "PermLevel": 9,
-            "DVC18": true,
             "DVC21": true
         },
         "Gobit": {
-            "Active": true,
+            "Tier": 6,
             "PermLevel": 9,
             "Color": "FF6600",
-            "DVC18": true,
             "DVC21": true
         },
         "Savvy Chap": {
-            "Active": true,
+            "Tier": 6,
             "PermLevel": 7,
             "Color": "FF6600",
-            "DVC18": true
+            "DVC21": true
         },
         "Tamiel_Grimbane": {
-            "Active": true,
             "PermLevel": 7,
             "Color": "FF6600",
-            "DVC18": true,
             "DVC21": true
         },
         "S̷a̷m̷u̷e̷l̷": {
-            "Active": true,
             "PermLevel": 7,
             "Color": "FF6600",
             "DVC18": true
         },
         "Eternal enae": {
-            "Active": true,
+            "Tier": 6,
             "PermLevel": 9,
             "Color": "B180EE",
-            "DVC18": true,
             "DVC21": true
         },
         "Rokalizeth": {
-            "Active": true,
+            "Tier": 1,
             "PermLevel": 9,
             "Color": "FF00FF",
-            "DVC18": true,
             "DVC21": true
         },
         "Tradigar": {
-            "Active": true,
             "PermLevel": 7,
-            "DVC18": true,
             "DVC21": true
         },
         "Dacon": {
-            "Active": true,
+            "Tier": 2,
             "Color": "8000FF",
             "JoinMessage": "Not Configured",
-            "DVC18": true,
             "DVC21": true
         },
         "InuWez": {
-            "Active": true,
-            "DVC18": true,
             "DVC21": true
         },
         "bastard bingo": {
-            "DVC18": true,
             "DVC21": true
         },
         "Madgee93": {
@@ -198,11 +176,13 @@
             ]
         },
         "Kingswag999": {
+            "DVC21": true,
             "Bars": [
                 3
             ]
         },
         "FirecatStudios": {
+            "DVC21": true,
             "Tier": 4,
             "Bars": [
                 6
@@ -211,13 +191,15 @@
             "JoinMessage": "Not Configured"
         },
         "CarolineLeonaCC": {
+            "DVC21": true,
             "Bars": [
                 6
             ],
             "Color": "4DD2FF"
         },
         "Izuki Moon": {
-            "Active": true,
+            "DVC21": true,
+            "Tier": 2,
             "Bars": [
                 4
             ],
@@ -272,7 +254,6 @@
             "JoinMessage": "Not configured."
         },
         "Ko'tu ヅ": {
-            "Active": true,
             "Bars": [
                 7,
                 8
@@ -308,11 +289,11 @@
             ]
         },
         "EnchanterTim": {
-            "Active": true,
+            "Tier": 3,
             "Color": "00FFFF"
         },
         "Milly13pop": {
-            "Active": true,
+            "Tier": 1,
             "Color": "FDB0C0"
         },
         "stormisback": {
@@ -328,7 +309,6 @@
                 7,
                 8
             ],
-            "DVC18": true,
             "DVC21": true
         },
         "༒ ᴄʜᴀʀʟᴏᴛᴛᴇ ༒": {
@@ -342,7 +322,6 @@
             "Bars": [
                 9
             ],
-            "DVC18": true,
             "DVC21": true
         },
         "Coltnor 9c23": {
@@ -351,12 +330,12 @@
             ]
         },
         "FTSGaming": {
+            "Tier": 6,
             "Bars": [
                 9,
                 10
             ],
             "Color": "00FFEC",
-            "Active": true
         },
         "SpookyNobody": {
             "Bars": [
@@ -381,15 +360,13 @@
             ]
         },
         "SerenityDefiled": {
-            "Active": true,
             "Bars": [
                 11
             ],
             "Color": "960019"
         },
         "ReddChan": {
-            "Active": true,
-            "DVC18": true,
+            "Tier": 2,
             "DVC21": true,
             "Color": "05998c"
         },
@@ -465,6 +442,11 @@
             "Tier": 4,
             "DVC21": true,
             "Color": "7b0000"
+        },
+        "ReddChan": {
+            "Tier": 2,
+            "DVC21": true,
+            "Color": "05998c"
         },
         "SLAMjam_439": {
             "Tier": 2,
@@ -626,8 +608,8 @@
             "DVC21": true
         },
         "Yumi （ ユミ）": {
+            "Tier": 2,
             "Color": "E9737B",
-            "DVC18": true,
             "DVC21": true
         }
     },
