@@ -42,6 +42,7 @@
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
             "PermLevel": 10,
+            "DVC18": true,
             "DVC21": true
         },
         "Riney": {
@@ -67,18 +68,21 @@
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
             "PermLevel": 10,
+            "DVC18": true,
             "DVC21": true
         },
         "Yee-ti Mcgee": {
             "Active": true,
             "Color": "FF6600",
             "PermLevel": 9,
+            "DVC18": true,
             "DVC21": true
         },
         "Driven_Cleo": {
             "Active": true,
             "PermLevel": 9,
             "Color": "333333",
+            "DVC18": true,
             "DVC21": true
         },
         "Savy Strawberry": {
@@ -88,36 +92,42 @@
             ],
             "Color": "FFD700",
             "PermLevel": 9,
+            "DVC18": true,
             "DVC21": true
         },
         "Salty_Plaguez": {
             "Bars": [
                 2
             ],
+            "DVC18": true,
             "DVC21": true
         },
         "Layla Snow": {
             "Bars": [
                 2
             ],
+            "DVC18": true,
             "DVC21": true
         },
         "morbidlydolly": {
             "Active": true,
             "Color": "F48CFF",
             "PermLevel": 9,
+            "DVC18": true,
             "DVC21": true
         },
         "KillFrenzy": {
             "Active": true,
             "Color": "00D0FF",
             "PermLevel": 9,
+            "DVC18": true,
             "DVC21": true
         },
         "Gobit": {
             "Active": true,
             "PermLevel": 9,
             "Color": "FF6600",
+            "DVC18": true,
             "DVC21": true
         },
         "Savvy Chap": {
@@ -130,6 +140,7 @@
             "Active": true,
             "PermLevel": 7,
             "Color": "FF6600",
+            "DVC18": true,
             "DVC21": true
         },
         "S̷a̷m̷u̷e̷l̷": {
@@ -142,30 +153,36 @@
             "Active": true,
             "PermLevel": 9,
             "Color": "B180EE",
+            "DVC18": true,
             "DVC21": true
         },
         "Rokalizeth": {
             "Active": true,
             "PermLevel": 9,
             "Color": "FF00FF",
+            "DVC18": true,
             "DVC21": true
         },
         "Tradigar": {
             "Active": true,
             "PermLevel": 7,
+            "DVC18": true,
             "DVC21": true
         },
         "Dacon": {
             "Active": true,
             "Color": "8000FF",
             "JoinMessage": "Not Configured",
+            "DVC18": true,
             "DVC21": true
         },
         "InuWez": {
             "Active": true,
+            "DVC18": true,
             "DVC21": true
         },
         "bastard bingo": {
+            "DVC18": true,
             "DVC21": true
         },
         "Madgee93": {
@@ -304,6 +321,7 @@
                 7,
                 8
             ],
+            "DVC18": true,
             "DVC21": true
         },
         "༒ ᴄʜᴀʀʟᴏᴛᴛᴇ ༒": {
@@ -316,6 +334,7 @@
             "Bars": [
                 9
             ],
+            "DVC18": true,
             "DVC21": true
         },
         "Coltnor 9c23": {
@@ -362,6 +381,7 @@
         },
         "ReddChan": {
             "Active": true,
+            "DVC18": true,
             "DVC21": true,
             "Color": "05998c"
         },
@@ -435,6 +455,7 @@
         },
         "Broken_Salad": {
             "Active": true,
+            "DVC18": true,
             "DVC21": true,
             "Color": "7FFFD4"
         },
@@ -499,76 +520,100 @@
             "DVC18": true
         },
         "Captain StarCat": {
+            "DVC18": true,
             "DVC21": true
         },
         "Siren's Call 6455": {
+            "DVC18": true,
             "DVC21": true
         },
         "RickyRocks92": {
+            "DVC18": true,
             "DVC21": true
         },
         "KaijuGrimpora": {
+            "DVC18": true,
             "DVC21": true
         },
         "Daquation": {
+            "DVC18": true,
             "DVC21": true
         },
         "Highdeff": {
+            "DVC18": true,
             "DVC21": true
         },
         "KBSmoke760a45d0": {
+            "DVC18": true,
             "DVC21": true
         },
         "Silverthesilent": {
+            "DVC18": true,
             "DVC21": true
         },
         "justhallow": {
+            "DVC18": true,
             "DVC21": true
         },
         "Zyroxen_Xyph": {
+            "DVC18": true,
             "DVC21": true
         },
         "658358741662449 117a": {
+            "DVC18": true,
             "DVC21": true
         },
         "KaylieKitty55": {
+            "DVC18": true,
             "DVC21": true
         },
         "yizmo": {
+            "DVC18": true,
             "DVC21": true
         },
         "100chilly": {
+            "DVC18": true,
             "DVC21": true
         },
         "xross24": {
+            "DVC18": true,
             "DVC21": true
         },
         "LV Jack": {
+            "DVC18": true,
             "DVC21": true
         },
         "UVDarkLight": {
+            "DVC18": true,
             "DVC21": true
         },
         "UnshiftedHawk9 f88a": {
+            "DVC18": true,
             "DVC21": true
         },
         "Daft Punk - Topic 3c99": {
+            "DVC18": true,
             "DVC21": true
         },
         "Neo/Mak": {
+            "DVC18": true,
             "DVC21": true
         },
         "NotCodyTro": {
+            "DVC18": true,
             "DVC21": true
         },
         "HM QUEEN AFTON": {
+            "DVC18": true,
             "DVC21": true
         },
         "Twisted_Carnage2 b7cd": {
+            "DVC18": true,
             "DVC21": true
         },
         "Yumi （ ユミ）": {
             "Color": "E9737B",
+            "DVC18": true,
             "DVC21": true
         }
     },
