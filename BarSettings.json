@@ -421,6 +421,10 @@
                 16
             ]
         },
+        "Broken_Salad": {
+            "Active": true,
+            "DVC21": true
+        },
         "SoftNekoGirl": {
             "DVC18": true
         },
