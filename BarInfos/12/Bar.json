@@ -41,7 +41,7 @@
     "VerifyOnStart": true,
     "AllowDVCStaff": false,
     "UseDVC18Plus": false,
-    "UseDVC21Plus": false,
+    "UseDVC21Plus": true,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
     "IsActive": true
