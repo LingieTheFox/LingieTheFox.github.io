@@ -42,6 +42,7 @@
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
             "PermLevel": 10,
+            "DVC18": true,
             "DVC21": true
         },
         "Riney": {
@@ -67,18 +68,21 @@
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
             "PermLevel": 10,
+            "DVC18": true,
             "DVC21": true
         },
         "Yee-ti Mcgee": {
             "Tier": 6,
             "Color": "FF6600",
             "PermLevel": 9,
+            "DVC18": true,
             "DVC21": true
         },
         "Driven_Cleo": {
             "Tier": 6,
             "PermLevel": 9,
             "Color": "333333",
+            "DVC18": true,
             "DVC21": true
         },
         "Savy Strawberry": {
@@ -88,18 +92,21 @@
             ],
             "Color": "FFD700",
             "PermLevel": 9,
+            "DVC18": true,
             "DVC21": true
         },
         "Salty_Plaguez": {
             "Bars": [
                 2
             ],
+            "DVC18": true,
             "DVC21": true
         },
         "Layla Snow": {
             "Bars": [
                 2
             ],
+            "DVC18": true,
             "DVC21": true
         },
         "Niijikana": {
@@ -109,29 +116,34 @@
             "Tier": 6,
             "Color": "F48CFF",
             "PermLevel": 9,
+            "DVC18": true,
             "DVC21": true
         },
         "KillFrenzy": {
             "Tier": 6,
             "Color": "00D0FF",
             "PermLevel": 9,
+            "DVC18": true,
             "DVC21": true
         },
         "Gobit": {
             "Tier": 6,
             "PermLevel": 9,
             "Color": "FF6600",
+            "DVC18": true,
             "DVC21": true
         },
         "Savvy Chap": {
             "Tier": 6,
             "PermLevel": 7,
             "Color": "FF6600",
+            "DVC18": true,
             "DVC21": true
         },
         "Tamiel_Grimbane": {
             "PermLevel": 7,
             "Color": "FF6600",
+            "DVC18": true,
             "DVC21": true
         },
         "S̷a̷m̷u̷e̷l̷": {
@@ -143,45 +155,54 @@
             "Tier": 6,
             "PermLevel": 9,
             "Color": "B180EE",
+            "DVC18": true,
             "DVC21": true
         },
         "Rokalizeth": {
             "Tier": 1,
             "PermLevel": 9,
             "Color": "FF00FF",
+            "DVC18": true,
             "DVC21": true
         },
         "Tradigar": {
             "PermLevel": 7,
+            "DVC18": true,
             "DVC21": true
         },
         "Dacon": {
             "Tier": 2,
             "Color": "8000FF",
             "JoinMessage": "Not Configured",
+            "DVC18": true,
             "DVC21": true
         },
         "InuWez": {
+            "DVC18": true,
             "DVC21": true
         },
         "bastard bingo": {
+            "DVC18": true,
             "DVC21": true
         },
         "Madgee93": {
             "Tier": 4,
             "Color": "FFFFFF",
+            "DVC18": true,
             "DVC21": true,
             "Bars": [
                 3
             ]
         },
         "Kingswag999": {
+            "DVC18": true,
             "DVC21": true,
             "Bars": [
                 3
             ]
         },
         "FirecatStudios": {
+            "DVC18": true,
             "DVC21": true,
             "Tier": 4,
             "Bars": [
@@ -198,6 +219,7 @@
             "Color": "4DD2FF"
         },
         "Izuki Moon": {
+            "DVC18": true,
             "DVC21": true,
             "Tier": 2,
             "Bars": [
@@ -310,6 +332,7 @@
                 7,
                 8
             ],
+            "DVC18": true,
             "DVC21": true
         },
         "༒ ᴄʜᴀʀʟᴏᴛᴛᴇ ༒": {
@@ -323,6 +346,7 @@
             "Bars": [
                 9
             ],
+            "DVC18": true,
             "DVC21": true
         },
         "Coltnor 9c23": {
@@ -369,6 +393,7 @@
         },
         "ReddChan": {
             "Tier": 2,
+            "DVC18": true,
             "DVC21": true,
             "Color": "05998c"
         },
@@ -442,6 +467,7 @@
         },
         "Broken_Salad": {
             "Tier": 4,
+            "DVC18": true,
             "DVC21": true,
             "Color": "7b0000"
         },
@@ -452,6 +478,7 @@
         },
         "cl4pperz": {
             "Tier": 2,
+            "DVC18": true,
             "DVC21": true,
             "Color": "00FF00"
         },
@@ -506,6 +533,9 @@
         "toastazoid": {
             "DVC18": true
         },
+        "ViperBlade": {
+            "DVC18": true
+        },
         "Ziy Plays Games": {
             "DVC18": true
         },
@@ -521,6 +551,22 @@
             "DVC21": true
         },
         "RickyRocks92": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Teddyinatank": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "skelico": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Krystal62": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "JessyZA": {
             "DVC18": true,
             "DVC21": true
         },
@@ -577,6 +623,14 @@
             "DVC21": true
         },
         "UVDarkLight": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "DanimalCrackerz": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Sunni 8082": {
             "DVC18": true,
             "DVC21": true
         },
