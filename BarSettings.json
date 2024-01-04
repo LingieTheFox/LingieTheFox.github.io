@@ -16,7 +16,8 @@
         "Cheesy Boys",
         "The Tentacle Tavern",
         "F U Bar",
-        "Mikuchan Bar"
+        "Mikuchan Bar",
+        "THE DARK MOON"
     ],
     "Players": {
         "Lingie": {
@@ -37,7 +38,9 @@
                 12,
                 13,
                 14,
-                15
+                15,
+                16,
+                17
             ],
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
@@ -63,7 +66,9 @@
                 12,
                 13,
                 14,
-                15
+                15,
+                16,
+                17
             ],
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
@@ -360,7 +365,7 @@
                 9,
                 10
             ],
-            "Color": "00FFEC",
+            "Color": "00FFEC"
         },
         "SpookyNobody": {
             "Bars": [
@@ -463,6 +468,18 @@
         "ALEX_218": {
             "Bars": [
                 16
+            ]
+        },
+        "her yang": {
+            "Tier": 4,
+            "Bars": [
+                17
+            ],
+            "Color": "191970"
+        },
+        "His yin": {
+            "Bars": [
+                17
             ]
         },
         "Broken_Salad": {
