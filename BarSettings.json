@@ -498,11 +498,23 @@
             "DVC18": true,
             "Color": "7FFFD4"
         },
+        "JessyZA": {
+            "Tier": 2,
+            "DVC18": true,
+            "DVC21": true,
+            "Color": "00FFFD"
+        },
         "cl4pperz": {
             "Tier": 2,
             "DVC18": true,
             "DVC21": true,
             "Color": "00FF00"
+        },
+        "PlagueZomie": {
+            "Tier": 2,
+            "DVC18": true,
+            "DVC21": true,
+            "Color": "7F00FF"
         },
         "SoftNekoGirl": {
             "DVC18": true
