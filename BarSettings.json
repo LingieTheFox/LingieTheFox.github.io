@@ -275,11 +275,95 @@
         },
         "Sparklcat": {
             "Tier": 6,
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 5
             ],
             "Color": "FFCCFF",
             "JoinMessage": "Not configured."
+        },
+        "HankCoca": {
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                5
+            ]
+        },
+        "HighBean": {
+            "Bars": [
+                5
+            ]
+        },
+        "JojoHMD": {
+            "Bars": [
+                5
+            ]
+        },
+        "DarkehPuff": {
+            "Bars": [
+                5
+            ]
+        },
+        "Kurumi Is Gone": {
+            "Bars": [
+                5
+            ]
+        },
+        "Yrden": {
+            "Bars": [
+                5
+            ]
+        },
+        "Sonic342": {
+            "Bars": [
+                5
+            ]
+        },
+        "Ourz": {
+            "Bars": [
+                5
+            ]
+        },
+        "Shadomination": {
+            "Bars": [
+                5
+            ]
+        },
+        "shaddrah": {
+            "Bars": [
+                5
+            ]
+        },
+        "YourMother6729": {
+            "Bars": [
+                5
+            ]
+        },
+        "Shewa456VT": {
+            "Bars": [
+                5
+            ]
+        },
+        "PastaPrincess": {
+            "Bars": [
+                5
+            ]
+        },
+        "Lil_Devil_Luce": {
+            "Bars": [
+                5
+            ]
+        },
+        "ImpishBish": {
+            "Bars": [
+                5
+            ]
+        },
+        "Kimo_Nekowo": {
+            "Bars": [
+                5
+            ]
         },
         "Ko'tu ヅ": {
             "Bars": [
