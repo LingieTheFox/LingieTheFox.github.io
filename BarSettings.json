@@ -17,7 +17,7 @@
         "The Tentacle Tavern",
         "F U Bar",
         "Mikuchan Bar",
-        "THE DARK MOON"
+        "THE DARK MOON",
         "Furry Rave Bar"
     ],
     "Players": {
@@ -41,7 +41,8 @@
                 14,
                 15,
                 16,
-                17
+                17,
+                18
             ],
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
@@ -69,7 +70,8 @@
                 14,
                 15,
                 16,
-                17
+                17,
+                18
             ],
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
