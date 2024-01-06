@@ -236,16 +236,8 @@
             "Color": "7a09c8",
             "JoinMessage": "<Now Entering <color=#7a09c8>Izuki Moon</color>, who totally is not a vtuber XD>"
         },
-        "Tai420": {
-            "Bars": [
-                4
-            ]
-        },
         "Captin_redbeard": {
             "Tier": 2,
-            "Bars": [
-                4
-            ],
             "Color": "9AFF00"
         },
         "༺ღKitty Queenღ༻": {
@@ -256,17 +248,21 @@
             "Color": "FE8BEA",
             "DVC18": true
         },
-        "TheAsianspice": {
-            "Bars": [
-                4
-            ]
-        },
-        "Pryxi Blue": {
-            "Bars": [
-                4
-            ]
-        },
         "-lovethedemon-": {
+            "Bars": [
+                4
+            ]
+        },
+        "-Michebelle-": {
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                4
+            ]
+        },
+        "-yizmo-": {
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 4
             ]
@@ -752,10 +748,6 @@
             "DVC21": true
         },
         "KaylieKitty55": {
-            "DVC18": true,
-            "DVC21": true
-        },
-        "yizmo": {
             "DVC18": true,
             "DVC21": true
         },
