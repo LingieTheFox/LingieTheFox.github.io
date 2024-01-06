@@ -2,13 +2,21 @@
     "Players": {
         "fragmeplz": "S7",
         "Gebiu75": "S6",
-        "༺ɮ ʊ ռ ռ ʏ༻": "S6",
-        "P00kie_w00kie": "S5",
-        "Potat0Girl36 4fcc": "S5",
-        "༒༒MØήk͢͢͢ᴇy༒༒": "D2",
-        "Dizzy820": "S1",
-
+        "P00kie_w00kie": "S6",
+        "dela_432 07c9": "S6",
+        "Tism8358": "S6",
+        "xXDevil 9934": "S6",
+        "Carterking78 cec4": "B4",
+        "FizzGutz": "B4",
+        "SquishyCutie 0478": "D2",
+        "Momma Winter": "D2",
+        "Naveed Ali Abdulraheem 5daa": "D2",
+        
         "GoT_SoMe_PoT 49db": "V1",
+        "RileysWeirdNGL": "V1",
+        "UncleDunkle": "V1",
+        "MrMemeCat": "V1",
+        "༒ＶＩOＬEＴ༒": "V1",
         "Poison 60ee": "V1"
     },
     "Recipes": {
@@ -24,7 +32,7 @@
     "ColorPicker": false,
     "VerifyOnStart": true,
     "AllowDVCStaff": true,
-    "UseDVC18Plus": false,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
