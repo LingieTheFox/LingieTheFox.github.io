@@ -46,7 +46,6 @@
             ],
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
-            "PermLevel": 10,
             "DVC18": true,
             "DVC21": true
         },
@@ -75,7 +74,6 @@
             ],
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
-            "PermLevel": 10,
             "DVC18": true,
             "DVC21": true
         },
