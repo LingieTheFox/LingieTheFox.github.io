@@ -431,7 +431,9 @@
             "Bars": [
                 9
             ],
-            "Color": "FFCCFF"
+            "Color": "FFCCFF",
+            "DVC18": true,
+            "DVC21": true
         },
         "Krul's Winter": {
             "Bars": [
