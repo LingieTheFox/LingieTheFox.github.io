@@ -29,7 +29,7 @@
     "ColorPicker": true,
     "VerifyOnStart": true,
     "AllowDVCStaff": true,
-    "UseDVC18Plus": false,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
