@@ -18,7 +18,8 @@
         "F U Bar",
         "Mikuchan Bar",
         "THE DARK MOON",
-        "Furry Rave Bar"
+        "Furry Rave Bar",
+        "Umbruxeon Cafe"
     ],
     "Players": {
         "Lingie": {
@@ -42,7 +43,8 @@
                 15,
                 16,
                 17,
-                18
+                18,
+                19
             ],
             "Color": "ff4d00",
             "JoinMessage": "<color=#ff4d00>Lingie</color> has joined the world, wiggle wiggle.",
@@ -71,7 +73,8 @@
                 15,
                 16,
                 17,
-                18
+                18,
+                19
             ],
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
@@ -611,6 +614,29 @@
         "kitsunelover432": {
             "Bars": [
                 18
+            ]
+        },
+        "tylerthefennec": {
+            "Tier": 4,
+            "DVC18": true,
+            "Color": "FF0000",
+            "Bars": [
+                19
+            ]
+        },
+        "∗-∗Jynxy∗-∗": {
+            "Bars": [
+                19
+            ]
+        },
+        "SupaEffective": {
+            "Bars": [
+                19
+            ]
+        },
+        "Xenomorph Dreadnought 4894": {
+            "Bars": [
+                19
             ]
         },
         "Broken_Salad": {
