@@ -532,6 +532,41 @@
                 13
             ]
         },
+        "SquishyCutie 0478": {
+            "Bars": [
+                13
+            ]
+        },
+        "Momma Winter": {
+            "Bars": [
+                13
+            ]
+        },
+        "UncleDunkle": {
+            "Bars": [
+                13
+            ]
+        },
+        "Dizzy820": {
+            "Bars": [
+                13
+            ]
+        },
+        "༺ɮ ʊ ռ ռ ʏ༻": {
+            "Bars": [
+                13
+            ]
+        },
+        "xxrazexx": {
+            "Bars": [
+                13
+            ]
+        },
+        "FizzGutz": {
+            "Bars": [
+                13
+            ]
+        },
         "TRUSquidKing": {
             "Tier": 4,
             "Bars": [
@@ -645,7 +680,11 @@
             "Tier": 4,
             "DVC18": true,
             "DVC21": true,
-            "Color": "7b0000"
+            "Color": "7b0000",
+            "Bars": [
+                13
+            ]
+        
         },
         "SLAMjam439": {
             "Tier": 2,
