@@ -985,10 +985,6 @@
             "DVC18": true,
             "DVC21": true
         },
-        "Kuya Kulo": {
-            "DVC18": true,
-            "DVC21": true
-        },
         "j u l o": {
             "DVC18": true,
             "DVC21": true
@@ -1004,7 +1000,7 @@
         "Viru Is Neer U": {
             "DVC18": true,
             "DVC21": true
-        },
+        }
     },
     "GlobalMessage": {
         "Version": 0,
