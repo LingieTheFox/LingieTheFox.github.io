@@ -19,7 +19,8 @@
         "Mikuchan Bar",
         "THE DARK MOON",
         "Furry Rave Bar",
-        "Umbruxeon Cafe"
+        "Umbruxeon Cafe",
+        "Copperhead"
     ],
     "Players": {
         "Lingie": {
@@ -685,6 +686,13 @@
                 13
             ]
 
+        },
+        "NXDGhost": {
+            "Tier": 5,
+            "Color": "FF0000",
+            "Bars": [
+                20
+            ]
         },
         "SLAMjam439": {
             "Tier": 2,
