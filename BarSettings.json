@@ -20,7 +20,8 @@
         "THE DARK MOON",
         "Furry Rave Bar",
         "Umbruxeon Cafe",
-        "Copperhead"
+        "Copperhead",
+        "Cursed Sarai"
     ],
     "Players": {
         "Lingie": {
@@ -568,6 +569,16 @@
                 13
             ]
         },
+        "Broken_Salad": {
+            "Tier": 4,
+            "DVC18": true,
+            "DVC21": true,
+            "Color": "7b0000",
+            "Bars": [
+                13
+            ]
+
+        },
         "TRUSquidKing": {
             "Tier": 4,
             "Bars": [
@@ -677,21 +688,33 @@
                 19
             ]
         },
-        "Broken_Salad": {
-            "Tier": 4,
-            "DVC18": true,
-            "DVC21": true,
-            "Color": "7b0000",
-            "Bars": [
-                13
-            ]
-
-        },
         "NXDGhost": {
             "Tier": 5,
             "Color": "FF0000",
             "Bars": [
                 20
+            ]
+        },
+        "X": {
+            "Tier": 6,
+            "Color": "990000",
+            "Bars": [
+                21
+            ]
+        },
+        "Legoman99573": {
+            "Bars": [
+                21
+            ]
+        },
+        "pocketponyo": {
+            "Bars": [
+                21
+            ]
+        },
+        "AsahiTheCursed": {
+            "Bars": [
+                21
             ]
         },
         "SLAMjam439": {

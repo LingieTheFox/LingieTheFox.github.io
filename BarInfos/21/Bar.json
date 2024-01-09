@@ -1,12 +1,9 @@
 ﻿{
     "Players": {
-        "tylerthefennec": "S7",
-        "∗-∗Jynxy∗-∗": "S6",
-        "SupaEffective": "S6",
-        "Xenomorph Dreadnought 4894": "S6",
-        "Laser Ray": "D2",
-        "Amber Lycan-Fox": "S1",
-        "SimoTheSergal": "S1"
+        "Χ": "S7",
+        "Legoman99573": "S6",
+        "pocketponyo": "S6",
+        "AsahiTheCursed": "S6"
     },
     "Recipes": {
 
@@ -14,13 +11,13 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "Umbruxeon Playlist",
+    "Playlist1Name": "",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": true,
+    "AllowDVCStaff": false,
     "UseDVC18Plus": false,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
