@@ -22,7 +22,7 @@
         "Umbruxeon Cafe",
         "Copperhead",
         "Cursed Sarai",
-        "The Golden Grain"
+        "The Golden Grain",
         "The Cum Company"
     ],
     "Players": {
@@ -85,6 +85,11 @@
             "PermLevel": 10,
             "DVC18": true,
             "DVC21": true
+        },
+        "wolfcry91196": {
+            "Tier": 6,
+            "Color": "bb0000",
+            "PermLevel": 9
         },
         "Yee-ti Mcgee": {
             "Tier": 6,
