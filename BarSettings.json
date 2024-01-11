@@ -23,7 +23,6 @@
         "Copperhead",
         "Cursed Sarai",
         "The Golden Grain",
-        "The Cum Company but cursed",
         "The Cum Company"
     ],
     "Players": {
@@ -739,14 +738,12 @@
             "Tier": 5,
             "Color": "Ffb3c1",
             "Bars": [
-                23,
-                24
+                23
             ]
         },
         "Xandra_": {
             "Bars": [
-                23,
-                24
+                23
             ]
         },
         "Welcius": {
