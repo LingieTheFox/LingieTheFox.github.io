@@ -25,7 +25,8 @@
         "The Golden Grain",
         "The Cum Company",
         "The Reminisce Bar",
-        "NightHowlers Corner"
+        "NightHowlers Corner",
+        "Iris and Lily Blends"
     ],
     "Players": {
         "Lingie": {
@@ -800,6 +801,18 @@
             "Color": "D13101",
             "Bars": [
                 25
+            ]
+        },
+        "Iris Shadows": {
+            "Tier": 6,
+            "Color": "9867c5",
+            "Bars": [
+                26
+            ]
+        },
+        "DeltaNull": {
+            "Bars": [
+                26
             ]
         },
         "SLAMjam439": {
