@@ -23,6 +23,7 @@
         "Copperhead",
         "Cursed Sarai",
         "The Golden Grain",
+        "The Cum Company but cursed",
         "The Cum Company"
     ],
     "Players": {
@@ -151,7 +152,10 @@
             "PermLevel": 9,
             "Color": "FF6600",
             "DVC18": true,
-            "DVC21": true
+            "DVC21": true,
+            "Bars": [
+                22
+            ]
         },
         "Savvy Chap": {
             "Tier": 6,
@@ -724,21 +728,31 @@
                 21
             ]
         },
+        "Sullivan_H": {
+            "Tier": 6,
+            "Color": "FFFFFF",
+            "Bars": [
+                22
+            ]
+        },
         "Tealoafy": {
             "Tier": 5,
             "Color": "Ffb3c1",
             "Bars": [
-                23
+                23,
+                24
             ]
         },
         "Xandra_": {
             "Bars": [
-                23
+                23,
+                24
             ]
         },
         "Welcius": {
             "Bars": [
-                23
+                23,
+                24
             ]
         },
         "SLAMjam439": {

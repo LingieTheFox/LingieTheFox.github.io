@@ -1,0 +1,34 @@
+﻿{
+    "Players": {
+        "Xandra_": "S6",
+        "Welcius": "S6",
+        "MoofyCreates": "V2",
+        "Balregon": "V2",
+        "Arix_Crescent": "V2",
+        "BamBajam": "V2",
+        "RRUDY": "V2",
+        "Jacksin_": "V2",
+        "Shadduppayouface": "V2",
+        "Robobobatron": "V2",
+        "Omega Gen": "V2",
+        "Tealoafy": "S7"
+    },
+    "Recipes": {
+
+    },
+    "DrinkSkins": [ 0 ],
+    "TeamColor": "FFFFFF",
+    "CustomJoinMessage": "",
+    "Playlist1Name": "EDM Playlist",
+    "Playlist2Name": "",
+    "Playlist3Name": "",
+    "DefaultBarLayout": 0,
+    "ColorPicker": false,
+    "VerifyOnStart": true,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": true,
+    "UseDVC21Plus": false,
+    "ReplaceGroupBanners": false,
+    "ReplacePhotoBanners": false,
+    "IsActive": true
+}
