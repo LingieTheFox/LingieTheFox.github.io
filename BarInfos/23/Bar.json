@@ -15,20 +15,5 @@
     },
     "Recipes": {
 
-    },
-    "DrinkSkins": [ 0 ],
-    "TeamColor": "FFFFFF",
-    "CustomJoinMessage": "",
-    "Playlist1Name": "EDM Playlist",
-    "Playlist2Name": "",
-    "Playlist3Name": "",
-    "DefaultBarLayout": 0,
-    "ColorPicker": false,
-    "VerifyOnStart": true,
-    "AllowDVCStaff": true,
-    "UseDVC18Plus": true,
-    "UseDVC21Plus": false,
-    "ReplaceGroupBanners": false,
-    "ReplacePhotoBanners": false,
-    "IsActive": true
+    }
 }
