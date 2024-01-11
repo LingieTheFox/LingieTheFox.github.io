@@ -16,13 +16,13 @@
     "Recipes": {
 
     },
-    "DrinkSkins": [ 0 ],
+    "DrinkSkins": [ 0.0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
     "Playlist1Name": "EDM Playlist",
     "Playlist2Name": "",
     "Playlist3Name": "",
-    "DefaultBarLayout": 0,
+    "DefaultBarLayout": 0.0,
     "ColorPicker": false,
     "VerifyOnStart": true,
     "AllowDVCStaff": true,
