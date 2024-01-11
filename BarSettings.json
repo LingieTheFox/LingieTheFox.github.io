@@ -736,7 +736,7 @@
         },
         "Tealoafy": {
             "Tier": 5,
-            "Color": "Ffb3c1",
+            "Color": "FFB3C1",
             "Bars": [
                 23
             ]
@@ -749,6 +749,48 @@
         "Welcius": {
             "Bars": [
                 23
+            ]
+        },
+        "rymcblock": {
+            "Tier": 5,
+            "Color": "672E9F",
+            "Bars": [
+                24
+            ]
+        },
+        "TomTommy": {
+            "Bars": [
+                24
+            ]
+        },
+        "pr0hobo": {
+            "Bars": [
+                24
+            ]
+        },
+        "Firebugg": {
+            "Bars": [
+                24
+            ]
+        },
+        "Toshii-San": {
+            "Bars": [
+                24
+            ]
+        },
+        "TwistedRivers": {
+            "Bars": [
+                24
+            ]
+        },
+        "Cherbear_rain": {
+            "Bars": [
+                24
+            ]
+        },
+        "Mr․ Weaboo": {
+            "Bars": [
+                24
             ]
         },
         "SLAMjam439": {
