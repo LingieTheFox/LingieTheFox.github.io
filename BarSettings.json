@@ -23,7 +23,9 @@
         "Copperhead",
         "Cursed Sarai",
         "The Golden Grain",
-        "The Cum Company"
+        "The Cum Company",
+        "The Reminisce Bar",
+        "NightHowlers Corner"
     ],
     "Players": {
         "Lingie": {
@@ -791,6 +793,13 @@
         "Mr․ Weaboo": {
             "Bars": [
                 24
+            ]
+        },
+        "TyDause": {
+            "Tier": 5,
+            "Color": "D13101",
+            "Bars": [
+                25
             ]
         },
         "SLAMjam439": {
