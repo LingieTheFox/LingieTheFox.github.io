@@ -818,7 +818,7 @@
         },
         "monkey_clapper 0799": {
             "Tier": 5,
-            "Color": "008B8B",
+            "Color": "4F7942",
             "Bars": [
                 27
             ]
@@ -869,7 +869,23 @@
             "Tier": 2,
             "Color": "00FFFF"
         },
+        "FaeFauna": {
+            "Tier": 2,
+            "Color": "FFFFFF",
+            "DVC18": true
+        },
+        "śmøķěś": {
+            "Tier": 2,
+            "Color": "FF00FF"
+        },
+        "Plsaush": {
+            "Tier": 2,
+            "Color": "043927"
+        },
         "SoftNekoGirl": {
+            "DVC18": true
+        },
+        "Haru Kaneyashi": {
             "DVC18": true
         },
         "Havoc_Akuma": {
