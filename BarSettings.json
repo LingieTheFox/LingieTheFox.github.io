@@ -26,7 +26,8 @@
         "The Cum Company",
         "The Reminisce Bar",
         "NightHowlers Corner",
-        "Iris and Lily Blends"
+        "Iris and Lily Blends",
+        "the cum preachers"
     ],
     "Players": {
         "Lingie": {
@@ -813,6 +814,13 @@
         "DeltaNull": {
             "Bars": [
                 26
+            ]
+        },
+        "monkey_clapper 0799": {
+            "Tier": 5,
+            "Color": "008B8B",
+            "Bars": [
+                27
             ]
         },
         "SLAMjam439": {
