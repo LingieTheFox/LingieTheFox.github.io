@@ -823,6 +823,13 @@
                 27
             ]
         },
+        "Simpplicity": {
+            "Tier": 6,
+            "Color": "4F7942",
+            "Bars": [
+                28
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -881,6 +888,10 @@
         "Plsaush": {
             "Tier": 2,
             "Color": "043927"
+        },
+        "BigPappa_": {
+            "Tier": 2,
+            "Color": "00FF00"
         },
         "SoftNekoGirl": {
             "DVC18": true
@@ -1136,6 +1147,10 @@
             "DVC21": true
         },
         "DanimalCrackerz": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "X_Mino_X": {
             "DVC18": true,
             "DVC21": true
         },
