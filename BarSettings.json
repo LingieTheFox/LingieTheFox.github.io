@@ -27,7 +27,8 @@
         "The Reminisce Bar",
         "NightHowlers Corner",
         "Iris and Lily Blends",
-        "the cum preachers"
+        "the cum preachers",
+        "Simp’s Palace"
     ],
     "Players": {
         "Lingie": {
@@ -825,7 +826,7 @@
         },
         "Simpplicity": {
             "Tier": 6,
-            "Color": "4F7942",
+            "Color": "FFD700",
             "Bars": [
                 28
             ]
