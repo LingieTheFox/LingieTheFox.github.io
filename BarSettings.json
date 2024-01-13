@@ -27,7 +27,8 @@
         "The Reminisce Bar",
         "NightHowlers Corner",
         "Iris and Lily Blends",
-        "the cum preachers"
+        "the cum preachers",
+        "Simp’s Palace"
     ],
     "Players": {
         "Lingie": {
@@ -818,9 +819,16 @@
         },
         "monkey_clapper 0799": {
             "Tier": 5,
-            "Color": "008B8B",
+            "Color": "4F7942",
             "Bars": [
                 27
+            ]
+        },
+        "Simpplicity": {
+            "Tier": 6,
+            "Color": "FFD700",
+            "Bars": [
+                28
             ]
         },
         "SLAMjam439": {
@@ -869,7 +877,31 @@
             "Tier": 2,
             "Color": "00FFFF"
         },
+        "FaeFauna": {
+            "Tier": 2,
+            "Color": "FFFFFF",
+            "DVC18": true
+        },
+        "śmøķěś": {
+            "Tier": 2,
+            "Color": "FF00FF"
+        },
+        "Plsaush": {
+            "Tier": 2,
+            "Color": "043927"
+        },
+        "BigPappa_": {
+            "Tier": 2,
+            "Color": "00FF00"
+        },
+        "Axyrthz": {
+            "Tier": 3,
+            "Color": "4B006E"
+        },
         "SoftNekoGirl": {
+            "DVC18": true
+        },
+        "Haru Kaneyashi": {
             "DVC18": true
         },
         "Havoc_Akuma": {
@@ -1120,6 +1152,10 @@
             "DVC21": true
         },
         "DanimalCrackerz": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "X_Mino_X": {
             "DVC18": true,
             "DVC21": true
         },
