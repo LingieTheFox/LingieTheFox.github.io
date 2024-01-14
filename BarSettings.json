@@ -25,7 +25,7 @@
         "The Golden Grain",
         "The Cum Company",
         "The Reminisce Bar",
-        "THIS BAR IS NO LONGER CONSECRATED",
+        "Silver Owl",
         "Iris and Lily Blends",
         "the cum preachers",
         "Simp’s Palace",
@@ -792,6 +792,13 @@
         "Mr․ Weaboo": {
             "Bars": [
                 24
+            ]
+        },
+        "Angelus custos": {
+            "Tier": 6,
+            "Color": "F81894",
+            "Bars": [
+                25
             ]
         },
         "Iris Shadows": {
