@@ -971,6 +971,10 @@
             "Tier": 2,
             "Color": "EDFFF2"
         },
+        "NamelessDeadMan": {
+            "Tier": 3,
+            "Color": "FF0000"
+        },
         "SoftNekoGirl": {
             "DVC18": true
         },
