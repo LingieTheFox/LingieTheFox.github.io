@@ -28,7 +28,8 @@
         "NightHowlers Corner",
         "Iris and Lily Blends",
         "the cum preachers",
-        "Simp’s Palace"
+        "Simp’s Palace",
+        "༒Interstellar Viper's༒"
     ],
     "Players": {
         "Lingie": {
@@ -831,6 +832,20 @@
                 28
             ]
         },
+        "༒Venoms~Rose༒": {
+            "Tier": 5,
+            "Color": "00FFFF",
+            "Bars": [
+                29
+            ]
+        },
+        "Tazzok": {
+            "Tier": 5,
+            "Color": "00FF00",
+            "Bars": [
+                29
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -871,7 +886,9 @@
         },
         "dbhsnipeking": {
             "Tier": 1,
-            "Color": "008B8B"
+            "Color": "008B8B",
+            "DVC18": true,
+            "DVC21": true
         },
         "N u k h u": {
             "Tier": 2,
@@ -892,7 +909,9 @@
         },
         "BigPappa_": {
             "Tier": 2,
-            "Color": "00FF00"
+            "Color": "00FF00",
+            "DVC18": true,
+            "DVC21": true
         },
         "Axyrthz": {
             "Tier": 3,
@@ -1014,10 +1033,6 @@
             "DVC21": true
         },
         "Kesashii": {
-            "DVC18": true,
-            "DVC21": true
-        },
-        "BigPappa_": {
             "DVC18": true,
             "DVC21": true
         },
