@@ -979,6 +979,20 @@
             "Tier": 2,
             "Color": "3503FF"
         },
+        "CheeseNmac": {
+            "Tier": 2,
+            "Color": "E4DB54",
+            "DVC18": true,
+            "DVC21": true
+        },
+        "sp1ne3ater": {
+            "Tier": 2,
+            "Color": "E6E6FA"
+        },
+        "ŴŐĹŦŔĨĎĔŔ": {
+            "Tier": 1,
+            "Color": "FFFFFF"
+        },
         "SoftNekoGirl": {
             "DVC18": true
         },
