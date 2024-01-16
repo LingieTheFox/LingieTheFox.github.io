@@ -466,14 +466,6 @@
                 9
             ]
         },
-        "FTSGaming": {
-            "Tier": 6,
-            "Bars": [
-                9,
-                10
-            ],
-            "Color": "00FFEC"
-        },
         "SpookyNobody": {
             "Bars": [
                 9
@@ -483,6 +475,28 @@
             "Bars": [
                 9
             ]
+        },
+        "大Crimson大": {
+            "Bars": [
+                9
+            ]
+        },
+        "TrappWaifu": {
+            "Bars": [
+                9
+            ]
+        },
+        "I_amlai": {
+            "Bars": [
+                9
+            ]
+        },
+        "FTSGaming": {
+            "Tier": 6,
+            "Bars": [
+                10
+            ],
+            "Color": "00FFEC"
         },
         "Gspot101": {
             "Tier": 6,
