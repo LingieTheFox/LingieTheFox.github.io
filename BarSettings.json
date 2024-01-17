@@ -618,6 +618,7 @@
             "Color": "004080"
         },
         "Jack-0-Aces": {
+            "DVC18": true,
             "Bars": [
                 14
             ]
@@ -913,6 +914,8 @@
         },
         "Slim355": {
             "Tier": 4,
+            "DVC18": true,
+            "DVC21": true,
             "Color": "FF0000",
             "Bars": [
                 30
@@ -1102,8 +1105,94 @@
         "deepspace3409": {
             "DVC18": true
         },
+        "Watson54 6d37": {
+            "DVC18": true
+        },
+        "spoiledmilk_ b40e": {
+            "DVC18": true
+        },
         "Bailey": {
             "DVC18": true
+        },
+        "Haze_Exi": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Tribalquilava": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Glizy Goblr": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "JackStatic": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "mystic_ember": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "MrFilthybones": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Asher Asmodai": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Aeron Asmodai": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Cobby23": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Killjoy_420": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Zetatrax": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "LordMythix": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "littleDragon904": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "CashMonaaaaaay": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Logan00139 ac0b": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "-REEL-": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "WolffGamerZach": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Omega Gen": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Draven_S": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "ZellorIND": {
+            "DVC18": true,
+            "DVC21": true
         },
         "Captain StarCat": {
             "DVC18": true,
