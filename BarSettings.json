@@ -939,6 +939,14 @@
                 31
             ]
         },
+        "♥NEON♥": {
+            "Tier": 4,
+            "DVC18": true,
+            "Color": "643B9F",
+            "Bars": [
+                32
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -995,6 +1003,10 @@
         "Plsaush": {
             "Tier": 2,
             "Color": "043927"
+        },
+        "Moth Thrive": {
+            "Tier": 1,
+            "Color": "E6E6FA"
         },
         "BigPappa_": {
             "Tier": 2,
@@ -1138,6 +1150,21 @@
         "AKA_LA": {
             "DVC18": true
         },
+        "ᴅᴀʜʟɪᴀྉ": {
+            "DVC18": true
+        },
+        "Awkward_Person": {
+            "DVC18": true
+        },
+        "WintersHowl": {
+            "DVC18": true
+        },
+        "CD21": {
+            "DVC18": true
+        },
+        "Grenda68": {
+            "DVC18": true
+        },
         "_jorts": {
             "DVC18": true
         },
@@ -1148,7 +1175,23 @@
             "DVC18": true,
             "DVC21": true
         },
+        "vick0": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Kuukaku Myuush": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "Tribalquilava": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Kbsmoke760 a4d0": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Apollypse": {
             "DVC18": true,
             "DVC21": true
         },
@@ -1160,11 +1203,19 @@
             "DVC18": true,
             "DVC21": true
         },
+        "SheIsABandFreak": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "mystic_ember": {
             "DVC18": true,
             "DVC21": true
         },
         "MrFilthybones": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "KONATAxGAMING": {
             "DVC18": true,
             "DVC21": true
         },
