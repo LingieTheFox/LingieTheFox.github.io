@@ -30,7 +30,8 @@
         "the cum preachers",
         "Simp’s Palace",
         "༒Interstellar Viper's༒",
-        "Chill Zone"
+        "Chill Zone",
+        "Drunken Maniacs"
     ],
     "Players": {
         "Lingie": {
@@ -919,6 +920,23 @@
             "Color": "FF0000",
             "Bars": [
                 30
+            ]
+        },
+        "♥NEON♥": {
+            "Tier": 4,
+            "Color": "643B9F",
+            "Bars": [
+                31
+            ]
+        },
+        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": {
+            "Bars": [
+                31
+            ]
+        },
+        "ElDragoKing": {
+            "Bars": [
+                31
             ]
         },
         "SLAMjam439": {
