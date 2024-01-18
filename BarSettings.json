@@ -947,6 +947,36 @@
                 32
             ]
         },
+        "GuardianFinnion": {
+            "Bars": [
+                32
+            ]
+        },
+        "TheVoiceGuy21": {
+            "Bars": [
+                32
+            ]
+        },
+        "Whitelight1987": {
+            "Bars": [
+                32
+            ]
+        },
+        "bubilishis58": {
+            "Bars": [
+                32
+            ]
+        },
+        "カミコジー": {
+            "Bars": [
+                32
+            ]
+        },
+        "reapertheshark": {
+            "Bars": [
+                32
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1037,6 +1067,12 @@
         "CheeseNmac": {
             "Tier": 2,
             "Color": "E4DB54",
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Winter Waters": {
+            "Tier": 2,
+            "Color": "AAF0D1",
             "DVC18": true,
             "DVC21": true
         },
