@@ -1,9 +1,17 @@
 {
     "Players": {
-        "♥NEON♥": "S7",
-        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": "S6",
-        "ElDragoKing": "S6",
-        "Sp0okii": "S1"
+        "Luna Iris": "S7",
+        "GuardianFinnion": "S6",
+        "TheVoiceGuy21": "S6",
+        "Whitelight1987": "S6",
+        "bubilishis58": "S6",
+        "カミコジー": "S6",
+        "reapertheshark": "S6",
+        "Reese.958899 c49e": "B4",
+        "WayToTired": "B4",
+        "KingVoices": "B4",
+        "F4t3lkill b320": "S1",
+        "Jamiyah.160637 e111": "S1"
     },
     "Recipes": {
 
@@ -11,13 +19,13 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "Drunken Maniacs",
+    "Playlist1Name": "",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
