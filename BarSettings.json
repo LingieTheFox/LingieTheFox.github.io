@@ -33,7 +33,9 @@
         "Chill Zone",
         "Drunken Maniacs",
         "Sune's Bartenders",
-        "Bar Des Deux Faon"
+        "Bar Des Deux Faon",
+        "LIQUID HAVEN",
+        "The Fizz Bar"
     ],
     "Players": {
         "Lingie": {
@@ -992,6 +994,50 @@
             ],
             "DVC18": true
         },
+        "Bribri72121": {
+            "Tier": 4,
+            "Color": "FFD700",
+            "Bars": [
+                34
+            ]
+        },
+        "duskSuperset218": {
+            "Bars": [
+                34
+            ]
+        },
+        "ღMeloღ": {
+            "Tier": 5,
+            "Color": "FF5733",
+            "Bars": [
+                35
+            ]
+        },
+        "NightPh0enix": {
+            "Bars": [
+                35
+            ]
+        },
+        "༒༒Purple༒༒": {
+            "Bars": [
+                35
+            ]
+        },
+        "XCamalamaX": {
+            "Bars": [
+                35
+            ]
+        },
+        "Lordthomas11": {
+            "Bars": [
+                35
+            ]
+        },
+        "CBGTyte f9c4": {
+            "Bars": [
+                35
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1175,6 +1221,9 @@
         "ViperBlade": {
             "DVC18": true
         },
+        "GuardianFinnion": {
+            "DVC18": true
+        },
         "Cool_Beans": {
             "DVC18": true
         },
@@ -1247,6 +1296,14 @@
             "DVC21": true
         },
         "Apollypse": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "4m0eb4": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "MilesUpshur": {
             "DVC18": true,
             "DVC21": true
         },
