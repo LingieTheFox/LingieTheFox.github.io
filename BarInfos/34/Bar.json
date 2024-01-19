@@ -1,9 +1,10 @@
 {
     "Players": {
-        "♥NEON♥": "S7",
-        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": "S6",
-        "ElDragoKing": "S6",
-        "Sp0okii": "S1"
+        "Bribri72121": "S7",
+        "duskSuperset218": "S6",
+        "John Blaze": "B4",
+        "Elliot_Ghost": "B4",
+        "Phantom_Night": "S1"
     },
     "Recipes": {
 
@@ -11,14 +12,14 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "Drunken Maniacs",
+    "Playlist1Name": "",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
