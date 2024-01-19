@@ -32,7 +32,8 @@
         "༒Interstellar Viper's༒",
         "Chill Zone",
         "Drunken Maniacs",
-        "Sune's Bartenders"
+        "Sune's Bartenders",
+        "Bar Des Deux Faon"
     ],
     "Players": {
         "Lingie": {
@@ -137,9 +138,6 @@
             ],
             "DVC18": true,
             "DVC21": true
-        },
-        "Niijikana": {
-            "DVC18": true
         },
         "morbidlydolly": {
             "Tier": 6,
@@ -978,6 +976,22 @@
                 32
             ]
         },
+
+        "Niijikana": {
+            "Tier": 4,
+            "Bars": [
+                33
+            ],
+            "Color": "AF69EE",
+            "DVC18": true
+        },
+        "Ziy Plays Games": {
+            "Tier": 3,
+            "Bars": [
+                33
+            ],
+            "DVC18": true
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1168,9 +1182,6 @@
             "DVC18": true
         },
         "Ediis": {
-            "DVC18": true
-        },
-        "Ziy Plays Games": {
             "DVC18": true
         },
         "『CoZi MoMo』": {
