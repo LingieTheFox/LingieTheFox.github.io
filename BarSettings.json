@@ -1030,6 +1030,8 @@
             ]
         },
         "Lordthomas11": {
+            "Tier": 2,
+            "Color": "",
             "Bars": [
                 35
             ]
@@ -1153,6 +1155,12 @@
         "NNight_Fox": {
             "Tier": 2,
             "Color": "7DF9FF"
+        },
+        "Linak47": {
+            "Tier": 3,
+            "Color": "B026FF",
+            "DVC18": true,
+            "DVC21": true
         },
         "SoftNekoGirl": {
             "DVC18": true
