@@ -949,6 +949,7 @@
             ]
         },
         "GuardianFinnion": {
+            "DVC18": true,
             "Bars": [
                 32
             ]
@@ -1219,9 +1220,6 @@
             "DVC18": true
         },
         "ViperBlade": {
-            "DVC18": true
-        },
-        "GuardianFinnion": {
             "DVC18": true
         },
         "Cool_Beans": {
