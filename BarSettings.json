@@ -1150,6 +1150,10 @@
             "Tier": 1,
             "Color": "FFFFFF"
         },
+        "NNight_Fox": {
+            "Tier": 2,
+            "Color": "7DF9FF"
+        },
         "SoftNekoGirl": {
             "DVC18": true
         },
