@@ -35,7 +35,8 @@
         "Sune's Bartenders",
         "Bar Des Deux Faon",
         "LIQUID HAVEN",
-        "The Fizz Bar"
+        "The Fizz Bar",
+        "Doomsday Bar"
     ],
     "Players": {
         "Lingie": {
@@ -1039,6 +1040,23 @@
         "CBGTyte f9c4": {
             "Bars": [
                 35
+            ]
+        },
+        "Apollypse": {
+            "Tier": 6,
+            "Color": "140C08",
+            "Bars": [
+                36
+            ]
+        },
+        "JasperTheHero": {
+            "Bars": [
+                36
+            ]
+        },
+        "MenthaShu": {
+            "Bars": [
+                36
             ]
         },
         "SLAMjam439": {

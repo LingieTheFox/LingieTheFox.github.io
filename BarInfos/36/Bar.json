@@ -1,9 +1,13 @@
 {
     "Players": {
-        "♥NEON♥": "S7",
-        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": "S6",
-        "ElDragoKing": "S6",
-        "Sp0okii": "S1"
+        "Apollypse": "S7",
+        "JaspertheHero": "S6",
+        "Menthashu": "S6",
+        "OmegaKarma": "S4",
+        "Crimsonfox501 4488": "S4",
+        "༒eugeo༒": "P3",
+        "Sepsisrott": "S1",
+        "Obsidian.king 6fb5": "S1"
     },
     "Recipes": {
 
@@ -11,14 +15,14 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "Drunken Maniacs",
-    "Playlist2Name": "",
-    "Playlist3Name": "",
+    "Playlist1Name": "SoT Rap",
+    "Playlist2Name": "Bass Boosted",
+    "Playlist3Name": "Nuclear",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
     "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
