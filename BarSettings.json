@@ -1044,6 +1044,8 @@
         },
         "Apollypse": {
             "Tier": 6,
+            "DVC18": true,
+            "DVC21": true,
             "Color": "140C08",
             "Bars": [
                 36
@@ -1330,10 +1332,6 @@
             "DVC21": true
         },
         "Kbsmoke760 a4d0": {
-            "DVC18": true,
-            "DVC21": true
-        },
-        "Apollypse": {
             "DVC18": true,
             "DVC21": true
         },
