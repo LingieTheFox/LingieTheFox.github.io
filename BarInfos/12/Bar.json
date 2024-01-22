@@ -48,5 +48,8 @@
     "UseDVC21Plus": true,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
+    "GroupBannerFrames": 3,
+    "GroupBannerTime": 10,
+    "GroupBannerDeviance": 0,
     "IsActive": true
 }
