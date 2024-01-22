@@ -1,13 +1,9 @@
 {
     "Players": {
-        "Apollypse": "S7",
-        "JaspertheHero": "S6",
-        "Menthashu": "S6",
-        "OmegaKarma": "S4",
-        "Crimsonfox501 4488": "S4",
-        "༒eugeo༒": "P3",
-        "Sepsisrott": "S1",
-        "Obsidian.king 6fb5": "S1"
+        "SavageSymmy": "S7",
+        "BeardedForky": "S6",
+        "Athenagirlo 847a": "S6",
+        "Captainlevi314": "S1"
     },
     "Recipes": {
 
@@ -15,13 +11,13 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "SoT Rap",
-    "Playlist2Name": "Bass Boosted",
-    "Playlist3Name": "Nuclear",
+    "Playlist1Name": "",
+    "Playlist2Name": "",
+    "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,

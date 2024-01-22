@@ -1,17 +1,13 @@
 {
     "Players": {
-        "ღMeloღ": "S7",
-        "NightPh0enix": "S6",
-        "༒༒Purple༒༒": "S6",
-        "XCamalamaX": "S6",
-        "Lordthomas11": "S6",
-        "CBGTyte f9c4": "S6",
-
-        "l0v3ly․1․2 cbcc": "B4",
-        "XxYukiFoxX 8432": "B4",
-        "༒Retro༒": "D3",
-        "CandyCaneChaos": "S1",
-        "~StarDropFaye~": "S1"
+        "Apollypse": "S7",
+        "JaspertheHero": "S6",
+        "Menthashu": "S6",
+        "OmegaKarma": "S4",
+        "Crimsonfox501 4488": "S4",
+        "༒eugeo༒": "P3",
+        "Sepsisrott": "S1",
+        "Obsidian.king 6fb5": "S1"
     },
     "Recipes": {
 
@@ -19,14 +15,14 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "",
-    "Playlist2Name": "",
-    "Playlist3Name": "",
+    "Playlist1Name": "SoT Rap",
+    "Playlist2Name": "Bass Boosted",
+    "Playlist3Name": "Nuclear",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": true,
-    "UseDVC18Plus": false,
+    "AllowDVCStaff": false,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,

@@ -1,9 +1,6 @@
 {
     "Players": {
-        "♥NEON♥": "S7",
-        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": "S6",
-        "ElDragoKing": "S6",
-        "Sp0okii": "S1"
+        "HyperaVipera": "S7"
     },
     "Recipes": {
 
@@ -11,15 +8,15 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "Drunken Maniacs",
+    "Playlist1Name": "Melancholic But Beautiful",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
-    "UseDVC21Plus": false,
+    "UseDVC21Plus": true,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
     "IsActive": true
