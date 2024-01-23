@@ -646,11 +646,8 @@
             ]
         },
         "McRaw": {
-            "Bars": [
-                14
-            ]
-        },
-        "McRaw f4c4": {
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 14
             ]
@@ -1248,6 +1245,14 @@
             "DVC18": true,
             "DVC21": true
         },
+        "Hunt3r-42069": {
+            "Tier": 2,
+            "Color": "00FF00"
+        },
+        "JAHover10": {
+            "Tier": 2,
+            "Color": "00FF00"
+        },
         "SoftNekoGirl": {
             "DVC18": true
         },
@@ -1508,6 +1513,10 @@
             "DVC21": true
         },
         "Draven_S": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Bullet Bunny": {
             "DVC18": true,
             "DVC21": true
         },
