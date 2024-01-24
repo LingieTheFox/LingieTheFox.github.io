@@ -45,7 +45,8 @@
         "The Gypsy Den",
         "The Den",
         "Kaikyo",
-        "CherryPopBar"
+        "CherryPopBar",
+        "The Tempest Bar"
     ],
     "Players": {
         "Lingie": {
@@ -1253,6 +1254,33 @@
         "0val8199": {
             "Bars": [
                 45
+            ]
+        },
+        "Stormeezy": {
+            "Tier": 6,
+            "Color": "FFFFFF",
+            "Bars": [
+                46
+            ]
+        },
+        "llillly": {
+            "Bars": [
+                46
+            ]
+        },
+        "ImLoquan": {
+            "Bars": [
+                46
+            ]
+        },
+        "xMnkyy": {
+            "Bars": [
+                46
+            ]
+        },
+        "siimxvn": {
+            "Bars": [
+                46
             ]
         },
         "SLAMjam439": {

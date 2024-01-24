@@ -1,9 +1,24 @@
 {
     "Players": {
-        "♥NEON♥": "S7",
-        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": "S6",
-        "ElDragoKing": "S6",
-        "Sp0okii": "S1"
+        "Stormeezy": "S7",
+        "llillly": "S6",
+        "ImLoquan": "S6",
+        "xMnkyy": "S6",
+        "siimxvn": "S6",
+
+        "STONERstar420": "B4",
+        "psychelicDuck": "B4",
+        "Kynzie_kynz": "B4",
+        "ant1s0cialcam": "B4",
+        "GoddessSol 5983": "B4",
+        "lBlue Rosel": "B4",
+        "SerenitySouls": "B4",
+        "CashBandit": "B4",
+
+        "Project_Honk21": "S1",
+        "Moster520 9758": "S1",
+        "notazoomer": "S1",
+        "nemesis_1": "S1"
     },
     "Recipes": {
 
@@ -11,14 +26,14 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "Drunken Maniacs",
+    "Playlist1Name": "",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
