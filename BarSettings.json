@@ -40,7 +40,13 @@
         "Miku's Radio Station",
         "Midnight Forest Bar",
         "The Fizz Bar",
-        "The Melancholy Tavern"
+        "The Melancholy Tavern",
+        "Extra Chromies",
+        "The Gypsy Den",
+        "The Den",
+        "Kaikyo",
+        "CherryPopBar",
+        "The Tempest Bar"
     ],
     "Players": {
         "Lingie": {
@@ -106,7 +112,12 @@
         "wolfcry91196": {
             "Tier": 6,
             "Color": "bb0000",
-            "PermLevel": 9
+            "PermLevel": 9,
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                43
+            ]
         },
         "Yee-ti Mcgee": {
             "Tier": 6,
@@ -208,11 +219,14 @@
             "DVC21": true
         },
         "Dacon": {
-            "Tier": 2,
+            "Tier": 3,
             "Color": "8000FF",
             "JoinMessage": "Not Configured",
             "DVC18": true,
-            "DVC21": true
+            "DVC21": true,
+            "Bars": [
+                43
+            ]
         },
         "InuWez": {
             "DVC18": true,
@@ -547,10 +561,10 @@
         },
         "fragmeplz": {
             "Tier": 5,
+            "Color": "7300E6",
             "Bars": [
                 13
-            ],
-            "Color": "7300E6"
+            ]
         },
         "Gebiu75": {
             "Bars": [
@@ -568,6 +582,16 @@
             ]
         },
         "P00kie_w00kie": {
+            "Bars": [
+                13
+            ]
+        },
+        "Solace Kova": {
+            "Bars": [
+                13
+            ]
+        },
+        "V₳₱ØRłZɆR_₲Ɇ₦": {
             "Bars": [
                 13
             ]
@@ -603,6 +627,11 @@
             ]
         },
         "xxrazexx": {
+            "Bars": [
+                13
+            ]
+        },
+        "hun bunny": {
             "Bars": [
                 13
             ]
@@ -966,6 +995,11 @@
                 32
             ]
         },
+        "Whispered Ghost": {
+            "Bars": [
+                32
+            ]
+        },
         "Whitelight1987": {
             "Bars": [
                 32
@@ -1112,6 +1146,144 @@
                 40
             ]
         },
+        "Rxella": {
+            "Tier": 4,
+            "Color": "008080",
+            "Bars": [
+                41
+            ]
+        },
+        "xRogueWolfx": {
+            "Tier": 4,
+            "Color": "00008B",
+            "Bars": [
+                42
+            ]
+        },
+        "Ahamkara_Seeker": {
+            "Tier": 4,
+            "DVC18": true,
+            "DVC21": true,
+            "Color": "87CEEB",
+            "Bars": [
+                43
+            ]
+        },
+        "Fanged_X": {
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                43
+            ]
+        },
+        "lorcan.oord": {
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                43
+            ]
+        },
+        "Ｘａｙｌａ": {
+            "Tier": 5,
+            "Color": "FFA600",
+            "Bars": [
+                44
+            ]
+        },
+        "Freigon": {
+            "Bars": [
+                44
+            ]
+        },
+        "ProsperousStorm": {
+            "Bars": [
+                44
+            ]
+        },
+        "ValDoodlez": {
+            "Bars": [
+                44
+            ]
+        },
+        "Biegonelemons": {
+            "Bars": [
+                44
+            ]
+        },
+        "B0NB0NNIE": {
+            "Bars": [
+                44
+            ]
+        },
+        "Bronco Red": {
+            "Tier": 6,
+            "Color": "F22952",
+            "Bars": [
+                45
+            ]
+        },
+        "lilgremlinx": {
+            "Bars": [
+                45
+            ]
+        },
+        "DaKittyKitty": {
+            "Bars": [
+                45
+            ]
+        },
+        "LilyCherryPup": {
+            "Bars": [
+                45
+            ]
+        },
+        "0Zeke0": {
+            "Bars": [
+                45
+            ]
+        },
+        "DroneFTW": {
+            "Bars": [
+                45
+            ]
+        },
+        "Tac Esproque": {
+            "Bars": [
+                45
+            ]
+        },
+        "0val8199": {
+            "Bars": [
+                45
+            ]
+        },
+        "Stormeezy": {
+            "Tier": 6,
+            "Color": "FFFFFF",
+            "Bars": [
+                46
+            ]
+        },
+        "llillly": {
+            "Bars": [
+                46
+            ]
+        },
+        "ImLoquan": {
+            "Bars": [
+                46
+            ]
+        },
+        "xMnkyy": {
+            "Bars": [
+                46
+            ]
+        },
+        "siimxvn": {
+            "Bars": [
+                46
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1254,6 +1426,11 @@
             "Tier": 2,
             "Color": "00FF00"
         },
+        "Thomalone": {
+            "Tier": 2,
+            "Color": "C21807",
+            "DVC18": true
+        },
         "SoftNekoGirl": {
             "DVC18": true
         },
@@ -1321,9 +1498,6 @@
             "DVC18": true
         },
         "trashbutterfly": {
-            "DVC18": true
-        },
-        "Thomalone": {
             "DVC18": true
         },
         "ViperBlade": {
