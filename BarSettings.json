@@ -1000,6 +1000,7 @@
             "Bars": [
                 33
             ],
+            "Color": "ef4b0e",
             "DVC18": true
         },
         "bribri72121": {
@@ -1703,6 +1704,7 @@
             "DVC21": true
         },
         "X_Mino_X": {
+            "Color": "800000",
             "DVC18": true,
             "DVC21": true
         },
