@@ -51,5 +51,8 @@
     "GroupBannerFrames": 3,
     "GroupBannerTime": 10,
     "GroupBannerDeviance": 0,
+    "PhotoBannerFrames": 3,
+    "PhotoBannerTime": 10,
+    "PhotoBannerDeviance": 0,
     "IsActive": true
 }
