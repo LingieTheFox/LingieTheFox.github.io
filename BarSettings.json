@@ -249,7 +249,8 @@
             "DVC18": true,
             "DVC21": true,
             "Bars": [
-                3
+                3,
+                9
             ]
         },
         "FirecatStudios": {
@@ -481,16 +482,6 @@
             ],
             "DVC18": true,
             "DVC21": true
-        },
-        "Coltnor": {
-            "Bars": [
-                9
-            ]
-        },
-        "SpookyNobody": {
-            "Bars": [
-                9
-            ]
         },
         "Ashes Of War": {
             "Bars": [
@@ -1482,6 +1473,9 @@
             "DVC18": true
         },
         "Red_Fox420": {
+            "DVC18": true
+        },
+        "lCloudzy": {
             "DVC18": true
         },
         "toastazoid": {
