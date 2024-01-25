@@ -44,3 +44,4 @@ The Den
 Kaikyo
 CherryPopBar
 The Tempest Bar
+The Trans Bar

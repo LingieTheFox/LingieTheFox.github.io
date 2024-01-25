@@ -46,7 +46,8 @@
         "The Den",
         "Kaikyo",
         "CherryPopBar",
-        "The Tempest Bar"
+        "The Tempest Bar",
+        "The Trans Bar"
     ],
     "Players": {
         "Lingie": {
@@ -1273,6 +1274,18 @@
         "siimxvn": {
             "Bars": [
                 46
+            ]
+        },
+        "Ravens-Knight": {
+            "Tier": 5,
+            "Color": "F8C8DC",
+            "Bars": [
+                47
+            ]
+        },
+        "Kai Afton": {
+            "Bars": [
+                47
             ]
         },
         "SLAMjam439": {

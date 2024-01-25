@@ -1,9 +1,20 @@
 {
     "Players": {
-        "♥NEON♥": "S7",
-        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": "S6",
-        "ElDragoKing": "S6",
-        "Sp0okii": "S1"
+        "Ravens-Knight": "S7",
+        "Kai Afton": "S6",
+        "scarletwolf3421": "S6",
+        "dahlias_": "S6",
+        "Mae B": "B4",
+        "Austinkps": "B4",
+        "LordDinoNuggie": "B4",
+        "Aria_Songwave": "S1",
+        "Rose_04": "S1",
+        "noscope8": "S1",
+
+        "DairiPanda": "V2",
+        "SneakyAlyx": "V2",
+        "madvela": "V2",
+        "Jhin Wick": "V2"
     },
     "Recipes": {
 
@@ -11,14 +22,14 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "Drunken Maniacs",
+    "Playlist1Name": "",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
