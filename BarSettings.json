@@ -39,7 +39,7 @@
         "Forkies Snuggle Lounge",
         "Miku's Radio Station",
         "Midnight Forest Bar",
-        "The Fizz Bar",
+        "The Fizzy Horizon",
         "The Melancholy Tavern",
         "Extra Chromies",
         "The Gypsy Den",
@@ -47,7 +47,8 @@
         "Kaikyo",
         "CherryPopBar",
         "The Tempest Bar",
-        "The Trans Bar"
+        "The Trans Bar",
+        "The Lilac Lounge"
     ],
     "Players": {
         "Lingie": {
@@ -1083,22 +1084,11 @@
         },
         "ღMeloღ": {
             "Tier": 5,
-            "Color": "FF5733",
-            "Bars": [
-                39
-            ]
-        },
-        "NightPh0enix": {
-            "Bars": [
-                39
-            ]
-        },
-        "༒༒Purple༒༒": {
-            "Bars": [
-                39
-            ]
+            "Color": "FF5733"
         },
         "XCamalamaX": {
+            "Tier": 6,
+            "Color": "9146FF",
             "Bars": [
                 39
             ]
@@ -1109,12 +1099,6 @@
             "Bars": [
                 39
             ]
-        },
-        "CBGTyte f9c4": {
-            "Bars": [
-                39
-            ]
-        },
         "HyperaVipera": {
             "Tier": 4,
             "Color": "BED6E1",
@@ -1270,6 +1254,43 @@
         "Kai Afton": {
             "Bars": [
                 47
+            ]
+        },
+        "DeanWinchester6": {
+            "Tier": 5,
+            "Color": "9146FF",
+            "Bars": [
+                48
+            ]
+        },
+        "JinxNotJinxed": {
+            "Bars": [
+                48
+            ]
+        },
+        "Raine": {
+            "Bars": [
+                48
+            ]
+        },
+        "Safarax": {
+            "Bars": [
+                48
+            ]
+        },
+        "Yumi": {
+            "Bars": [
+                48
+            ]
+        },
+        "chucktheduck127": {
+            "Bars": [
+                48
+            ]
+        },
+        "Sully": {
+            "Bars": [
+                48
             ]
         },
         "SLAMjam439": {

@@ -1,9 +1,15 @@
 {
     "Players": {
-        "♥NEON♥": "S7",
-        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": "S6",
-        "ElDragoKing": "S6",
-        "Sp0okii": "S1"
+        "DeanWinchester6": "S7",
+        "JinxNotJinxed": "S6",
+        "Raine": "S6",
+        "Safarax": "S6",
+        "Yumi": "S6",
+        "chucktheduck127": "S6",
+        "Sully": "S6",
+
+        "Candy-girl": "B4",
+        "Jam Sammich": "S1"
     },
     "Recipes": {
 
@@ -11,13 +17,13 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "Drunken Maniacs",
+    "Playlist1Name": "2000s Throwback Vibes",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
