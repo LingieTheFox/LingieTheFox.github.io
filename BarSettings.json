@@ -1316,6 +1316,26 @@
                 50
             ]
         },
+        "LordKaliYuga": {
+            "Bars": [
+                50
+            ]
+        },
+        "Aironasore": {
+            "Bars": [
+                50
+            ]
+        },
+        "Dinopizza": {
+            "Bars": [
+                50
+            ]
+        },
+        "KalRedKurza": {
+            "Bars": [
+                50
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1470,6 +1490,10 @@
         "ᴋᴏɢᴀ": {
             "Tier": 2,
             "Color": "2E5090"
+        },
+        "RassirR": {
+            "Tier": 2,
+            "Color": "39ff14"
         },
         "SoftNekoGirl": {
             "DVC18": true
