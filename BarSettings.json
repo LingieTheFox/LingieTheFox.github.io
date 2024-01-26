@@ -49,7 +49,8 @@
         "The Tempest Bar",
         "The Trans Bar",
         "The Lilac Lounge",
-        "Ark Angel Alliance"
+        "Ark Angel Alliance",
+        "Kali's Clubhouse"
     ],
     "Players": {
         "Lingie": {
@@ -1307,6 +1308,13 @@
             ],
             "DVC18": true,
             "DVC21": true
+        },
+        "カンナさん": {
+            "Tier": 5,
+            "Color": "01377D",
+            "Bars": [
+                50
+            ]
         },
         "SLAMjam439": {
             "Tier": 2,
