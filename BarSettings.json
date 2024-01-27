@@ -52,7 +52,8 @@
         "Ark Angel Alliance",
         "Kali's Clubhouse",
         "Hoya’s Femboy Tavern",
-        "The Dragon's Nest"
+        "The Dragon's Nest",
+        "Minty Bar"
     ],
     "Players": {
         "Lingie": {
@@ -887,6 +888,7 @@
         },
         "Tazzok": {
             "Tier": 5,
+            "DVC18": true,
             "Color": "00FF00",
             "Bars": [
                 29
@@ -1357,6 +1359,23 @@
                 52
             ]
         },
+        "MarkiSharki": {
+            "Tier": 5,
+            "Color": "D6B4FC",
+            "Bars": [
+                53
+            ]
+        },
+        "Hasturo 30b8": {
+            "Bars": [
+                53
+            ]
+        },
+        "Minty Diluted": {
+            "Bars": [
+                53
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1755,6 +1774,10 @@
             "DVC21": true
         },
         "KONATAxGAMING": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "༒GðßlïñKïñg༒": {
             "DVC18": true,
             "DVC21": true
         },
