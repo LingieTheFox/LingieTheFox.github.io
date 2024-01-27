@@ -51,7 +51,8 @@
         "The Lilac Lounge",
         "Ark Angel Alliance",
         "Kali's Clubhouse",
-        "Hoya’s Femboy Tavern"
+        "Hoya’s Femboy Tavern",
+        "The Dragon's Nest"
     ],
     "Players": {
         "Lingie": {
@@ -1342,6 +1343,13 @@
             "Color": "0000FF",
             "Bars": [
                 51
+            ]
+        },
+        "࿊ɖʀǟɢօռ࿊": {
+            "Tier": 4,
+            "Color": "FF00FD",
+            "Bars": [
+                52
             ]
         },
         "SLAMjam439": {
