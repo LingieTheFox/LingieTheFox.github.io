@@ -1520,11 +1520,14 @@
             "Color": "00FF00"
         },
         "Desuboi941": {
-            "Tier": 2,
-            "Color": "880808"
+            "Tier": 1,
+            "Color": "880808",
+            "DVC18": true,
+            "DVC21": true
         },
         "Amafloofenpie": {
-            "Tier": 2,
+            "Tier": 1,
+            "DVC18": true,
             "Color": "FFC0CB"
         },
         "Thomalone": {
@@ -1598,9 +1601,6 @@
             "DVC18": true
         },
         "dirtdobber": {
-            "DVC18": true
-        },
-        "Amafloofenpie": {
             "DVC18": true
         },
         "Drake-O-Kid d299": {
@@ -1733,10 +1733,6 @@
             "DVC21": true
         },
         "Kbsmoke760 a4d0": {
-            "DVC18": true,
-            "DVC21": true
-        },
-        "Desuboi941": {
             "DVC18": true,
             "DVC21": true
         },
