@@ -53,7 +53,9 @@
         "Kali's Clubhouse",
         "Hoya’s Femboy Tavern",
         "The Dragon's Nest",
-        "Minty Bar"
+        "Minty Bar",
+        "The Sorrow Sip",
+        "Sunflower Yakuza"
     ],
     "Players": {
         "Lingie": {
@@ -319,6 +321,11 @@
             ]
         },
         "Shinobi_Girl": {
+            "Bars": [
+                4
+            ]
+        },
+        "'Nightfall'": {
             "Bars": [
                 4
             ]
@@ -1376,6 +1383,59 @@
                 53
             ]
         },
+        "ZZ_Ignis": {
+            "Tier": 5,
+            "Color": "800909",
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                54
+            ]
+        },
+        "LuxieFen": {
+            "Bars": [
+                54
+            ]
+        },
+        "ZircronSwift": {
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                54
+            ]
+        },
+        "RevRampage": {
+            "Bars": [
+                54
+            ]
+        },
+        "FunkyMissy": {
+            "Bars": [
+                54
+            ]
+        },
+        "SqueakzTheGhost": {
+            "Tier": 5,
+            "Color": "FFCC33",
+            "Bars": [
+                55
+            ]
+        },
+        "JessHedgie": {
+            "Bars": [
+                55
+            ]
+        },
+        "fav_heritic999": {
+            "Bars": [
+                55
+            ]
+        },
+        "Spice Sage": {
+            "Bars": [
+                55
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1831,10 +1891,6 @@
             "DVC18": true,
             "DVC21": true
         },
-        "ZZ_Ignis": {
-            "DVC18": true,
-            "DVC21": true
-        },
         "LoveLanguage": {
             "DVC18": true,
             "DVC21": true
@@ -1967,10 +2023,6 @@
             "DVC21": true
         },
         "KaijuGrimpora": {
-            "DVC18": true,
-            "DVC21": true
-        },
-        "ZircronSwift": {
             "DVC18": true,
             "DVC21": true
         },
