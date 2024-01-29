@@ -30,9 +30,7 @@
         "Scotsman-66": "V1",
         "Carolynbabe ": "V1"
     },
-    "Recipes": {
-
-    },
+    "Recipes": "",
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
@@ -51,8 +49,7 @@
     "GroupBannerFrames": 3,
     "GroupBannerTime": 10,
     "GroupBannerDeviance": 0,
-    "PhotoBannerFrames": 3,
+    "PhotoBannerFrames": 10,
     "PhotoBannerTime": 10,
-    "PhotoBannerDeviance": 0,
-    "IsActive": true
+    "PhotoBannerDeviance": 0
 }
