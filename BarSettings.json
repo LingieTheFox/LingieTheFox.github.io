@@ -1615,6 +1615,12 @@
             "Tier": 2,
             "Color": "FF0000"
         },
+        "livedarkened": {
+            "Tier": 2,
+            "Color": "FF0000",
+            "DVC18": true,
+            "DVC21": true
+        },
         "SoftNekoGirl": {
             "DVC18": true
         },
