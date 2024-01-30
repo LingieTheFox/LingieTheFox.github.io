@@ -1010,7 +1010,7 @@
                 32
             ]
         },
-        "Blayze9": {
+        "vRaller": {
             "Bars": [
                 32
             ]
@@ -1564,6 +1564,12 @@
         "NNight_Fox": {
             "Tier": 2,
             "Color": "7DF9FF"
+        },
+        "Eatmomuffens": {
+            "Tier": 4,
+            "DVC18": true,
+            "DVC21": true,
+            "Color": "FFFFFF"
         },
         "StorMRagE4EVA": {
             "Tier": 2,
