@@ -1,9 +1,11 @@
 {
     "Players": {
-        "♥NEON♥": "S7",
-        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": "S6",
-        "ElDragoKing": "S6",
-        "Sp0okii": "S1"
+        "TyrannyQueenKyo": "S7",
+        "RubyGamer": "S5",
+        "TsukiiCookies": "S5",
+        "Revos Dracul": "S5",
+        "lucinasebie da08": "S5",
+        "TheUnholyBucket": "D2"
     },
     "Recipes": {
 
@@ -11,7 +13,7 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "Drunken Maniacs",
+    "Playlist1Name": "",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
