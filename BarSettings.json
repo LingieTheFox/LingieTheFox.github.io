@@ -1614,7 +1614,8 @@
         },
         "Lyla_Vr": {
             "Tier": 3,
-            "Color": "FFB7C5"
+            "Color": "FFB7C5",
+            "DVC18": true
         },
         "Linak47": {
             "Tier": 3,
