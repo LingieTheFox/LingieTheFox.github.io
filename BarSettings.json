@@ -1678,6 +1678,12 @@
             "Tier": 2,
             "Color": "800080"
         },
+        "ღċһєяяʏҡıṭṭєṅღ": {
+            "Tier": 2,
+            "Color": "800080",
+            "DVC18": true,
+            "DVC21": true
+        },
         "livedarkened": {
             "Tier": 2,
             "Color": "FF0000",
