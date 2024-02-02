@@ -1,9 +1,14 @@
 {
     "Players": {
-        "♥NEON♥": "S7",
-        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": "S6",
-        "ElDragoKing": "S6",
-        "Sp0okii": "S1"
+        "VannyGlitchn": "S7",
+        "FourStorm": "S6",
+        "BrotherBronco 4971": "S6",
+        "Jaxson Rye": "S5",
+        "Lik3whisper1 d709": "B4",
+        "Gunnight ad66": "B4",
+        "MetalTofu": "B4",
+        "Cadenlover": "P3",
+        "narimus_pirme19": "S1"
     },
     "Recipes": {
 
@@ -11,13 +16,13 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "Drunken Maniacs",
-    "Playlist2Name": "",
+    "Playlist1Name": "90's Hip-Hop R&B",
+    "Playlist2Name": "Vivziepop Song Playlist",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
-    "VerifyOnStart": true,
-    "AllowDVCStaff": false,
+    "VerifyOnStart": false,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
