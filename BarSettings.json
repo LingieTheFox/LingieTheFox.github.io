@@ -49,7 +49,7 @@
         "The Tempest Bar",
         "The Trans Bar",
         "The Lilac Lounge",
-        "Ark Angel Alliance",
+        "Hellwolf Mafia Bar",
         "Kali's Clubhouse",
         "Hoya’s Femboy Tavern",
         "The Dragon's Nest",
@@ -1318,11 +1318,18 @@
         "ArkAngelStudios": {
             "Tier": 4,
             "Color": "A15C97",
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 49
-            ],
+            ]
+        },
+        "Hellwolf7770": {
             "DVC18": true,
-            "DVC21": true
+            "DVC21": true,
+            "Bars": [
+                49
+            ]
         },
         "カンナさん": {
             "Tier": 5,
@@ -1479,6 +1486,13 @@
                 59
             ]
         },
+        "nxrf": {
+            "Tier": 4,
+            "Color": "4B0082",
+            "Bars": [
+                60
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1626,13 +1640,18 @@
         },
         "Eatmomuffens": {
             "Tier": 4,
+            "Color": "FFFFFF",
             "DVC18": true,
-            "DVC21": true,
-            "Color": "FFFFFF"
+            "DVC21": true
         },
         "AlexTheOni": {
             "Tier": 2,
             "Color": "872A96"
+        },
+        "TA TripleJ": {
+            "Tier": 2,
+            "Color": "872A96",
+            "DVC18": true
         },
         "Lyla_Vr": {
             "Tier": 3,
@@ -1876,7 +1895,22 @@
         "_jorts": {
             "DVC18": true
         },
+        "Pepetotal": {
+            "DVC18": true
+        },
+        "Obellius": {
+            "DVC18": true
+        },
+        "p8rf a3ac": {
+            "DVC18": true
+        },
         "GalaxyBac": {
+            "DVC18": true
+        },
+        "Kahless": {
+            "DVC18": true
+        },
+        "BlixertheMochi": {
             "DVC18": true
         },
         "daftkunt": {
@@ -1893,10 +1927,6 @@
             "DVC21": true
         },
         "Pentahead": {
-            "DVC18": true,
-            "DVC21": true
-        },
-        "Hellwolf7770": {
             "DVC18": true,
             "DVC21": true
         },
@@ -2145,9 +2175,6 @@
             "DVC18": true,
             "DVC21": true
         },
-        "Kahless": {
-            "DVC18": true
-        },
         "Darkedge2285": {
             "Tier": 1,
             "Color": "ADD8E6",
@@ -2176,7 +2203,7 @@
             "DVC18": true,
             "DVC21": true
         },
-        "PapaNode": {
+        "KayTea Dragon": {
             "DVC18": true,
             "DVC21": true
         },
@@ -2201,6 +2228,10 @@
             "DVC21": true
         },
         "BabyGuts": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Cöcö": {
             "DVC18": true,
             "DVC21": true
         },
