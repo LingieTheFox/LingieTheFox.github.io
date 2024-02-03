@@ -26,7 +26,7 @@
         "The Cum Company",
         "The Reminisce Bar",
         "Silver Owl",
-        "Iris' Blends",
+        "Blooming Iris",
         "the cum preachers",
         "Simp’s Palace",
         "༒Interstellar Viper's༒",
@@ -878,6 +878,11 @@
                 26
             ]
         },
+        "AmonTheDead": {
+            "Bars": [
+                26
+            ]
+        },
         "monkey_clapper 0799": {
             "Tier": 5,
             "Color": "4F7942",
@@ -1333,6 +1338,16 @@
                 49
             ]
         },
+        "Cruxia the yeen": {
+            "Bars": [
+                49
+            ]
+        },
+        "CYANIDE_ADD1CT": {
+            "Bars": [
+                49
+            ]
+        },
         "カンナさん": {
             "Tier": 5,
             "Color": "01377D",
@@ -1493,6 +1508,13 @@
             "Color": "4B0082",
             "Bars": [
                 60
+            ]
+        },
+        "ᴮᵒᵗˢ": {
+            "Tier": 5,
+            "Color": "40E0D0",
+            "Bars": [
+                61
             ]
         },
         "SLAMjam439": {
@@ -1900,6 +1922,9 @@
         "Pepetotal": {
             "DVC18": true
         },
+        "ballisticgaming": {
+            "DVC18": true
+        },
         "Obellius": {
             "DVC18": true
         },
@@ -1945,6 +1970,10 @@
             "DVC21": true
         },
         "Gothicxa": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "໒Kuchisakeა": {
             "DVC18": true,
             "DVC21": true
         },
