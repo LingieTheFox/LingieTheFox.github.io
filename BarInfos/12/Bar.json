@@ -44,7 +44,7 @@
     "AllowDVCStaff": false,
     "UseDVC18Plus": false,
     "UseDVC21Plus": true,
-    "ReplaceGroupBanners": false,
+    "ReplaceGroupBanners": true,
     "ReplacePhotoBanners": true,
     "GroupBannerFrames": 6,
     "GroupBannerTime": 10,
