@@ -506,21 +506,6 @@
                 9
             ]
         },
-        "大Crimson大": {
-            "Bars": [
-                9
-            ]
-        },
-        "TrappWaifu": {
-            "Bars": [
-                9
-            ]
-        },
-        "I_amlai": {
-            "Bars": [
-                9
-            ]
-        },
         "FTSGaming": {
             "Tier": 6,
             "Bars": [
@@ -992,6 +977,11 @@
             ]
         },
         "TheVoiceGuy21": {
+            "Bars": [
+                32
+            ]
+        },
+        "shortblue0": {
             "Bars": [
                 32
             ]
@@ -1487,6 +1477,7 @@
         "TyrannyQueenKyo": {
             "Tier": 6,
             "Color": "FFB7C5",
+            "DVC18": true,
             "Bars": [
                 58
             ]
@@ -1520,6 +1511,26 @@
             "Color": "40E0D0",
             "Bars": [
                 61
+            ]
+        },
+        "I_amlai": {
+            "Tier": 5,
+            "Color": "FF69B4",
+            "Bars": [
+                9,
+                62
+            ]
+        },
+        "大Crimson大": {
+            "Bars": [
+                9,
+                62
+            ]
+        },
+        "TrappWaifu": {
+            "Bars": [
+                9,
+                62
             ]
         },
         "SLAMjam439": {
@@ -1655,6 +1666,12 @@
             "DVC18": true,
             "DVC21": true
         },
+        "༒GavinRP༒": {
+            "Tier": 2,
+            "Color": "AC5E98",
+            "DVC18": true,
+            "DVC21": true
+        },
         "sp1ne3ater": {
             "Tier": 2,
             "Color": "E6E6FA"
@@ -1753,6 +1770,10 @@
             "Tier": 2,
             "Color": "800080"
         },
+        "TheFluxGoddess": {
+            "Tier": 1,
+            "Color": "FFFFFF"
+        },
         "ღċһєяяʏҡıṭṭєṅღ": {
             "Tier": 2,
             "Color": "800080",
@@ -1764,6 +1785,10 @@
             "Color": "FF0000",
             "DVC18": true,
             "DVC21": true
+        },
+        "༺₱H₳NTØM~FØX༻": {
+            "Tier": 2,
+            "Color": "E02C05"
         },
         "Xotics0": {
             "Tier": 2,
@@ -1939,10 +1964,22 @@
         "GalaxyBac": {
             "DVC18": true
         },
-        "Kahless": {
+        "InkyHearts": {
+            "DVC18": true
+        },
+        "FroggoBonano": {
             "DVC18": true
         },
         "BlixertheMochi": {
+            "DVC18": true
+        },
+        "OriginalSparky": {
+            "DVC18": true
+        },
+        "Kahless": {
+            "DVC18": true
+        },
+        "Kori247": {
             "DVC18": true
         },
         "daftkunt": {
@@ -1958,7 +1995,15 @@
             "DVC18": true,
             "DVC21": true
         },
+        "chaotic_dragon": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "Pentahead": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Greg_Arashi": {
             "DVC18": true,
             "DVC21": true
         },
@@ -1975,6 +2020,10 @@
             "DVC21": true
         },
         "Gothicxa": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "-NOBU'SHI-": {
             "DVC18": true,
             "DVC21": true
         },
@@ -1995,6 +2044,10 @@
             "DVC21": true
         },
         "sweaterpaws": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Athenagirlo": {
             "DVC18": true,
             "DVC21": true
         },
