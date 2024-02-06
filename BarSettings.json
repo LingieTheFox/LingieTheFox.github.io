@@ -511,6 +511,11 @@
                 9
             ]
         },
+        "Coltnor": {
+            "Bars": [
+                9
+            ]
+        },
         "FTSGaming": {
             "Tier": 6,
             "Bars": [
@@ -1777,7 +1782,7 @@
         },
         "TheFluxGoddess": {
             "Tier": 1,
-            "Color": "FFFFFF"
+            "Color": "9799EF"
         },
         "ღċһєяяʏҡıṭṭєṅღ": {
             "Tier": 2,
@@ -1905,6 +1910,9 @@
             "DVC18": true
         },
         "Bailey": {
+            "DVC18": true
+        },
+        "shadowblade0": {
             "DVC18": true
         },
         "Chrikopher": {
