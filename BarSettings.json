@@ -1810,6 +1810,15 @@
             "DVC18": true,
             "DVC21": true
         },
+        "shadowblade0": {
+            "Tier": 2,
+            "Color": "FF0000",
+            "DVC18": true
+        },
+        "ƚσαʂƚ": {
+            "Tier": 2,
+            "Color": "5C0007"
+        },
         "SoftNekoGirl": {
             "DVC18": true
         },
@@ -1916,9 +1925,6 @@
             "DVC18": true
         },
         "Bailey": {
-            "DVC18": true
-        },
-        "shadowblade0": {
             "DVC18": true
         },
         "Chrikopher": {
