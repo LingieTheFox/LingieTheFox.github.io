@@ -1,5 +1,22 @@
 {
     "Players": {
+        "I_amlai": "S7",
+        "大Crimson大": "S6",
+        "TrappWaifu": "S6",
+        "alex․hunt d860": "B4",
+        "Rose_Melody18": "B4",
+        "mystnox 4b2f ": "D4",
+        "Spiffwagon": "P3",
+        "itzfives": "S1",
+
+        "EcholoNation": "V1",
+        "Fox_boi_2 f675": "V1",
+        "BlackFiddy": "V1",
+        "CloudQueens": "V1",
+        "Fruit Warrior ec3c": "V1",
+        "Madgee93": "V2",
+        "Solaris_Tempest": "V2",
+        "KingSwag999": "V2"
 
     },
     "Recipes": {
@@ -8,14 +25,14 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "",
+    "Playlist1Name": "Bloom And Brew",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
