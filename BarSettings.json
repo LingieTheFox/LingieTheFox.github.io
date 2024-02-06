@@ -1819,7 +1819,9 @@
         },
         "ƚσαʂƚ": {
             "Tier": 2,
-            "Color": "5C0007"
+            "Color": "5C0007",
+            "DVC18": true,
+            "DVC21": true
         },
         "SoftNekoGirl": {
             "DVC18": true
