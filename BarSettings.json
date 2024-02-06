@@ -1702,7 +1702,9 @@
         },
         "AlexTheOni": {
             "Tier": 2,
-            "Color": "872A96"
+            "Color": "872A96",
+            "DVC18": true,
+            "DVC21": true
         },
         "TA TripleJ": {
             "Tier": 2,
@@ -1823,6 +1825,9 @@
             "DVC18": true
         },
         "Haru Kaneyashi": {
+            "DVC18": true
+        },
+        "Sħa̷đɇđØn̷ɏx": {
             "DVC18": true
         },
         "Havoc_Akuma": {
