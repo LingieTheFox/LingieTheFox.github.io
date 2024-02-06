@@ -1799,6 +1799,12 @@
             "Tier": 2,
             "Color": "E39FF6"
         },
+        "GodzOdin": {
+            "Tier": 3,
+            "Color": "280137",
+            "DVC18": true,
+            "DVC21": true
+        },
         "SoftNekoGirl": {
             "DVC18": true
         },
@@ -1995,6 +2001,20 @@
         },
         "WildfireAster": {
             "DVC18": true
+        },
+        "bluetonic․_․16": {
+            "DVC18": true
+        },
+        "NickTheRican": {
+            "DVC18": true
+        },
+        "Stoner Rick": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Some Stoner": {
+            "DVC18": true,
+            "DVC21": true
         },
         "Haze_Exi": {
             "DVC18": true,
