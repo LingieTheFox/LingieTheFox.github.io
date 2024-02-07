@@ -1848,9 +1848,13 @@
             "DVC18": true,
             "DVC21": true
         },
-        "Izzy_DJ_ ": {
+        "Izzy_DJ_": {
             "Tier": 2,
             "Color": "301934"
+        },
+        "NeroTheZero": {
+            "Tier": 3,
+            "Color": "FFBF00"
         },
         "NightWolf08": {
             "DVC18": true
