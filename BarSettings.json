@@ -62,7 +62,10 @@
         "Hell Bent.",
         "Wanna have a drink",
         "Druid Den",
-        "Bloom And Brew"
+        "Bloom And Brew",
+        "WOLF LOUNGE",
+        "Serpents Mist",
+        "The Poison Oak Tavern"
     ],
     "Players": {
         "Lingie": {
@@ -2018,6 +2021,9 @@
         "OriginalSparky": {
             "DVC18": true
         },
+        "AchillesVv": {
+            "DVC18": true
+        },
         "Kahless": {
             "DVC18": true
         },
@@ -2033,7 +2039,22 @@
         "WildfireAster": {
             "DVC18": true
         },
+        "Tw01nch": {
+            "DVC18": true
+        },
+        "littleslappy03": {
+            "DVC18": true
+        },
+        "tanjito_mojito": {
+            "DVC18": true
+        },
+        "Playnation": {
+            "DVC18": true
+        },
         "bluetonic․_․16": {
+            "DVC18": true
+        },
+        "IamChase56": {
             "DVC18": true
         },
         "NickTheRican": {
@@ -2048,6 +2069,34 @@
             "DVC21": true
         },
         "Haze_Exi": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "radicalconduit_3": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "OZZIETHERED": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "NitroLoonaWolf": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "BoxieBon": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Reel_Floridaman": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "RoseEvergeen": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Alprazo.exe": {
             "DVC18": true,
             "DVC21": true
         },
