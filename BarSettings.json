@@ -1856,6 +1856,10 @@
             "Tier": 3,
             "Color": "FFBF00"
         },
+        "Hokkanen": {
+            "Tier": 2,
+            "Color": "32CD32"
+        },
         "NightWolf08": {
             "DVC18": true
         },
@@ -2116,6 +2120,14 @@
             "DVC21": true
         },
         "Reel_Floridaman": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "kaptain_kat": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "HadrianNoClip": {
             "DVC18": true,
             "DVC21": true
         },
