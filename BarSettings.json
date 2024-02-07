@@ -1549,6 +1549,25 @@
                 62
             ]
         },
+        "Kaitro Vivora": {
+            "Tier": 4,
+            "Color": "00FFFF",
+            "Bars": [
+                63
+            ]
+        },
+        "~Eclipsed_Moon~": {
+            "Tier": 5,
+            "Color": "FF0000",
+            "Bars": [
+                64
+            ]
+        },
+        "lilpeep20 b13e": {
+            "Bars": [
+                64
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
