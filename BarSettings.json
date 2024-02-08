@@ -65,7 +65,8 @@
         "Bloom And Brew",
         "WOLF LOUNGE",
         "Serpents Mist",
-        "The Poison Oak Tavern"
+        "The Poison Oak Tavern",
+        "The Last Stop"
     ],
     "Players": {
         "Lingie": {
@@ -973,16 +974,6 @@
                 31
             ]
         },
-        "ᴍᴇʟᴏᴍᴀɴɪᴀᴄ": {
-            "Bars": [
-                31
-            ]
-        },
-        "ElDragoKing": {
-            "Bars": [
-                31
-            ]
-        },
         "Luna Iris": {
             "Tier": 4,
             "DVC18": true,
@@ -1573,6 +1564,55 @@
                 64
             ]
         },
+        "WillowThorn21": {
+            "Tier": 5,
+            "Color": "83ED70",
+            "Bars": [
+                65
+            ]
+        },
+        "Samibear999": {
+            "Bars": [
+                65
+            ]
+        },
+        "DarkZeh": {
+            "Bars": [
+                65
+            ]
+        },
+        "zmanx2": {
+            "Tier": 4,
+            "Color": "0096FF",
+            "Bars": [
+                66
+            ]
+        },
+        "Purity VII": {
+            "Bars": [
+                66
+            ]
+        },
+        "Eevo": {
+            "Bars": [
+                66
+            ]
+        },
+        "FatherBreakfast": {
+            "Bars": [
+                66
+            ]
+        },
+        "VibesnotVibing": {
+            "Bars": [
+                66
+            ]
+        },
+        "Ethious": {
+            "Bars": [
+                66
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -2077,6 +2117,9 @@
         "Tw01nch": {
             "DVC18": true
         },
+        "Stardustt05": {
+            "DVC18": true
+        },
         "littleslappy03": {
             "DVC18": true
         },
@@ -2136,6 +2179,14 @@
             "DVC21": true
         },
         "kaptain_kat": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Sutoka": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "blaketheboss567": {
             "DVC18": true,
             "DVC21": true
         },

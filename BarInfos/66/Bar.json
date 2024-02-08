@@ -1,6 +1,13 @@
 {
     "Players": {
-
+        "zmanx2": "S7",
+        "Purity VII": "S6",
+        "Eevo": "S6",
+        "FatherBreakfast": "S6",
+        "VibesnotVibing": "S6",
+        "Ethious": "S6",
+        "KP-Yayo": "B4",
+        "alexwake30": "B4"
     },
     "Recipes": {
 
@@ -8,14 +15,14 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "",
+    "Playlist1Name": "Playlist Was Not Found  - Lingie",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
