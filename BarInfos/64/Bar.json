@@ -1,6 +1,16 @@
 {
     "Players": {
+        "~Eclipsed_Moon~": "S7",
+        "lilpeep20 b13e": "S6",
+        "Pecus210": "S6",
+        "Noomie89 8659": "S6",
 
+        "OriginalSparky": "S4",
+        "preafyx 7792": "B4",
+
+        "MissMilla": "V1",
+        "ZBM_1204": "V1",
+        "Muyan": "V1"
     },
     "Recipes": {
 
@@ -8,14 +18,14 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "",
+    "Playlist1Name": "Midnight Drunkards",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,

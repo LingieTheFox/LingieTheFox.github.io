@@ -1,6 +1,9 @@
 {
     "Players": {
-
+        "Kaitro Vivora": "S7",
+        "Mr Meeseecks": "S6",
+        "BlacKatVR": "S6",
+        "cuddles2": "S5"
     },
     "Recipes": {
 
@@ -8,13 +11,13 @@
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
-    "Playlist1Name": "",
+    "Playlist1Name": "FURRY RAVE MIX 2023",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
