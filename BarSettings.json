@@ -68,7 +68,8 @@
         "The Poison Oak Tavern",
         "The Last Stop",
         "Mirage’s Bar & Nightclub",
-        "The Rainbow Falls"
+        "The Rainbow Falls",
+        "Haven’s Solace"
     ],
     "Players": {
         "Lingie": {
@@ -1656,6 +1657,28 @@
         "FakeSniperKing": {
             "Bars": [
                 68
+            ]
+        },
+        "HavenBlitzerv2": {
+            "Tier": 5,
+            "Color": "7800FF",
+            "Bars": [
+                69
+            ]
+        },
+        "Michael`": {
+            "Bars": [
+                69
+            ]
+        },
+        "Indigo Martinex": {
+            "Bars": [
+                69
+            ]
+        },
+        "RWBY SAPPHIRE": {
+            "Bars": [
+                69
             ]
         },
         "SLAMjam439": {
