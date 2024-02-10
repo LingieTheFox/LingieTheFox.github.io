@@ -66,7 +66,8 @@
         "WOLF LOUNGE",
         "Serpents Mist",
         "The Poison Oak Tavern",
-        "The Last Stop"
+        "The Last Stop",
+        "Mirage’s Bar & Nightclub"
     ],
     "Players": {
         "Lingie": {
@@ -1630,6 +1631,18 @@
         "Ethious": {
             "Bars": [
                 66
+            ]
+        },
+        "Only Mirage": {
+            "Tier": 6,
+            "Color": "663399",
+            "Bars": [
+                67
+            ]
+        },
+        "༒ D E A T H ༒": {
+            "Bars": [
+                67
             ]
         },
         "SLAMjam439": {

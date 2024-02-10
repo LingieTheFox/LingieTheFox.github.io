@@ -1,6 +1,24 @@
 {
     "Players": {
+        "Only Mirage": "S7",
+        "༒ D E A T H ༒": "S6",
 
+        "THEBOXMAN": "B2",
+
+        "Ｅｘａｍｐｌｅ": "D2",
+        "jezyjule21": "D2",
+
+        "NylaB0nes": "D3",
+
+        "_Plasma": "S1",
+        "ƒALL€₪₭¡₪g₽A₪₫A": "S1",
+        "Fe Psyt": "S1",
+        "BIF_Teapot": "S1",
+        "D̸e҉m̶̍̄o̶几's": "S1",
+        "Julia Ortiz": "S1",
+        "Stinky Gwew": "S1",
+
+        "AerrahTessa": "V2"
     },
     "Recipes": {
 
@@ -13,11 +31,10 @@
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
-    "VerifyOnStart": true,
-    "AllowDVCStaff": false,
+    "VerifyOnStart": false,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
-    "ReplacePhotoBanners": false,
-    "IsActive": true
+    "ReplacePhotoBanners": false
 }
