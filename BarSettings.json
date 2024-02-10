@@ -305,10 +305,6 @@
             "Color": "7a09c8",
             "JoinMessage": "<Now Entering <color=#7a09c8>Izuki Moon</color>, who totally is not a vtuber XD>"
         },
-        "Captin_redbeard": {
-            "Tier": 2,
-            "Color": "9AFF00"
-        },
         "༺ღKitty Queenღ༻": {
             "Tier": 6,
             "Bars": [
@@ -341,10 +337,26 @@
                 4
             ]
         },
-        "'Nightfall'": {
+        "Captin_redbeard": {
+            "Tier": 2,
+            "Color": "9AFF00",
             "Bars": [
                 4
             ]
+        },
+        "evepop04": {
+            "Bars": [
+                4
+            ],
+            "DVC18": true,
+            "DVC21": true
+        },
+        "CashMonaaaaaay": {
+            "Bars": [
+                4
+            ],
+            "DVC18": true,
+            "DVC21": true
         },
         "Sparklcat": {
             "Tier": 6,
@@ -2318,10 +2330,6 @@
             "DVC18": true,
             "DVC21": true
         },
-        "evepop04": {
-            "DVC18": true,
-            "DVC21": true
-        },
         "blue'berry": {
             "DVC18": true,
             "DVC21": true
@@ -2436,10 +2444,6 @@
             "DVC21": true
         },
         "littleDragon904": {
-            "DVC18": true,
-            "DVC21": true
-        },
-        "CashMonaaaaaay": {
             "DVC18": true,
             "DVC21": true
         },
