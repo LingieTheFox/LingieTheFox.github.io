@@ -67,7 +67,8 @@
         "Serpents Mist",
         "The Poison Oak Tavern",
         "The Last Stop",
-        "Mirage’s Bar & Nightclub"
+        "Mirage’s Bar & Nightclub",
+        "The Rainbow Falls"
     ],
     "Players": {
         "Lingie": {
@@ -1645,6 +1646,18 @@
                 67
             ]
         },
+        "ndpape6723 8da3": {
+            "Tier": 6,
+            "Color": "CE0000",
+            "Bars": [
+                68
+            ]
+        },
+        "FakeSniperKing": {
+            "Bars": [
+                68
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1875,10 +1888,6 @@
         "KiyoEventide": {
             "Tier": 2,
             "Color": "00FF00"
-        },
-        "ndpape6723 8da3": {
-            "Tier": 3,
-            "Color": "CE0000"
         },
         "Wolfie Devil": {
             "Tier": 2,

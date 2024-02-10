@@ -1,6 +1,22 @@
 {
     "Players": {
+        "ndpape6723 8da3": "S7",
+        "FakeSniperKing": "S6",
+        "xX_Oliver_Xx": "S5",
 
+        "redpandaxox": "B4",
+
+        "z0m8i3530sl4y3r": "S1",
+
+        "Zetashirken": "V2",
+
+        "JustMickel": "V1",
+        "N3on": "V1",
+        "Maeva_cieveit": "V1",
+        "NatsuYeen": "V1",
+        "YukiHashi": "V1",
+        "DsEg TigerClaw": "V1",
+        "yakio_.": "V1"
     },
     "Recipes": {
 
@@ -14,7 +30,7 @@
     "DefaultBarLayout": 0,
     "ColorPicker": false,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
