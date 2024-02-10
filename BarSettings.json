@@ -69,7 +69,8 @@
         "The Last Stop",
         "Mirage’s Bar & Nightclub",
         "The Rainbow Falls",
-        "Haven’s Solace"
+        "Haven’s Solace",
+        "legend the Digital Den"
     ],
     "Players": {
         "Lingie": {
@@ -1679,6 +1680,13 @@
         "RWBY SAPPHIRE": {
             "Bars": [
                 69
+            ]
+        },
+        "criscojack19": {
+            "Tier": 6,
+            "Color": "03045E",
+            "Bars": [
+                70
             ]
         },
         "SLAMjam439": {
