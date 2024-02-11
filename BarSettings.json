@@ -174,13 +174,6 @@
             "DVC18": true,
             "DVC21": true
         },
-        "Layla Snow": {
-            "Bars": [
-                2
-            ],
-            "DVC18": true,
-            "DVC21": true
-        },
         "morbidlydolly": {
             "Tier": 6,
             "Color": "F48CFF",
@@ -2348,6 +2341,10 @@
             "DVC21": true
         },
         "~~Astrid~~": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Layla Snow": {
             "DVC18": true,
             "DVC21": true
         },
