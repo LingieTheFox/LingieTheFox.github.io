@@ -2364,6 +2364,12 @@
             "DVC18": true,
             "DVC21": true
         },
+        "BoG Bryce": {
+            "tier": 1,
+            "color": "FF0000",
+            "DVC18": true,
+            "DVC21": true
+        },
         "Onyx0622": {
             "DVC18": true,
             "DVC21": true
