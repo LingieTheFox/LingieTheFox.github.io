@@ -1014,6 +1014,11 @@
                 32
             ]
         },
+        "MochaFox55": {
+            "Bars": [
+                32
+            ]
+        },
         "Whispered Ghost": {
             "Bars": [
                 32
@@ -1980,6 +1985,10 @@
         "Hokkanen": {
             "Tier": 2,
             "Color": "32CD32"
+        },
+        "SHADOWSNIGHT1 03e0": {
+            "Tier": 2,
+            "Color": "880808"
         },
         "NightWolf08": {
             "DVC18": true
