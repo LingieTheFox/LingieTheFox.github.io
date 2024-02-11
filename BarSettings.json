@@ -1716,6 +1716,10 @@
             "Tier": 3,
             "Color": "62567e"
         },
+        "kittydogDiamond": {
+            "Tier": 1,
+            "Color": "FFFFFF"
+        },
         "Xetem": {
             "Tier": 3,
             "Color": "801111"
@@ -2089,6 +2093,9 @@
             "DVC18": true
         },
         "Bailey": {
+            "DVC18": true
+        },
+        "༒Lady shida༒": {
             "DVC18": true
         },
         "Chrikopher": {
