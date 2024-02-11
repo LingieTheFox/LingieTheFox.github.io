@@ -1014,6 +1014,11 @@
                 32
             ]
         },
+        "MochaFox55": {
+            "Bars": [
+                32
+            ]
+        },
         "Whispered Ghost": {
             "Bars": [
                 32
@@ -1716,6 +1721,10 @@
             "Tier": 3,
             "Color": "62567e"
         },
+        "kittydogDiamond": {
+            "Tier": 1,
+            "Color": "FFFFFF"
+        },
         "Xetem": {
             "Tier": 3,
             "Color": "801111"
@@ -1977,6 +1986,14 @@
             "Tier": 2,
             "Color": "32CD32"
         },
+        "SHADOWSNIGHT1 03e0": {
+            "Tier": 2,
+            "Color": "880808"
+        },
+        "ღѕυηѕнιηє": {
+            "Tier": 1,
+            "Color": "F8C8DC"
+        },
         "NightWolf08": {
             "DVC18": true
         },
@@ -2089,6 +2106,9 @@
             "DVC18": true
         },
         "Bailey": {
+            "DVC18": true
+        },
+        "༒Lady shida༒": {
             "DVC18": true
         },
         "Chrikopher": {
@@ -2440,6 +2460,10 @@
             "DVC21": true
         },
         "mystic_ember": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Mochesemo": {
             "DVC18": true,
             "DVC21": true
         },
