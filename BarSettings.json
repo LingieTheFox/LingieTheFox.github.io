@@ -128,11 +128,7 @@
                 12,
                 13,
                 14,
-                15,
-                16,
-                17,
-                18,
-                19
+                32
             ],
             "Color": "674AE2",
             "JoinMessage": "<color=#674AE2>Riney</color> has joined the world.  Nyaa~",
@@ -581,6 +577,11 @@
             ]
         },
         "Claw1358": {
+            "Bars": [
+                12
+            ]
+        },
+        "Beckwith2": {
             "Bars": [
                 12
             ]
