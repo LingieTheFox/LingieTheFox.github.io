@@ -1,20 +1,21 @@
 {
     "Players": {
-        "rawr": "S7"
+        "DeviousPolar": "S7",
+        "YenshinNakamura": "S6"
     },
     "Recipes": "",
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
     "Entitlements": "",
-    "Playlist1Name": "",
+    "Playlist1Name": "Club Phoenix Playlist",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": true,
     "VerifyOnStart": true,
     "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": true,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,

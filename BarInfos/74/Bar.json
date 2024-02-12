@@ -1,6 +1,28 @@
 {
     "Players": {
-        "rawr": "S7"
+        "Lyla_Vr": "S7",
+        "~~RoseQuarts~~": "S6",
+        "Toker_": "S6",
+        "RavenGR cf05": "S6",
+        "Happy Chaos f213": "S6",
+
+        "_Gumball_": "S4",
+        "DoctorLucyMoth": "S4",
+        "mellowquail": "B4",
+        "Scar_Wolf": "B4",
+        "Shadcast": "B4",
+        "XYZ-KingNova": "B4",
+        "ZylaWolfie": "B4",
+        "inkguygaming": "B4",
+        "Lumifur": "B4",
+        "mia-nyan": "B4",
+        "Sy08": "B4",
+        "Whatiswrongwith": "B4",
+        "Xiavania": "B4",
+        "彡Kionixitria彡": "B4",
+        "StSebbe": "S1",
+        "stealSlayer": "S1",
+        "MommaTsunami": "S1"
     },
     "Recipes": "",
     "DrinkSkins": [ 0 ],
@@ -13,7 +35,7 @@
     "DefaultBarLayout": 0,
     "ColorPicker": true,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": true,
     "ReplaceGroupBanners": false,

@@ -70,7 +70,14 @@
         "Mirage’s Bar & Nightclub",
         "The Rainbow Falls",
         "Haven’s Solace",
-        "legend the Digital Den"
+        "legend the Digital Den",
+        "Seduction Cellar",
+        "The VRPunks",
+        "The Graveyard Bar",
+        "Trans Bar",
+        "E.R.P Cafe (Enterprise Resource Planning)",
+        "Club Phoenix",
+        "Moon's Bar"
     ],
     "Players": {
         "Lingie": {
@@ -1246,7 +1253,8 @@
         },
         "LilyCherryPup": {
             "Bars": [
-                45
+                45,
+                71
             ]
         },
         "0Zeke0": {
@@ -1687,6 +1695,161 @@
                 70
             ]
         },
+        "Vaydda": {
+            "Tier": 5,
+            "Color": "FFD700",
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                71
+            ]
+        },
+        "Rustykick": {
+            "Bars": [
+                71
+            ]
+        },
+        "Lnight": {
+            "Bars": [
+                71
+            ]
+        },
+        "DanteZRD": {
+            "Bars": [
+                71
+            ]
+        },
+        "G0DofCha0s": {
+            "Bars": [
+                71
+            ]
+        },
+        "CrystalzFPS": {
+            "Bars": [
+                71
+            ]
+        },
+        "BiggieZacYT": {
+            "Bars": [
+                71
+            ]
+        },
+        "BasicBlondeBitc": {
+            "Bars": [
+                71
+            ]
+        },
+        "รɭเ๓є๏Ŧг๏Շ": {
+            "Bars": [
+                71
+            ]
+        },
+        "BeepPuppy": {
+            "Tier": 4,
+            "Color": "07ADEC",
+            "Bars": [
+                73
+            ]
+        },
+        "J Λ ᄃ K": {
+            "Bars": [
+                73
+            ]
+        },
+        "Naviress": {
+            "Bars": [
+                73
+            ]
+        },
+        "Teaboned": {
+            "Bars": [
+                73
+            ]
+        },
+        "Lyla_Vr": {
+            "Tier": 4,
+            "Color": "03045E",
+            "DVC18": true,
+            "Bars": [
+                74
+            ]
+        },
+        "~~RoseQuarts~~": {
+            "Bars": [
+                74
+            ]
+        },
+        "Toker_": {
+            "Bars": [
+                74
+            ]
+        },
+        "RavenGR cf05": {
+            "Bars": [
+                74
+            ]
+        },
+        "Happy Chaos f213": {
+            "Bars": [
+                74
+            ]
+        },
+        "Rina": {
+            "Tier": 6,
+            "Color": "FF69B4",
+            "Bars": [
+                75
+            ]
+        },
+        "DeviousPolar": {
+            "Tier": 5,
+            "Color": "1F51FF",
+            "Bars": [
+                76
+            ]
+        },
+        "YenshinNakamura": {
+            "Bars": [
+                76
+            ]
+        },
+        "Shadur": {
+            "Tier": 5,
+            "Color": "643B9F",
+            "Bars": [
+                77
+            ]
+        },
+        "MinnowSnipe": {
+            "Bars": [
+                77
+            ]
+        },
+        "Nilou420": {
+            "Bars": [
+                77
+            ]
+        },
+        "TheGodKingJake": {
+            "Bars": [
+                77
+            ]
+        },
+        "MagicHodor": {
+            "Bars": [
+                77
+            ]
+        },
+        "BrianderFuchs": {
+            "Bars": [
+                77
+            ]
+        },
+        "knifeYTking": {
+            "Bars": [
+                77
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1859,11 +2022,6 @@
             "Color": "872A96",
             "DVC18": true
         },
-        "Lyla_Vr": {
-            "Tier": 3,
-            "Color": "FFB7C5",
-            "DVC18": true
-        },
         "Linak47": {
             "Tier": 3,
             "Color": "B026FF",
@@ -1983,9 +2141,9 @@
             "Tier": 2,
             "Color": "880808"
         },
-        "ღѕυηѕнιηє": {
-            "Tier": 1,
-            "Color": "F8C8DC"
+        "__Charlie___": {
+            "Tier": 2,
+            "Color": "FF69B4"
         },
         "NightWolf08": {
             "DVC18": true
@@ -2127,6 +2285,9 @@
         "Awkward_Person": {
             "DVC18": true
         },
+        "Cutesoul": {
+            "DVC18": true
+        },
         "oхyღ": {
             "DVC18": true
         },
@@ -2173,6 +2334,9 @@
             "DVC18": true
         },
         "InkyHearts": {
+            "DVC18": true
+        },
+        "_The_Shadow_": {
             "DVC18": true
         },
         "FroggoBonano": {
@@ -2232,10 +2396,6 @@
         "Mysticc0-0": {
             "DVC18": true
         },
-        "Vaydda": {
-            "DVC18": true,
-            "DVC21": true
-        },
         "Stoner Rick": {
             "DVC18": true,
             "DVC21": true
@@ -2273,6 +2433,14 @@
             "DVC21": true
         },
         "Reel_Floridaman": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "BrandonRoock": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "ThorinBloodfang": {
             "DVC18": true,
             "DVC21": true
         },
@@ -2383,6 +2551,8 @@
             "DVC21": true
         },
         "Skdakota": {
+            "Tier": 3,
+            "Color": "601EF9",
             "DVC18": true,
             "DVC21": true
         },
@@ -2467,6 +2637,10 @@
             "DVC21": true
         },
         "Mochesemo": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "KnightDude": {
             "DVC18": true,
             "DVC21": true
         },
@@ -2739,11 +2913,6 @@
             "DVC18": true,
             "DVC21": true
         },
-        "X_Mino_X": {
-            "Color": "800000",
-            "DVC18": true,
-            "DVC21": true
-        },
         "Sunni 8082": {
             "DVC18": true,
             "DVC21": true
@@ -2810,6 +2979,39 @@
         "Viru Is Neer U": {
             "DVC18": true,
             "DVC21": true
+        },
+        "X_Mino_X": {
+            "Tier": 1,
+            "Color": "800000",
+            "DVC18": true,
+            "DVC21": true
+        },
+        "ღѕυηѕнιηє": {
+            "Tier": 2,
+            "Color": "F8C8DC"
+        },
+        "VRTender": {
+            "Tier": 1,
+            "Color": "FF0000"
+        },
+        "Biggiecheese2003": {
+            "Tier": 1,
+            "Color": "DC143C",
+            "DVC18": true
+        },
+        "Siins": {
+            "Tier": 1,
+            "Color": "00FF00",
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Astrxtickz": {
+            "Tier": 1,
+            "Color": "FFFFFF"
+        },
+        "ThisIsNot2d": {
+            "Tier": 1,
+            "Color": "B026FF"
         }
     },
     "GlobalMessage": {

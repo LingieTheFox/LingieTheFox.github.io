@@ -1,6 +1,9 @@
 {
     "Players": {
-        "rawr": "S7"
+        "BeepPuppy": "S7",
+        "J Λ ᄃ K": "S6",
+        "Naviress": "S6",
+        "Teaboned": "S6"
     },
     "Recipes": "",
     "DrinkSkins": [ 0 ],
@@ -13,7 +16,7 @@
     "DefaultBarLayout": 0,
     "ColorPicker": true,
     "VerifyOnStart": true,
-    "AllowDVCStaff": false,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": true,
     "ReplaceGroupBanners": false,
