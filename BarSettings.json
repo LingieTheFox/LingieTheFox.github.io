@@ -140,7 +140,7 @@
         },
         "wolfcry91196": {
             "Tier": 6,
-            "Color": "bb0000",
+            "Color": "BB0000",
             "PermLevel": 9,
             "DVC18": true,
             "DVC21": true,
@@ -281,39 +281,40 @@
             ]
         },
         "FirecatStudios": {
+            "Tier": 4,
             "DVC18": true,
             "DVC21": true,
-            "Tier": 4,
+            "Color": "FF0000",
+            "JoinMessage": "Not Configured",
             "Bars": [
                 6
-            ],
-            "Color": "FF0000",
-            "JoinMessage": "Not Configured"
+            ]
         },
         "CarolineLeonaCC": {
+            "DVC18": true,
             "DVC21": true,
+            "Color": "4DD2FF",
             "Bars": [
                 6
-            ],
-            "Color": "4DD2FF"
+            ]
         },
         "Izuki Moon": {
             "DVC18": true,
             "DVC21": true,
+            "Color": "7a09c8",
             "Tier": 3,
             "Bars": [
                 4
             ],
-            "Color": "7a09c8",
             "JoinMessage": "<Now Entering <color=#7a09c8>Izuki Moon</color>, who totally is not a vtuber XD>"
         },
         "༺ღKitty Queenღ༻": {
             "Tier": 6,
+            "DVC18": true,
+            "Color": "FE8BEA",
             "Bars": [
                 4
-            ],
-            "Color": "FE8BEA",
-            "DVC18": true
+            ]
         },
         "-lovethedemon-": {
             "Bars": [
@@ -334,11 +335,6 @@
                 4
             ]
         },
-        "Shinobi_Girl": {
-            "Bars": [
-                4
-            ]
-        },
         "Captin_redbeard": {
             "Tier": 2,
             "Color": "9AFF00",
@@ -347,28 +343,28 @@
             ]
         },
         "evepop04": {
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 4
-            ],
-            "DVC18": true,
-            "DVC21": true
+            ]
         },
         "CashMonaaaaaay": {
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 4
-            ],
-            "DVC18": true,
-            "DVC21": true
+            ]
         },
         "Sparklcat": {
             "Tier": 6,
             "DVC18": true,
             "DVC21": true,
+            "Color": "FFCCFF",
+            "JoinMessage": "Not configured.",
             "Bars": [
                 5
-            ],
-            "Color": "FFCCFF",
-            "JoinMessage": "Not configured."
+            ]
         },
         "HankCoca": {
             "DVC18": true,
@@ -488,7 +484,7 @@
             ]
         },
         "EnchanterTim": {
-            "Tier": 3,
+            "Tier": 5,
             "Color": "00FFFF"
         },
         "milly13pop 63dc": {
@@ -504,28 +500,28 @@
         },
         "Tup Tup ヅ": {
             "Tier": 6,
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 7,
                 8
-            ],
-            "DVC18": true,
-            "DVC21": true
+            ]
         },
         "ゃ ᴠᴀʟᴇʀɪᴀ ゃ": {
             "Tier": 5,
-            "Bars": [
-                9
-            ],
             "Color": "FFCCFF",
             "DVC18": true,
-            "DVC21": true
-        },
-        "Krul's Winter": {
+            "DVC21": true,
             "Bars": [
                 9
-            ],
+            ]
+        },
+        "Krul's Winter": {
             "DVC18": true,
-            "DVC21": true
+            "DVC21": true,
+            "Bars": [
+                9
+            ]
         },
         "Ashes Of War": {
             "Bars": [
@@ -539,19 +535,21 @@
         },
         "FTSGaming": {
             "Tier": 6,
+            "Color": "00FFEC",
             "Bars": [
                 10
-            ],
-            "Color": "00FFEC"
+            ]
+        },
+        "SerenityDefiled": {
+            "Tier": 6,
+            "Color": "960019",
+            "Bars": [
+                11
+            ]
         },
         "Gspot101": {
             "Tier": 6,
-            "Bars": [
-                12
-            ],
-            "Color": "00DD00"
-        },
-        "Brigantia": {
+            "Color": "00DD00",
             "Bars": [
                 12
             ]
@@ -565,13 +563,6 @@
             "Bars": [
                 12
             ]
-        },
-        "SerenityDefiled": {
-            "Tier": 6,
-            "Bars": [
-                11
-            ],
-            "Color": "960019"
         },
         "ᴅιvιɴᴇᴀɴԍᴇʟ": {
             "Bars": [
@@ -608,7 +599,7 @@
                 13
             ]
         },
-        "dela_432 07c9": {
+        "dela_432": {
             "Bars": [
                 13
             ]
@@ -638,7 +629,7 @@
                 13
             ]
         },
-        "SquishyCutie 0478": {
+        "SquishyCutie": {
             "Bars": [
                 13
             ]
@@ -654,11 +645,6 @@
             ]
         },
         "Dizzy820": {
-            "Bars": [
-                13
-            ]
-        },
-        "༺ɮ ʊ ռ ռ ʏ༻": {
             "Bars": [
                 13
             ]
@@ -690,10 +676,10 @@
         },
         "TRUSquidKing": {
             "Tier": 4,
+            "Color": "004080",
             "Bars": [
                 14
-            ],
-            "Color": "004080"
+            ]
         },
         "Jack-0-Aces": {
             "DVC18": true,
@@ -720,17 +706,17 @@
         },
         "The Rodent": {
             "Tier": 4,
+            "Color": "FF5F1F",
             "Bars": [
                 15
-            ],
-            "Color": "FF5F1F"
+            ]
         },
         "༺ʍɨӄʊ༻": {
             "Tier": 4,
+            "Color": "FF69B4",
             "Bars": [
                 16
-            ],
-            "Color": "FF69B4"
+            ]
         },
         "Dūśtÿ": {
             "Bars": [
@@ -739,10 +725,10 @@
         },
         "her yang": {
             "Tier": 4,
+            "Color": "191970",
             "Bars": [
                 17
-            ],
-            "Color": "191970"
+            ]
         },
         "His yin": {
             "Bars": [
@@ -753,11 +739,6 @@
             "Tier": 4,
             "DVC18": true,
             "Color": "FF00FF",
-            "Bars": [
-                18
-            ]
-        },
-        "SimonaSimpSolar": {
             "Bars": [
                 18
             ]
@@ -805,11 +786,6 @@
             ]
         },
         "Legoman99573": {
-            "Bars": [
-                21
-            ]
-        },
-        "pocketponyo": {
             "Bars": [
                 21
             ]
@@ -927,6 +903,7 @@
         },
         "༒Violet~Rose༒": {
             "Tier": 5,
+            "DVC18": true,
             "Color": "00FFFF",
             "Bars": [
                 29
@@ -953,11 +930,11 @@
         "Ari_Shadow0022": {
             "Tier": 2,
             "Color": "FF69B4",
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 29
-            ],
-            "DVC18": true,
-            "DVC21": true
+            ]
         },
         "ThePeeps": {
             "Bars": [
@@ -1055,19 +1032,19 @@
         },
         "Niijikana": {
             "Tier": 4,
+            "Color": "AF69EE",
+            "DVC18": true,
             "Bars": [
                 33
-            ],
-            "Color": "AF69EE",
-            "DVC18": true
+            ]
         },
         "Ziy Plays Games": {
             "Tier": 3,
+            "Color": "ef4b0e",
+            "DVC18": true,
             "Bars": [
                 33
-            ],
-            "Color": "ef4b0e",
-            "DVC18": true
+            ]
         },
         "bribri72121": {
             "Tier": 4,
@@ -1076,7 +1053,7 @@
                 34
             ]
         },
-        "duskSuperset218": {
+        "DuskSuperset218": {
             "Bars": [
                 34
             ]
@@ -1091,11 +1068,6 @@
             ]
         },
         "JasperTheHero": {
-            "Bars": [
-                35
-            ]
-        },
-        "MenthaShu": {
             "Bars": [
                 35
             ]
@@ -1138,11 +1110,11 @@
             ]
         },
         "SilasTheFluff": {
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 38
-            ],
-            "DVC18": true,
-            "DVC21": true
+            ]
         },
         "ღMeloღ": {
             "Tier": 5,
@@ -1337,17 +1309,7 @@
                 48
             ]
         },
-        "Yumi": {
-            "Bars": [
-                48
-            ]
-        },
         "chucktheduck127": {
-            "Bars": [
-                48
-            ]
-        },
-        "Sully": {
             "Bars": [
                 48
             ]
@@ -1412,14 +1374,14 @@
                 51
             ]
         },
-        "࿊ɖʀǟɢօռ࿊": {
+        "P a w s": {
+            "Tier": 4,
+            "Color": "FF00FD",
             "Bars": [
                 52
             ]
         },
-        "P a w s": {
-            "Tier": 4,
-            "Color": "FF00FD",
+        "࿊ɖʀǟɢօռ࿊": {
             "Bars": [
                 52
             ]
@@ -1451,11 +1413,6 @@
             "Color": "800909",
             "DVC18": true,
             "DVC21": true,
-            "Bars": [
-                54
-            ]
-        },
-        "LuxieFen": {
             "Bars": [
                 54
             ]
@@ -1530,11 +1487,6 @@
             ]
         },
         "FourStorm": {
-            "Bars": [
-                59
-            ]
-        },
-        "BrotherBronco 4971": {
             "Bars": [
                 59
             ]
@@ -1774,11 +1726,6 @@
             ]
         },
         "~~RoseQuarts~~": {
-            "Bars": [
-                74
-            ]
-        },
-        "Toker_": {
             "Bars": [
                 74
             ]
@@ -2161,7 +2108,9 @@
         },
         "__Charlie___": {
             "Tier": 2,
-            "Color": "FF69B4"
+            "Color": "FF69B4",
+            "DVC18": true,
+            "DVC21": true
         },
         "Yukiah": {
             "Tier": 2,
