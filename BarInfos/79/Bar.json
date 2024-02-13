@@ -1,21 +1,22 @@
 {
     "Players": {
-        "rawr": "S7"
+        "Pinkiex": "S7",
+        "Alpha King": "S7"
     },
     "Recipes": "",
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
     "Entitlements": "",
-    "Playlist1Name": "",
-    "Playlist2Name": "",
+    "Playlist1Name": "Summer Party Mix",
+    "Playlist2Name": "Top NEFFEX Songs",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
-    "ColorPicker": true,
+    "ColorPicker": false,
     "VerifyOnStart": true,
     "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
-    "UseDVC21Plus": true,
+    "UseDVC18Plus": true,
+    "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,
     "GroupBannerFrames": 1,

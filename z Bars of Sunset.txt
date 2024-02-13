@@ -75,3 +75,5 @@ Trans Bar
 E.R.P Cafe (Enterprise Resource Planning)
 Club Phoenix
 Moon's Bar
+The Mad Bar
+Boom Box Bar

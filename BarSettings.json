@@ -77,7 +77,9 @@
         "Trans Bar",
         "E.R.P Cafe (Enterprise Resource Planning)",
         "Club Phoenix",
-        "Moon's Bar"
+        "Moon's Bar",
+        "The Mad Bar",
+        "Boom Box Bar"
     ],
     "Players": {
         "Lingie": {
@@ -594,6 +596,8 @@
         },
         "fragmeplz": {
             "Tier": 5,
+            "DVC18": true,
+            "DVC21": true,
             "Color": "7300E6",
             "Bars": [
                 13
@@ -726,9 +730,9 @@
             "Bars": [
                 16
             ],
-            "Color": "FFC0CB"
+            "Color": "FF69B4"
         },
-        "ALEX_218": {
+        "Dūśtÿ": {
             "Bars": [
                 16
             ]
@@ -995,12 +999,6 @@
             "Tier": 4,
             "DVC18": true,
             "Color": "fcafee",
-            "Bars": [
-                32
-            ]
-        },
-        "GuardianFinnion": {
-            "DVC18": true,
             "Bars": [
                 32
             ]
@@ -1790,12 +1788,12 @@
                 74
             ]
         },
-        "Happy Chaos f213": {
+        "Happy _ Chaos": {
             "Bars": [
                 74
             ]
         },
-        "Rina": {
+        "͘Rina": {
             "Tier": 6,
             "Color": "FF69B4",
             "Bars": [
@@ -1849,6 +1847,25 @@
         "knifeYTking": {
             "Bars": [
                 77
+            ]
+        },
+        "BlueDragonVR": {
+            "Tier": 5,
+            "Color": "0073E6",
+            "Bars": [
+                78
+            ]
+        },
+        "Pinkiex": {
+            "Tier": 5,
+            "Color": "F8C8DC",
+            "Bars": [
+                79
+            ]
+        },
+        "Alpha King": {
+            "Bars": [
+                79
             ]
         },
         "SLAMjam439": {
@@ -2155,9 +2172,6 @@
         "Haru Kaneyashi": {
             "DVC18": true
         },
-        "Sħa̷đɇđØn̷ɏx": {
-            "DVC18": true
-        },
         "Havoc_Akuma": {
             "DVC18": true
         },
@@ -2361,6 +2375,9 @@
         "daftkunt": {
             "DVC18": true
         },
+        "SparksTTV": {
+            "DVC18": true
+        },
         "Teal Roomie": {
             "DVC18": true
         },
@@ -2395,6 +2412,9 @@
             "DVC18": true
         },
         "Mysticc0-0": {
+            "DVC18": true
+        },
+        "GuardianFinnion": {
             "DVC18": true
         },
         "Stoner Rick": {
@@ -2743,6 +2763,7 @@
             "DVC21": true
         },
         "DiscipleShadow": {
+            "color": "0E3680",
             "DVC18": true,
             "DVC21": true
         },
@@ -2989,7 +3010,7 @@
         },
         "ღѕυηѕнιηє": {
             "Tier": 2,
-            "Color": "F8C8DC"
+            "Color": "CC397B"
         },
         "VRTender": {
             "Tier": 1,
