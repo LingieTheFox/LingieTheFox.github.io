@@ -1820,6 +1820,43 @@
                 79
             ]
         },
+        "~Zuelatak~": {
+            "Tier": 4,
+            "Color": "C4180C",
+            "Bars": [
+                80
+            ]
+        },
+        "BriannaBoonana": {
+            "Bars": [
+                80
+            ]
+        },
+        "Fainne": {
+            "Bars": [
+                80
+            ]
+        },
+        "Puggernauts": {
+            "Bars": [
+                80
+            ]
+        },
+        "Kremp": {
+            "Bars": [
+                80
+            ]
+        },
+        "C a m": {
+            "Bars": [
+                80
+            ]
+        },
+        "Chaotic Minion": {
+            "Bars": [
+                80
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -2124,6 +2161,10 @@
         "Yukiah": {
             "Tier": 2,
             "Color": "FFC0CB"
+        },
+        "BigMike589": {
+            "Tier": 1,
+            "Color": "800080"
         },
         "NightWolf08": {
             "DVC18": true
@@ -3006,6 +3047,10 @@
         "ThisIsNot2d": {
             "Tier": 1,
             "Color": "B026FF"
+        },
+        "Sleepy_Cupid-": {
+            "Tier": 1,
+            "Color": "FFFFFF"
         }
     },
     "GlobalMessage": {
