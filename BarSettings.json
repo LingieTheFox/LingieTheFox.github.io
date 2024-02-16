@@ -2163,6 +2163,10 @@
             "Tier": 2,
             "Color": "FFC0CB"
         },
+        "KingAce2k": {
+            "Tier": 5,
+            "Color": "6B38A7"
+        },
         "BigMike589": {
             "Tier": 1,
             "Color": "800080"
@@ -2432,6 +2436,21 @@
         },
         "GuardianFinnion": {
             "DVC18": true
+        },
+        "lilpeep20B13E": {
+            "DVC18": true
+        },
+        "AoSammy": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Reyradark": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Azazel Silvertongue": {
+            "DVC18": true,
+            "DVC21": true
         },
         "Stoner Rick": {
             "DVC18": true,
