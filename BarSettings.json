@@ -2159,6 +2159,11 @@
             "DVC18": true,
             "DVC21": true
         },
+        "x23gamex": {
+            "Tier": 2,
+            "Color": "800080",
+            "DVC18": true
+        },
         "Yukiah": {
             "Tier": 2,
             "Color": "FFC0CB"
@@ -2700,6 +2705,10 @@
             "DVC18": true,
             "DVC21": true
         },
+        "KIRITO5799817": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "KnightDude": {
             "DVC18": true,
             "DVC21": true
@@ -3081,6 +3090,10 @@
         "Sleepy_Cupid-": {
             "Tier": 1,
             "Color": "FFFFFF"
+        },
+        "TheKrieger": {
+            "Tier": 1,
+            "Color": "FF0000"
         }
     },
     "GlobalMessage": {
