@@ -489,7 +489,7 @@
             "Color": "00FFFF"
         },
         "milly13pop 63dc": {
-            "Tier": 1,
+            "Tier": 2,
             "Color": "FDB0C0"
         },
         "stormisback": {
@@ -2231,6 +2231,9 @@
             "DVC18": true
         },
         "lCloudzy": {
+            "DVC18": true
+        },
+        "Mango_poptart": {
             "DVC18": true
         },
         "toastazoid": {
