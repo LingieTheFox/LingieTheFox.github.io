@@ -1,0 +1,37 @@
+{
+    "Players": {
+        "Ace Sapphire": "S7",
+        "ツKATツ": "S6",
+        "AoSammy": "S6",
+        "FoxyLizzy": "S5",
+        "L1NKIN": "S5",
+        "GreeneRGB": "B4",
+        "Brunestud": "D2",
+        "AltoClefTV": "D3",
+        "_Dust_": "D2",
+        "JayCorak": "S1"
+
+    },
+    "Recipes": "",
+    "DrinkSkins": [ 0 ],
+    "TeamColor": "FFFFFF",
+    "CustomJoinMessage": "",
+    "Entitlements": "",
+    "Playlist1Name": "",
+    "Playlist2Name": "",
+    "Playlist3Name": "",
+    "DefaultBarLayout": 0,
+    "ColorPicker": false,
+    "VerifyOnStart": false,
+    "AllowDVCStaff": false,
+    "UseDVC18Plus": false,
+    "UseDVC21Plus": false,
+    "ReplaceGroupBanners": false,
+    "ReplacePhotoBanners": false,
+    "GroupBannerFrames": 1,
+    "GroupBannerTime": 10,
+    "GroupBannerDeviance": 0,
+    "PhotoBannerFrames": 1,
+    "PhotoBannerTime": 10,
+    "PhotoBannerDeviance": 0
+}

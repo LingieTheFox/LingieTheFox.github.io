@@ -80,7 +80,9 @@
         "Moon's Bar",
         "The Mad Bar",
         "Boom Box Bar",
-        "The Kingdom"
+        "The Kingdom",
+        "Hallucination Bar",
+        "The Dragons Den"
     ],
     "Players": {
         "Lingie": {
@@ -488,7 +490,7 @@
             "Tier": 5,
             "Color": "00FFFF"
         },
-        "milly13pop 63dc": {
+        "Milly13pop": {
             "Tier": 2,
             "Color": "FDB0C0"
         },
@@ -1545,11 +1547,6 @@
                 64
             ]
         },
-        "noomie89": {
-            "Bars": [
-                64
-            ]
-        },
         "WillowThorn21": {
             "Tier": 5,
             "Color": "83ED70",
@@ -1858,6 +1855,20 @@
                 80
             ]
         },
+        "penguinangel21": {
+            "Tier": 4,
+            "Color": "00FF00",
+            "Bars": [
+                81
+            ]
+        },
+        "Ace Sapphire": {
+            "Tier": 4,
+            "Color": "0000FF",
+            "Bars": [
+                82
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -1974,10 +1985,6 @@
         "NoNis": {
             "Tier": 2,
             "Color": "83B97C"
-        },
-        "Ace Sapphire": {
-            "Tier": 1,
-            "Color": "0000FF"
         },
         "CheeseNmac": {
             "Tier": 2,
@@ -2160,7 +2167,7 @@
             "DVC21": true
         },
         "x23gamex": {
-            "Tier": 2,
+            "Tier": 3,
             "Color": "800080",
             "DVC18": true
         },
@@ -2175,6 +2182,10 @@
         "BigMike589": {
             "Tier": 1,
             "Color": "800080"
+        },
+        "dawn'": {
+            "Tier": 1,
+            "Color": "FFC0CB"
         },
         "NightWolf08": {
             "DVC18": true
@@ -3089,7 +3100,7 @@
         },
         "Sleepy_Cupid-": {
             "Tier": 1,
-            "Color": "FFFFFF"
+            "Color": "00008B"
         },
         "TheKrieger": {
             "Tier": 1,
