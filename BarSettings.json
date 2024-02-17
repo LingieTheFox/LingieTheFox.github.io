@@ -170,7 +170,7 @@
             "DVC18": true,
             "DVC21": true
         },
-        "Savy Strawberry": {
+        "Savannah Berry": {
             "Tier": 6,
             "Bars": [
                 2
@@ -184,6 +184,15 @@
             "Bars": [
                 2
             ],
+            "Color": "C22121",
+            "DVC18": true,
+            "DVC21": true
+        },
+        "GhoulishOnibi": {
+            "Bars": [
+                2
+            ],
+            "Color": "00ec26",
             "DVC18": true,
             "DVC21": true
         },
