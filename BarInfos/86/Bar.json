@@ -1,6 +1,11 @@
 {
     "Players": {
-        "Rawrrawr": "S7"
+        "SoftboiLuci": "S7",
+        "Gingerlouie 268e": "S6",
+        "SoleSurvivor": "S6",
+        "tastybuds420 dae4": "S6",
+        "King Afton": "B4",
+        "Ghosteface": "D2"
     },
     "Recipes": "",
     "DrinkSkins": [ 0 ],
@@ -12,9 +17,9 @@
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
-    "VerifyOnStart": false,
+    "VerifyOnStart": true,
     "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,

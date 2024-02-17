@@ -85,7 +85,9 @@
         "The Dragons Den",
         "Galaxy Fox",
         "Night Sky Lounge",
-        "Progenitor"
+        "Progenitor",
+        "Tastys Tavern",
+        "Dystopia"
     ],
     "Players": {
         "Lingie": {
@@ -1956,6 +1958,37 @@
                 85
             ]
         },
+        "SoftboiLuci": {
+            "Tier": 4,
+            "color": "8f7dff",
+            "DVC18": true,
+            "Bars": [
+                86
+            ]
+        },
+        "Gingerlouie 268e": {
+            "Bars": [
+                86
+            ]
+        },
+        "SoleSurvivor": {
+            "Bars": [
+                86
+            ]
+        },
+        "tastybuds420 dae4": {
+            "Bars": [
+                86
+            ]
+        },
+        "Yukiah": {
+            "Tier": 4,
+            "color": "FFC0CB",
+            "DVC18": true,
+            "Bars": [
+                87
+            ]
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -2257,10 +2290,6 @@
             "Tier": 3,
             "Color": "800080",
             "DVC18": true
-        },
-        "Yukiah": {
-            "Tier": 2,
-            "Color": "FFC0CB"
         },
         "KingAce2k": {
             "Tier": 5,
@@ -3112,6 +3141,10 @@
             "DVC21": true
         },
         "UVDarkLight": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Manga101": {
             "DVC18": true,
             "DVC21": true
         },
