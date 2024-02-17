@@ -1,6 +1,15 @@
 {
     "Players": {
-        "Rawrrawr": "S7"
+        "DiscipleShadow": "S7",
+        "Yukioh_Yuki": "S6",
+        "TheCalamityF0x": "S6",
+        "Jack-0-Aces": "S6",
+
+        "Geeze_louise": "V1",
+        "LunaEclypse": "V1",
+        "dollarsign05 0e28": "V1",
+        "Dreammonic": "V1",
+        "Zetashirken": "V1"
     },
     "Recipes": "",
     "DrinkSkins": [ 0 ],
@@ -12,9 +21,9 @@
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
-    "VerifyOnStart": false,
-    "AllowDVCStaff": false,
-    "UseDVC18Plus": false,
+    "VerifyOnStart": true,
+    "AllowDVCStaff": true,
+    "UseDVC18Plus": true,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
     "ReplacePhotoBanners": false,

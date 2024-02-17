@@ -82,7 +82,10 @@
         "Boom Box Bar",
         "The Kingdom",
         "Hallucination Bar",
-        "The Dragons Den"
+        "The Dragons Den",
+        "Galaxy Fox",
+        "Night Sky Lounge",
+        "Progenitor"
     ],
     "Players": {
         "Lingie": {
@@ -256,6 +259,9 @@
         "InuWez": {
             "DVC18": true,
             "DVC21": true
+        },
+        "Pegles_": {
+            "DVC18": true
         },
         "KyraInsanity": {
             "Color": "048C7F",
@@ -692,7 +698,8 @@
         "Jack-0-Aces": {
             "DVC18": true,
             "Bars": [
-                14
+                14,
+                84
             ]
         },
         "ChillyTime": {
@@ -727,6 +734,11 @@
             ]
         },
         "Dūśtÿ": {
+            "Bars": [
+                16
+            ]
+        },
+        "ALEX_218": {
             "Bars": [
                 16
             ]
@@ -993,7 +1005,22 @@
                 32
             ]
         },
+        "Pirate Scurvy": {
+            "Bars": [
+                32
+            ]
+        },
+        "Winter Caverns": {
+            "Bars": [
+                32
+            ]
+        },
         "shortblue0": {
+            "Bars": [
+                32
+            ]
+        },
+        "PupXena": {
             "Bars": [
                 32
             ]
@@ -1819,6 +1846,8 @@
             ]
         },
         "Alpha King": {
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 79
             ]
@@ -1872,6 +1901,64 @@
             "Color": "0000FF",
             "Bars": [
                 82
+            ]
+        },
+        "AoSammy": {
+            "Tier": 5,
+            "Color": "800080",
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                83
+            ]
+        },
+        "GalaxyWolf174": {
+            "Bars": [
+                83
+            ]
+        },
+        "DiscipleShadow": {
+            "Tier": 5,
+            "color": "0E3680",
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                84
+            ]
+        },
+        "Yukioh_Yuki": {
+            "Bars": [
+                84
+            ]
+        },
+        "TheCalamityF0x": {
+            "Bars": [
+                84
+            ]
+        },
+        "Zetashirken": {
+            "Bars": [
+                85
+            ]
+        },
+        "Jagi Sama": {
+            "Bars": [
+                85
+            ]
+        },
+        "Rue Tempest": {
+            "Bars": [
+                85
+            ]
+        },
+        "HexieTheWitch": {
+            "Bars": [
+                85
+            ]
+        },
+        "RUBYZHU": {
+            "Bars": [
+                85
             ]
         },
         "SLAMjam439": {
@@ -2192,6 +2279,10 @@
             "Tier": 1,
             "Color": "FFC0CB"
         },
+        "Zirra": {
+            "Tier": 2,
+            "Color": "91672C"
+        },
         "NightWolf08": {
             "DVC18": true
         },
@@ -2389,6 +2480,9 @@
         "FroggoBonano": {
             "DVC18": true
         },
+        "ＲＥＶＩＩ": {
+            "DVC18": true
+        },
         "BlixertheMochi": {
             "DVC18": true
         },
@@ -2449,7 +2543,19 @@
         "NickTheRican": {
             "DVC18": true
         },
+        "FearsomeBeast": {
+            "DVC18": true
+        },
         "MrKing27": {
+            "DVC18": true
+        },
+        "Sean Foxtail": {
+            "DVC18": true
+        },
+        "SomeCanadianGuy": {
+            "DVC18": true
+        },
+        "HikaruTheDoggo": {
             "DVC18": true
         },
         "Mysticc0-0": {
@@ -2461,11 +2567,15 @@
         "lilpeep20B13E": {
             "DVC18": true
         },
-        "AoSammy": {
+        "Reyradark": {
             "DVC18": true,
             "DVC21": true
         },
-        "Reyradark": {
+        "winkabee": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "krazykayyz3132": {
             "DVC18": true,
             "DVC21": true
         },
@@ -2689,6 +2799,18 @@
             "DVC18": true,
             "DVC21": true
         },
+        "Northern Terror": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "ﾒôSASSYSAS420": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "OBSIDIAN-KING": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "∗Corkie": {
             "DVC18": true,
             "DVC21": true
@@ -2827,11 +2949,6 @@
             "DVC21": true
         },
         "Siren's Call 6455": {
-            "DVC18": true,
-            "DVC21": true
-        },
-        "DiscipleShadow": {
-            "color": "0E3680",
             "DVC18": true,
             "DVC21": true
         },
@@ -3110,6 +3227,10 @@
         "TheKrieger": {
             "Tier": 1,
             "Color": "FF0000"
+        },
+        "Taylin28": {
+            "Tier": 1,
+            "Color": "B00B69"
         }
     },
     "GlobalMessage": {

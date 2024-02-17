@@ -1,6 +1,7 @@
 {
     "Players": {
-        "Rawrrawr": "S7"
+        "AoSammy": "S7",
+        "GalaxyWolf174": "S6"
     },
     "Recipes": "",
     "DrinkSkins": [ 0 ],
@@ -12,8 +13,8 @@
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
-    "VerifyOnStart": false,
-    "AllowDVCStaff": false,
+    "VerifyOnStart": true,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,
