@@ -1989,6 +1989,11 @@
                 87
             ]
         },
+        "Reyradark": {
+            "Tier": 6,
+            "DVC18": true,
+            "DVC21": true
+        },
         "SLAMjam439": {
             "Tier": 2,
             "DVC18": true,
@@ -2590,10 +2595,6 @@
         },
         "lilpeep20B13E": {
             "DVC18": true
-        },
-        "Reyradark": {
-            "DVC18": true,
-            "DVC21": true
         },
         "winkabee": {
             "DVC18": true,
