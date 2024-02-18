@@ -1,19 +1,19 @@
 {
     "Players": {
-        "Rawrrawr": "S7"
+        "HeadspaceOreo": "S7"
     },
     "Recipes": "",
     "DrinkSkins": [ 0 ],
     "TeamColor": "FFFFFF",
     "CustomJoinMessage": "",
     "Entitlements": "",
-    "Playlist1Name": "",
+    "Playlist1Name": "Lackadaisy Inspired Playlist",
     "Playlist2Name": "",
     "Playlist3Name": "",
     "DefaultBarLayout": 0,
     "ColorPicker": false,
-    "VerifyOnStart": false,
-    "AllowDVCStaff": false,
+    "VerifyOnStart": true,
+    "AllowDVCStaff": true,
     "UseDVC18Plus": false,
     "UseDVC21Plus": false,
     "ReplaceGroupBanners": false,

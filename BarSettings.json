@@ -1998,6 +1998,37 @@
                 87
             ]
         },
+        "HeadspaceOreo": {
+            "Tier": 4,
+            "color": "FF0000",
+            "Bars": [
+                88
+            ]
+        },
+        "H̴o̴l̴l̴o̴w̴": {
+            "Tier": 5,
+            "color": "8B0000",
+            "Bars": [
+                89
+            ]
+        },
+        "Popsicle_urbby": {
+            "Bars": [
+                89
+            ]
+        },
+        "LoppyDaCutie": {
+            "Tier": 5,
+            "color": "00FF00",
+            "Bars": [
+                90
+            ]
+        },
+        "Turbo_Torino": {
+            "Bars": [
+                90
+            ]
+        },
         "Reyradark": {
             "Tier": 6,
             "DVC18": true,
@@ -2168,7 +2199,7 @@
         },
         "TA TripleJ": {
             "Tier": 2,
-            "Color": "872A96",
+            "Color": "FF0000",
             "DVC18": true
         },
         "Linak47": {
@@ -2320,6 +2351,12 @@
         "Zirra": {
             "Tier": 2,
             "Color": "91672C"
+        },
+        "Mute_Death": {
+            "Tier": 2,
+            "Color": "ffb7c5",
+            "DVC18": true,
+            "DVC21": true
         },
         "NightWolf08": {
             "DVC18": true
@@ -2789,6 +2826,10 @@
             "DVC18": true,
             "DVC21": true
         },
+        "jrawesome567": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "Kultεʀgειst": {
             "DVC18": true,
             "DVC21": true
@@ -2914,6 +2955,14 @@
             "DVC21": true
         },
         "Cobby23": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Davey_Boi_VR": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Evening Newbs": {
             "DVC18": true,
             "DVC21": true
         },
