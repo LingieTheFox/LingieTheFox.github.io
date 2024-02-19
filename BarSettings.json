@@ -2024,7 +2024,9 @@
             "color": "00FF00",
             "Bars": [
                 90
-            ]
+            ],
+            "DVC18": true,
+            "DVC21": true
         },
         "Turbo_Torino": {
             "Bars": [
