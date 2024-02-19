@@ -2362,6 +2362,10 @@
             "DVC18": true,
             "DVC21": true
         },
+        "SnowyDeMo": {
+            "Tier": 3,
+            "Color": "0000FF"
+        },
         "NightWolf08": {
             "DVC18": true
         },
@@ -2611,6 +2615,9 @@
             "DVC18": true
         },
         "Playnation": {
+            "DVC18": true
+        },
+        "FallenLumina": {
             "DVC18": true
         },
         "Nonak121": {
@@ -3063,6 +3070,10 @@
             "DVC18": true,
             "DVC21": true
         },
+        "kaneki_kenk": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "Darkedge2285": {
             "Tier": 1,
             "Color": "ADD8E6",
@@ -3156,6 +3167,10 @@
             "DVC21": true
         },
         "losernerd115": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "CDR_Phantom": {
             "DVC18": true,
             "DVC21": true
         },
