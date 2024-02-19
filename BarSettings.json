@@ -2366,6 +2366,10 @@
             "Tier": 3,
             "Color": "0000FF"
         },
+        "CDR_Phantom": {
+            "Tier": 3,
+            "Color": "7300FF"
+        },
         "NightWolf08": {
             "DVC18": true
         },
