@@ -1927,7 +1927,7 @@
         },
         "DiscipleShadow": {
             "Tier": 5,
-            "color": "0E3680",
+            "Color": "0E3680",
             "DVC18": true,
             "DVC21": true,
             "Bars": [
@@ -1971,7 +1971,7 @@
         },
         "SoftboiLuci": {
             "Tier": 4,
-            "color": "8f7dff",
+            "Color": "8f7dff",
             "DVC18": true,
             "Bars": [
                 86
@@ -1994,7 +1994,7 @@
         },
         "Yukiah": {
             "Tier": 4,
-            "color": "FFC0CB",
+            "Color": "FFC0CB",
             "DVC18": true,
             "Bars": [
                 87
@@ -2002,14 +2002,14 @@
         },
         "HeadspaceOreo": {
             "Tier": 4,
-            "color": "FF0000",
+            "Color": "FF0000",
             "Bars": [
                 88
             ]
         },
         "H̴o̴l̴l̴o̴w̴": {
             "Tier": 5,
-            "color": "8B0000",
+            "Color": "8B0000",
             "Bars": [
                 89
             ]
