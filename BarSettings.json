@@ -2368,7 +2368,9 @@
         },
         "CDR_Phantom": {
             "Tier": 3,
-            "Color": "7300FF"
+            "Color": "7300FF",
+            "DVC18": true,
+            "DVC21": true
         },
         "NightWolf08": {
             "DVC18": true
@@ -3171,10 +3173,6 @@
             "DVC21": true
         },
         "losernerd115": {
-            "DVC18": true,
-            "DVC21": true
-        },
-        "CDR_Phantom": {
             "DVC18": true,
             "DVC21": true
         },
