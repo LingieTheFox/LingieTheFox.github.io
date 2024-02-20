@@ -2373,6 +2373,10 @@
             "DVC18": true,
             "DVC21": true
         },
+        "android3k": {
+            "Tier": 3,
+            "Color": "800080"
+        },
         "NightWolf08": {
             "DVC18": true
         },
@@ -2510,7 +2514,7 @@
         },
         "Sad_Zenitsu": {
             "tier": 1,
-            "color": "FF0000",
+            "Color": "FF0000",
             "DVC18": true
         },
         "ᴅᴀʜʟɪᴀྉ": {
@@ -2820,7 +2824,7 @@
         },
         "BoG Bryce": {
             "tier": 1,
-            "color": "FF0000",
+            "Color": "FF0000",
             "DVC18": true,
             "DVC21": true
         },
@@ -3001,11 +3005,12 @@
             "DVC21": true
         },
         "NPC`": {
-            "color": "FFD700",
+            "Color": "FFD700",
             "DVC18": true,
             "DVC21": true
         },
         "X": {
+            "Color": "FFD700",
             "DVC18": true,
             "DVC21": true
         },
