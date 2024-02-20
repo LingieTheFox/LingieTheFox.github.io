@@ -2016,6 +2016,7 @@
             ]
         },
         "Popsicle_urbby": {
+            "Color": "530000",
             "Bars": [
                 89
             ]
@@ -2669,6 +2670,10 @@
         },
         "lilpeep20B13E": {
             "DVC18": true
+        },
+        "The Wild Family": {
+            "DVC18": true,
+            "DVC21": true
         },
         "ZeniFoox": {
             "DVC18": true,
