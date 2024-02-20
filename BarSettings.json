@@ -303,24 +303,6 @@
                 9
             ]
         },
-        "FirecatStudios": {
-            "Tier": 4,
-            "DVC18": true,
-            "DVC21": true,
-            "Color": "FF0000",
-            "JoinMessage": "Not Configured",
-            "Bars": [
-                6
-            ]
-        },
-        "CarolineLeonaCC": {
-            "DVC18": true,
-            "DVC21": true,
-            "Color": "4DD2FF",
-            "Bars": [
-                6
-            ]
-        },
         "Izuki Moon": {
             "DVC18": true,
             "DVC21": true,
@@ -469,6 +451,24 @@
         "Kimo_Nekowo": {
             "Bars": [
                 5
+            ]
+        },
+        "FirecatStudios": {
+            "Tier": 4,
+            "DVC18": true,
+            "DVC21": true,
+            "Color": "FF0000",
+            "JoinMessage": "Not Configured",
+            "Bars": [
+                6
+            ]
+        },
+        "CarolineLeonaCC": {
+            "DVC18": true,
+            "DVC21": true,
+            "Color": "4DD2FF",
+            "Bars": [
+                6
             ]
         },
         "Ko'tu ヅ": {
