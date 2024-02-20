@@ -3365,6 +3365,12 @@
         "Taylin28": {
             "Tier": 1,
             "Color": "B00B69"
+        },
+        "SpicyNewt": {
+            "Tier": 1,
+            "Color": "800080",
+            "DVC18": true,
+            "DVC21": true
         }
     },
     "GlobalMessage": {
