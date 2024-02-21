@@ -92,7 +92,8 @@
         "The Whipped Cream Club",
         "The Green Eyes Hub",
         "Anime Fan Bar",
-        "Chroma Conclave"
+        "Chroma Conclave",
+        "Lunar Melt"
     ],
     "Players": {
         "Lingie": {
@@ -2066,6 +2067,29 @@
                 92
             ]
         },
+        "TA TripleJ": {
+            "Tier": 4,
+            "Color": "FF5555",
+            "DVC18": true,
+            "Bars": [
+                93
+            ]
+        },
+        "MeltyMooncakes": {
+            "Bars": [
+                93
+            ]
+        },
+        "MLIXY MILKY": {
+            "Bars": [
+                93
+            ]
+        },
+        "Kidchaos2796": {
+            "Bars": [
+                93
+            ]
+        },
         "Reyradark": {
             "Tier": 6,
             "DVC18": true,
@@ -2233,11 +2257,6 @@
             "Color": "872A96",
             "DVC18": true,
             "DVC21": true
-        },
-        "TA TripleJ": {
-            "Tier": 2,
-            "Color": "FF0000",
-            "DVC18": true
         },
         "Linak47": {
             "Tier": 3,
@@ -3196,6 +3215,10 @@
             "DVC21": true
         },
         "BananaaBreadd": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "CJ_in_VR666 f187": {
             "DVC18": true,
             "DVC21": true
         },
