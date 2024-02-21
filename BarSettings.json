@@ -1422,7 +1422,7 @@
                 50
             ]
         },
-        "HoyaMightKHS": {
+        "-Hoyasis-": {
             "Tier": 4,
             "Color": "0000FF",
             "Bars": [
@@ -3439,6 +3439,6 @@
     },
     "GroupImages": 15,
     "PeopleImages": 15,
-    "MOTD": "<color=#00CCFF>New Patch is Live!</color>  [Feb 1st, 2024]\n\nAnother security update, and a new log in the security tab!  Sorry to all affected by bugs earlier.  If you find an instance that is still having trouble, just let 'em know a new version is live!  \n\nVisit our Discord: https://discord.gg/Duskview\n\n<size=100%>Hopefully I'll break things less :<  ~ <color=#AA00FF>Riney</color></size>",
+    "MOTD": "<size=130%><color=#00CCFF>Website is Live!</color>  [Feb 21st, 2024]\n<color=#FF9900>https://duskview.city</color></size>\n\nIt's time!  If you currently pledge to Duskview City Nights, all current features will be handled from the website!  Items for free users will also be rolling out.  To join, subscribe to our Patreon (including free subscriptions) at <color=#FF9900>https://patreon.com/duskview</color>\n\nAs always, visit our Discord: <color=#FF9900>https://discord.gg/Duskview</color>",
     "PatchNotes": " "
 }
