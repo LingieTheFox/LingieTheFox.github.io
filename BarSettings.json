@@ -90,7 +90,9 @@
         "Dystopia",
         "HeadspaceOreo's Drinky Place",
         "The Whipped Cream Club",
-        "The Green Eyes Hub"
+        "The Green Eyes Hub",
+        "Anime Fan Bar",
+        "Chroma Conclave"
     ],
     "Players": {
         "Lingie": {
@@ -744,17 +746,20 @@
             "Tier": 4,
             "Color": "FF69B4",
             "Bars": [
-                16
+                16,
+                91
             ]
         },
         "Dūśtÿ": {
             "Bars": [
-                16
+                16,
+                91
             ]
         },
         "ALEX_218": {
             "Bars": [
-                16
+                16,
+                91
             ]
         },
         "her yang": {
@@ -2024,15 +2029,41 @@
         "LoppyDaCutie": {
             "Tier": 5,
             "Color": "00FF00",
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 90
-            ],
-            "DVC18": true,
-            "DVC21": true
+            ]
         },
         "Turbo_Torino": {
             "Bars": [
                 90
+            ]
+        },
+        "The Wild Family": {
+            "Tier": 4,
+            "Color": "080080",
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                92
+            ]
+        },
+        "Gazò": {
+            "Bars": [
+                92
+            ]
+        },
+        "fearlessmean": {
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                92
+            ]
+        },
+        "~SlimeSiren~": {
+            "Bars": [
+                92
             ]
         },
         "Reyradark": {
@@ -2670,10 +2701,6 @@
         },
         "lilpeep20B13E": {
             "DVC18": true
-        },
-        "The Wild Family": {
-            "DVC18": true,
-            "DVC21": true
         },
         "ZeniFoox": {
             "DVC18": true,
