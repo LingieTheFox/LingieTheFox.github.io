@@ -3031,6 +3031,10 @@
             "DVC18": true,
             "DVC21": true
         },
+        "Biff Tannen": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "༒GðßlïñKïñg༒": {
             "DVC18": true,
             "DVC21": true
@@ -3334,6 +3338,10 @@
             "DVC18": true,
             "DVC21": true
         },
+        "Mia372": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "Arie²": {
             "DVC18": true,
             "DVC21": true
@@ -3431,6 +3439,10 @@
             "Color": "800080",
             "DVC18": true,
             "DVC21": true
+        },
+        "TurboTheProto": {
+            "Tier": 1,
+            "Color": "FFFFFF"
         }
     },
     "GlobalMessage": {
