@@ -2402,7 +2402,9 @@
         },
         "dawn'": {
             "Tier": 1,
-            "Color": "FFC0CB"
+            "Color": "FFC0CB",
+            "DVC18": true,
+            "DVC21": true
         },
         "Zirra": {
             "Tier": 2,
@@ -2664,6 +2666,9 @@
         "Tw01nch": {
             "DVC18": true
         },
+        "Voidcore_": {
+            "DVC18": true
+        },
         "Stardustt05": {
             "DVC18": true
         },
@@ -2881,6 +2886,14 @@
             "DVC18": true,
             "DVC21": true
         },
+        "Flave": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "WasabiGumm 967d": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "BoG Bryce": {
             "tier": 1,
             "Color": "FF0000",
@@ -3004,6 +3017,10 @@
             "DVC21": true
         },
         "Mochesemo": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "~ෆMistyෆ~": {
             "DVC18": true,
             "DVC21": true
         },
