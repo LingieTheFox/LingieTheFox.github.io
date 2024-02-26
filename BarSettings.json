@@ -90,7 +90,10 @@
         "Dystopia",
         "HeadspaceOreo's Drinky Place",
         "The Whipped Cream Club",
-        "The Green Eyes Hub"
+        "The Green Eyes Hub",
+        "Anime Fan Bar",
+        "Chroma Conclave",
+        "Lunar Melt"
     ],
     "Players": {
         "Lingie": {
@@ -744,17 +747,20 @@
             "Tier": 4,
             "Color": "FF69B4",
             "Bars": [
-                16
+                16,
+                91
             ]
         },
         "Dūśtÿ": {
             "Bars": [
-                16
+                16,
+                91
             ]
         },
         "ALEX_218": {
             "Bars": [
-                16
+                16,
+                91
             ]
         },
         "her yang": {
@@ -1416,7 +1422,7 @@
                 50
             ]
         },
-        "HoyaMightKHS": {
+        "-Hoyasis-": {
             "Tier": 4,
             "Color": "0000FF",
             "Bars": [
@@ -2024,15 +2030,64 @@
         "LoppyDaCutie": {
             "Tier": 5,
             "Color": "00FF00",
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 90
-            ],
-            "DVC18": true,
-            "DVC21": true
+            ]
         },
         "Turbo_Torino": {
             "Bars": [
                 90
+            ]
+        },
+        "The Wild Family": {
+            "Tier": 4,
+            "Color": "080080",
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                92
+            ]
+        },
+        "Gazò": {
+            "Bars": [
+                92
+            ]
+        },
+        "fearlessmean": {
+            "DVC18": true,
+            "DVC21": true,
+            "Bars": [
+                92
+            ]
+        },
+        "~SlimeSiren~": {
+            "Bars": [
+                92
+            ]
+        },
+        "TA TripleJ": {
+            "Tier": 4,
+            "Color": "FF5555",
+            "DVC18": true,
+            "Bars": [
+                93
+            ]
+        },
+        "MeltyMooncakes": {
+            "Bars": [
+                93
+            ]
+        },
+        "MLIXY MILKY": {
+            "Bars": [
+                93
+            ]
+        },
+        "Kidchaos2796": {
+            "Bars": [
+                93
             ]
         },
         "Reyradark": {
@@ -2203,11 +2258,6 @@
             "DVC18": true,
             "DVC21": true
         },
-        "TA TripleJ": {
-            "Tier": 2,
-            "Color": "FF0000",
-            "DVC18": true
-        },
         "Linak47": {
             "Tier": 3,
             "Color": "B026FF",
@@ -2352,7 +2402,9 @@
         },
         "dawn'": {
             "Tier": 1,
-            "Color": "FFC0CB"
+            "Color": "FFC0CB",
+            "DVC18": true,
+            "DVC21": true
         },
         "Zirra": {
             "Tier": 2,
@@ -2614,6 +2666,9 @@
         "Tw01nch": {
             "DVC18": true
         },
+        "Voidcore_": {
+            "DVC18": true
+        },
         "Stardustt05": {
             "DVC18": true
         },
@@ -2670,10 +2725,6 @@
         },
         "lilpeep20B13E": {
             "DVC18": true
-        },
-        "The Wild Family": {
-            "DVC18": true,
-            "DVC21": true
         },
         "ZeniFoox": {
             "DVC18": true,
@@ -2835,6 +2886,14 @@
             "DVC18": true,
             "DVC21": true
         },
+        "Flave": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "WasabiGumm 967d": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "BoG Bryce": {
             "tier": 1,
             "Color": "FF0000",
@@ -2961,6 +3020,10 @@
             "DVC18": true,
             "DVC21": true
         },
+        "~ෆMistyෆ~": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "KIRITO5799817": {
             "DVC18": true,
             "DVC21": true
@@ -2982,6 +3045,10 @@
             "DVC21": true
         },
         "KONATAxGAMING": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Biff Tannen": {
             "DVC18": true,
             "DVC21": true
         },
@@ -3172,6 +3239,10 @@
             "DVC18": true,
             "DVC21": true
         },
+        "CJ_in_VR666 f187": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "skelico": {
             "DVC18": true,
             "DVC21": true
@@ -3284,6 +3355,10 @@
             "DVC18": true,
             "DVC21": true
         },
+        "Mia372": {
+            "DVC18": true,
+            "DVC21": true
+        },
         "Arie²": {
             "DVC18": true,
             "DVC21": true
@@ -3381,6 +3456,10 @@
             "Color": "800080",
             "DVC18": true,
             "DVC21": true
+        },
+        "TurboTheProto": {
+            "Tier": 1,
+            "Color": "FFFFFF"
         }
     },
     "GlobalMessage": {
@@ -3389,6 +3468,6 @@
     },
     "GroupImages": 15,
     "PeopleImages": 15,
-    "MOTD": "<color=#00CCFF>New Patch is Live!</color>  [Feb 1st, 2024]\n\nAnother security update, and a new log in the security tab!  Sorry to all affected by bugs earlier.  If you find an instance that is still having trouble, just let 'em know a new version is live!  \n\nVisit our Discord: https://discord.gg/Duskview\n\n<size=100%>Hopefully I'll break things less :<  ~ <color=#AA00FF>Riney</color></size>",
+    "MOTD": "<size=130%><color=#00CCFF>Website is Live!</color>  [Feb 21st, 2024]\n<color=#FF9900>https://duskview.city</color></size>\n\nIt's time!  If you currently pledge to Duskview City Nights, all current features will be handled from the website!  Items for free users will also be rolling out.  To join, subscribe to our Patreon (including free subscriptions) at <color=#FF9900>https://patreon.com/duskview</color>\n\nAs always, visit our Discord: <color=#FF9900>https://discord.gg/Duskview</color>",
     "PatchNotes": " "
 }
