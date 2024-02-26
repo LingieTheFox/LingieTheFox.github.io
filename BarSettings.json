@@ -2023,6 +2023,8 @@
         },
         "Popsicle_urbby": {
             "Color": "530000",
+            "DVC18": true,
+            "DVC21": true,
             "Bars": [
                 89
             ]
@@ -2699,6 +2701,9 @@
         "genocide12ink": {
             "DVC18": true
         },
+        "mikaliis": {
+            "DVC18": true
+        },
         "NickTheRican": {
             "DVC18": true
         },
@@ -2739,6 +2744,10 @@
             "DVC21": true
         },
         "krazykayyz3132": {
+            "DVC18": true,
+            "DVC21": true
+        },
+        "Aqua Regia": {
             "DVC18": true,
             "DVC21": true
         },
