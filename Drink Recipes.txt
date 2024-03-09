@@ -1,9 +1,21 @@
+Sunset Drinks:
 4231500340|2103014110|7252205201|7173055180|12725120040
-
 Sunset|The Good Boy Blend™|Rejuvenation Potion|Hanabanablizzard|The Sundowner
 
 
-
+Classic Drinks:
 1232000090|5102500010|1342330293|3122050011
-
 Jack n' Coke|Rosé|Whiskey Sour|Mojito
+
+
+Bar 14:
+A341204200|3272050045|1431035501|2133000300|7441205501|5412521202|8372505044
+Nyaa|Catnip|Wholesome|Cheese Stick|Cat-A-Tonic|Dooge|Heat
+
+Bar 15:
+2362024017|1312034017|0252300080|7132035180|A230324001|4230324001|9432000001|2172505481|5242030281|4273220200|6152035020|3372401501|1000050500|7002025191|2002542181|B002153110|9000000041|7170000522|1372335041|5371512303
+High Tide|Low Tide|Plunder Punch|Captain's Cooler|Mermaid Mist Martini|Kraken's Kiss|Pirate's Grog|Shipwreck Sazerac|The Sea Serpent|Admiral's Apertif|Mariner Margarita|Cannonball Shot|Tidal Tea|Ocean Breeze|Mermaid's Melody|Paradise Potions|Crewmate|Iceberg|Davy Jones|The Dingey
+
+Bar 94:
+8252012390|5272012391|8463332501|1372512280|9152055191|A353151280|31720005B3|7352003280|7273354581|4232312390|8302133581
+Blue Inferno|Blue Inferno Deluxe|Mad Dog of Shimano|Dragon of Dojima|Sky Finance|Edgerunner|Flashbang|Space Cat's Journey|The Deadeye|Sparkling Lily|Jordan's Mythical Flower
