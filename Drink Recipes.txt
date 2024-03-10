@@ -19,3 +19,8 @@ High Tide|Low Tide|Plunder Punch|Captain's Cooler|Mermaid Mist Martini|Kraken's 
 Bar 94:
 8252012390|5272012391|8463332501|1372512280|9152055191|A353151280|31720005B3|7352003280|7273354581|4232312390|8302133581
 Blue Inferno|Blue Inferno Deluxe|Mad Dog of Shimano|Dragon of Dojima|Sky Finance|Edgerunner|Flashbang|Space Cat's Journey|The Deadeye|Sparkling Lily|Jordan's Mythical Flower
+
+
+Bar 154:
+3473000110|2150000200|A442122300|6323301053|9210304045|4132111100|8000000005|4001420200|7001520211|1002352040|5112402253
+Cheese Sauce|Cheese Stick|Blue Bliss|Baby Bell|Drunken Goat|Guzzling Gouda|Cheese|Cheese Puff|Fondue|Ogre Cheese|Daddy Derp (SECRET)
