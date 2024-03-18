@@ -24,3 +24,8 @@ Blue Inferno|Blue Inferno Deluxe|Mad Dog of Shimano|Dragon of Dojima|Sky Finance
 Bar 154:
 3473000110|2150000200|A442122300|6323301053|9210304045|4132111100|8000000005|4001420200|7001520211|1002352040|5112402253
 Cheese Sauce|Cheese Stick|Blue Bliss|Baby Bell|Drunken Goat|Guzzling Gouda|Cheese|Cheese Puff|Fondue|Ogre Cheese|Daddy Derp (SECRET)
+
+
+Bar 179:
+1223030540|4162252004|8471555044|6443051004|3171050244|9232450064|0203000501
+Irish Coffee|Irish Mule|Black Velvet|Dublin Donkey|Irish Sour|Irish Buck|Guinness
