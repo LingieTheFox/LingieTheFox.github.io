@@ -29,3 +29,15 @@ Cheese Sauce|Cheese Stick|Blue Bliss|Baby Bell|Drunken Goat|Guzzling Gouda|Chees
 Bar 179:
 1223030540|4162252004|8471555044|6443051004|3171050244|9232450064|0203000501
 Irish Coffee|Irish Mule|Black Velvet|Dublin Donkey|Irish Sour|Irish Buck|Guinness
+
+
+
+{
+  "customMenu": {
+    "codes": "1330050100|3735555F78|2320555937|2532055916|00252101379|0025450962",
+    "names": "Glass of Tears|Death|The Glaceon|Plasma Forest|Dragon's Blood|The Anubis"
+  }
+}
+
+
+
